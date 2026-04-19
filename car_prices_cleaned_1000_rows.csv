@@ -1,0 +1,1001 @@
+﻿year,make,model,trim,body,transmission,vin,state,condition,odometer,color,interior,seller,mmr,sellingprice,sale_date,sale_time
+2005,Audi,allroad quattro,Base,Wagon,Automatic,wa1yd64b45n024988,CA,19,121261,Blue,Black,k & s auto sales,4975,2900,2014-12-16,12:30:00
+2014,Dodge,Journey,SXT,SUV,Automatic,3c4pdcbb1et180571,CA,3,31222,—,Black,hertz corporation/gdp,14750,14500,2014-12-16,12:30:00
+2012,Hyundai,Sonata,GLS,Sedan,Automatic,5npeb4ac0ch395644,CA,41,39132,Blue,Gray,hyundai motor finance,10950,12100,2014-12-16,12:00:00
+2012,Kia,Sorento,LX,SUV,Automatic,5xykt3a64cg309425,CA,48,53444,White,Beige,kia motors america  inc,12550,14500,2014-12-16,12:30:00
+2014,Mazda,Mazda6,i Touring,Sedan,Automatic,jm1gj1t67e1146883,CA,41,15364,White,Black,mazda motors of america inc.,18950,19000,2014-12-16,12:30:00
+2014,Nissan,Sentra,S,Sedan,Automatic,3n1ab7ap9el625819,CA,48,12424,Blue,Gray,nissan dealer blend/tustin nissan,13000,12250,2014-12-16,12:30:00
+2000,Buick,LeSabre,Limited,Sedan,Automatic,1g4hr54k5yu270018,FL,26,110892,Beige,Tan,leedom capital corporation/automaxx,2100,1800,2014-12-17,17:15:00
+2011,Chevrolet,Camaro,2LT,Convertible,Automatic,2g1fc3dd3b9210397,CA,38,32841,Black,Black,the car exchange,17350,18800,2014-12-17,12:30:00
+2011,Nissan,Altima,2.5,Sedan,Automatic,1n4al2ap5bn515946,CA,34,49945,White,Gray,nissan motor acceptance corporation,10600,11800,2014-12-17,12:30:00
+2013,Nissan,Sentra,SV,Sedan,Automatic,3n1ab7ap2dl684788,UT,32,43756,Black,Black,merchants automotive group,10150,9500,2014-12-17,11:30:00
+2005,Audi,A4,2.0T quattro,Sedan,Automatic,waudf68e65a504859,CA,28,98814,Blue,Black,premium auto wholesale,5725,6400,2014-12-18,12:00:00
+2008,Cadillac,DTS,Base,Sedan,Automatic,1g6kd57y58u129493,FL,31,110181,Gray,Beige,nicholas financial inc/clearwater,5350,5600,2014-12-18,15:01:00
+2003,Chevrolet,Impala,LS,Sedan,Automatic,2g1wh55k539143491,VA,19,111677,Burgundy,Gray,r k chevrolet inc,2450,1800,2014-12-18,09:35:00
+2011,Ford,Edge,SEL,SUV,Automatic,2fmdk3jc0bbb67901,CA,45,31651,Black,Black,ford motor credit company llc pd,18350,18600,2014-12-18,12:00:00
+2000,Ford,Expedition,Eddie Bauer,SUV,Automatic,1fmru1764ylb36097,CA,38,76091,Blue,Beige,gosch ford,1900,2800,2014-12-18,12:00:00
+2010,Ford,F-150,Platinum,SuperCrew,Automatic,1ftfw1ev7afa36155,MI,49,78782,White,Brown,kevins marysville auto sales inc,23400,25400,2014-12-18,09:30:00
+2006,Ford,Mustang,Standard,Coupe,Automatic,1zvft80n765242546,MI,37,43595,White,Black,dean sellers ford,7900,6900,2014-12-18,09:30:00
+2012,Honda,Civic,LX,Sedan,Automatic,19xfb2f59ce382947,CA,42,28391,White,Gray,ahfc/honda lease trust/hvt  inc.,11500,13000,2014-12-18,12:00:00
+2012,Infiniti,G Sedan,G37 Journey,G Sedan,Automatic,jn1cv6ap6cm936458,CA,43,26216,White,Black,nissan infiniti lt,22200,22750,2014-12-18,12:30:00
+2012,Kia,Soul,Base,Wagon,Manual,kndjt2a5xc7440580,VA,44,44530,White,Gray,brown honda,8975,8800,2014-12-18,09:35:00
+2010,Lexus,HS 250h,Base,Sedan,Automatic,jthbb1ba9a2015146,AZ,29,58122,Black,Beige,vip custom rides llc,15850,16000,2014-12-18,11:30:00
+2012,Nissan,Altima,2.5 S,Sedan,Automatic,1n4al2ap2cc172266,IL,28,35847,Black,Black,nissan-infiniti lt,12300,10900,2014-12-18,10:00:00
+2013,Nissan,Murano,SL,SUV,Automatic,jn8az1mw1dw323284,TN,44,23279,—,Beige,nissan north america inc.,22700,23200,2014-12-18,10:00:00
+2011,Saab,9-5,Turbo4 Premium,Sedan,Automatic,ys3gn4ar7b4003583,PR,45,74253,White,Black,scotiabank de puerto rico,11200,11500,2014-12-18,11:00:00
+2009,Honda,Accord,EX-L V-6,Sedan,Automatic,1hgcp36849a002477,PA,27,59177,White,Beige,jpmorgan chase bank n.a.,11500,11400,2014-12-19,09:00:00
+2014,Toyota,Camry,SE,Sedan,Automatic,4t1bf1fk2eu783890,FL,44,13219,White,Black,enterprise veh exchange/rental,17100,17200,2014-12-19,09:20:00
+2002,Toyota,Avalon,XLS,Sedan,Automatic,4t1bf28b62u208058,FL,2,166089,White,Beige,fiserv/independent bank,3250,2100,2014-12-22,08:30:00
+1998,Bmw,3 Series,318ti,Hatchback,Automatic,wbacg8328wkc83393,CA,28,183338,Green,Beige,volkswagen of murrieta,1250,1300,2014-12-23,12:30:00
+2004,Bmw,5 Series,525i,Sedan,Automatic,wbana535x4b854797,IL,33,130002,Black,Black,santander consumer,5075,4700,2014-12-23,10:00:00
+2003,Cadillac,Escalade,Base,SUV,Automatic,1gyek63n43r276668,MO,41,78136,White,Beige,elco chevrolet inc,6800,9300,2014-12-23,11:00:00
+2010,Chevrolet,Silverado 1500,LT,Crew Cab,Automatic,3gcrkse32ag120637,NE,38,94018,Blue,Black,woodhouse sioux city inc,18900,18800,2014-12-23,11:00:00
+2014,Dodge,Grand Caravan,SXT,Minivan,Automatic,2c4rdgcg8er265940,AZ,4,23069,Black,Black,chrysler group/hertz/pv holding/000gd,16650,15800,2014-12-23,11:00:00
+2012,Ford,Escape,Limited,SUV,Automatic,1fmcu9e70ckb07100,IL,44,76078,Blue,Tan,tdaf remarketing,13400,13600,2014-12-23,10:00:00
+2006,Ford,Explorer,Limited,SUV,Automatic,1fmeu75896ub47271,WI,27,76256,Silver,Black,zimbrick volkswagen of madison,7725,8300,2014-12-23,10:00:00
+2002,Ford,Explorer Sport,Choice,SUV,Automatic,1fmyu60e12uc67189,FL,38,148596,Gold,Tan,autonation ford jacksonville,1175,1800,2014-12-23,12:15:00
+2013,Ford,F-150,XLT,SuperCrew,Automatic,1ftfw1efxdfb47747,WA,44,39389,Blue,Gray,crossborder vehicle sales ltd,25200,25900,2014-12-23,14:30:00
+2014,Ford,Fiesta,S,Sedan,Manual,3fadp4aj7em239535,TN,49,5428,—,Gray,primeritus remarketing/compass bank,8925,8900,2014-12-23,10:30:00
+2010,Ford,Focus,SE,Sedan,Automatic,1fahp3fnxaw239837,TN,25,70712,—,Gray,gm financial,6375,6300,2014-12-23,10:30:00
+2003,Gmc,Safari,Base,Minivan,Automatic,1gkel19xx3b513479,MD,2,127971,Green,Gray,cashmoneycars,2625,3100,2014-12-23,09:30:00
+2006,Honda,Accord,LX Special Edition,Sedan,Automatic,1hgcm56336a181177,MA,38,140829,White,Tan,imperial chrysler dodge jeep corp,4825,4900,2014-12-23,10:00:00
+2007,Hyundai,Sonata,GLS,Sedan,Automatic,5npet46c27h269653,MA,19,86896,Blue,Gray,remarketing by ge/nextgear capital,4675,3000,2014-12-23,09:30:00
+2013,Hyundai,Tucson,GLS,SUV,Automatic,km8ju3ac6du754923,IL,5,3366,Gray,Black,tdaf remarketing,17700,17300,2014-12-23,10:00:00
+2011,Infiniti,G Sedan,G25x,G Sedan,Automatic,jn1dv6ar6bm651313,CO,43,50437,Silver,Black,infiniti financial services,15800,16000,2014-12-23,11:45:00
+2012,Lincoln,MKS,Base,Sedan,Automatic,1lnhl9dr3cg801701,TX,29,25791,—,Black,ford motor credit company llc,19150,16700,2014-12-23,14:00:00
+2011,Mazda,Mazda3,s Sport,Hatchback,Manual,jm1bl1k53b1464685,FL,39,34311,Gray,Black,jpmorgan chase bank n.a.,11450,11400,2014-12-23,09:30:00
+2002,Mercedes-Benz,M-Class,ML320,SUV,Automatic,4jgab54e22a357917,CA,2,146801,Silver,Black,gossler motors,3000,2800,2014-12-23,12:30:00
+2013,Nissan,Leaf,SV,Hatchback,Automatic,1n4az0cp7dc404880,TN,45,11579,—,Black,nissan-infiniti lt,14650,14600,2014-12-23,10:30:00
+2010,Nissan,Maxima,3.5 SV,Sedan,Automatic,1n4aa5ap2ac810777,TX,4,50518,White,Black,nissan motor acceptance corporation,13550,15200,2014-12-23,10:10:00
+2002,Nissan,Pathfinder,LE,SUV,Automatic,jn8dr09x02w651883,FL,21,119836,White,Black,lexus of tampa bay,3175,3100,2014-12-23,12:15:00
+2002,Porsche,911,Carrera,Convertible,Manual,wp0ca29932s653288,PA,47,109085,Silver,Black,all car care,14400,15500,2014-12-23,09:00:00
+2007,Volkswagen,Jetta,Wolfsburg Edition,Sedan,Manual,3vwef71k67m058602,AZ,19,105435,Gray,Gray,earnhardt,4475,3000,2014-12-23,11:00:00
+2014,Volvo,S60,T5,Sedan,Automatic,yv1612fs2e1291625,GA,46,10537,Blue,Beige,volvo na company cars/world omni,21800,22400,2014-12-23,13:00:00
+2007,Mercedes-Benz,M-Class,ML350,SUV,Automatic,4jgbb86e87a154962,CA,34,95897,Black,Black,wells fargo dealer services,11100,10250,2014-12-26,15:00:00
+2001,Chevrolet,Impala,Base,Sedan,Automatic,2g1wf55e719228622,PA,2,179172,Burgundy,Gray,purple heart services inc,1100,425,2014-12-29,12:32:00
+2011,Bmw,5 Series,528i,Sedan,Automatic,wbafr1c5xbc740537,TX,36,63452,Black,Tan,lease plan usa,22600,21600,2014-12-30,10:30:00
+2013,Chrysler,200,Touring,Sedan,Automatic,1c3ccbbb1dn636549,FL,48,12674,Gray,Black,chrysler capital,12100,11900,2014-12-30,12:05:00
+2004,Ford,F-150,FX4,SuperCrew,Automatic,1ftpw14554kc78427,TN,19,207442,Red,Gray,santander consumer,5475,4100,2014-12-30,10:30:00
+2007,Ford,F-150,XLT,Supercab,Automatic,1ftpx14v87fb09531,OH,49,68094,Red,Gray,kevin norden sales llc,11600,15500,2014-12-30,10:00:00
+2000,Ford,Mustang,Base,Coupe,Manual,1fafp4043yf153454,CA,24,147629,Red,Black,hertz remarketing,1225,700,2014-12-30,15:00:00
+2012,Gmc,Terrain,SLE-1,SUV,Automatic,2gkalmek9c6259065,OH,42,54858,Blue,Gray,pauley motor car co preowned vehicles llc,14200,14200,2014-12-30,09:30:00
+2012,Honda,Civic,EX-L,Sedan,Automatic,19xfb2f90ce329122,CA,19,14958,Gray,Gray,ahfc/honda lease trust/hvt  inc. eot,14150,12800,2014-12-30,15:00:00
+2012,Hyundai,Sonata,GLS,Sedan,Automatic,5npeb4ac5ch405293,FL,31,21059,Gray,Gray,hyundai motor finance,12250,12100,2014-12-30,09:30:00
+2003,Infiniti,I35,Base,Sedan,Automatic,jnkda31a93t111347,FL,34,121169,Green,Gray,lexus of clearwater,3075,4500,2014-12-30,12:15:00
+2012,Mercedes-Benz,E-Class,E350 Luxury 4MATIC,Sedan,Automatic,wddhf8jb5ca626891,OH,36,22944,Black,Off-White,mercedes-benz financial services,29500,28750,2014-12-30,09:30:00
+2014,Mini,Cooper Countryman,Base,Wagon,Automatic,wmwzb3c57ewr42073,OH,49,9021,Gray,—,bmw mini north america,18900,20250,2014-12-30,14:00:00
+2012,Volkswagen,CC,Lux Limited,Sedan,Automatic,wvwhn7an6ce524543,FL,28,78831,Blue,Black,autonation ford sanford,12350,12000,2014-12-30,09:15:00
+2010,Bmw,3 Series,328i,Coupe,Automatic,wbawb3c56ap139746,CA,38,53568,Red,Tan,mercedes benz of temecula,14900,16500,2014-12-31,12:15:00
+2013,Chevrolet,Sonic,LT,Sedan,Automatic,1g1jc5sh9d4177665,TX,5,22900,White,Gray,hopper motorplex inc,9875,10300,2014-12-31,10:15:00
+2005,Dodge,Durango,SLT,SUV,Automatic,1d4hd48d05f603494,NV,19,94726,Blue,Gray,wells fargo dealer services,5800,2700,2014-12-31,12:15:00
+2014,Ford,Focus,SE,Sedan,Automatic,1fadp3f24el177671,MO,38,32865,Silver,Black,avis corporation,11600,12000,2014-12-31,10:30:00
+2011,Ford,Fusion,SE,Sedan,Automatic,3fahp0ha7br167122,OH,29,125679,Gray,Black,dt credit corporation,6025,6500,2014-12-31,09:00:00
+2011,Honda,Insight,EX,Hatchback,Automatic,jhmze2h70bs006165,NV,35,58214,Black,Gray,ahfc/honda lease trust/hvt  inc.,9525,10600,2014-12-31,12:15:00
+2013,Hyundai,Elantra,GLS,Sedan,Automatic,5npdh4ae9dh335049,TX,42,41683,Black,Gray,avis corporation,11150,11400,2014-12-31,10:15:00
+2005,Kia,Sorento,LX,SUV,Automatic,kndjd733055427521,TX,28,236863,Gray,Gray,gm financial,1200,1500,2014-12-31,10:15:00
+2007,Nissan,Altima,2.5,Sedan,Automatic,1n4al21e77n447199,CA,19,92024,Gray,Gray,guard auto sales,5700,7000,2014-12-31,12:30:00
+1993,Toyota,Pickup,Deluxe,Extended Cab,Automatic,jt4rn93p5p5080320,TN,2,233911,Silver,Gray,toyota knoxville,1550,2000,2014-12-31,10:30:00
+2002,Volvo,S80,2.9,Sedan,Automatic,yv1ts92d121243934,CA,29,185801,Black,Gray,newport lexus,1250,800,2014-12-31,12:30:00
+2008,Bmw,1 Series,128i,Coupe,Automatic,wbaup73538vf06658,FL,35,107090,Blue,Tan,lauderdale imports ltd bmw pembrok pines,9600,8500,2015-01-02,09:35:00
+2012,Hyundai,Elantra,GLS,Sedan,Automatic,kmhdh4ae6cu443189,PA,37,25947,Silver,Gray,hyundai motor finance,10950,16900,2015-01-02,09:00:00
+2009,Mini,Cooper,S,Hatchback,Manual,wmwmf73539tt99754,PA,41,62580,Gray,Black,royal coast auto inc,8825,9000,2015-01-02,09:00:00
+2013,Chrysler,200,Touring,Sedan,Automatic,1c3ccbbb0dn538340,NC,41,28338,Silver,Black,chrysler capital,11350,12200,2015-01-05,01:30:00
+2014,Dodge,Charger,SE,Sedan,Automatic,2c3cdxbg9eh197942,FL,3,23604,Blue,Black,hertz corporation/gdp,16100,15500,2015-01-05,04:30:00
+2014,Dodge,Grand Caravan,SXT,Minivan,Automatic,2c4rdgcg3er253405,FL,3,25463,Blue,Black,hertz corporation/gdp,16500,16700,2015-01-05,04:30:00
+2007,Bmw,3 Series,328i,Coupe,Automatic,wbawb33577pv71139,GA,25,118081,Silver,Black,carworks inc,8450,8700,2015-01-06,05:00:00
+2013,Cadillac,SRX,Luxury,SUV,Automatic,3gyfnge37ds595025,GA,43,44512,Gray,Black,the hertz corporation,23900,23700,2015-01-06,01:30:00
+2009,Chevrolet,HHR,LT,Wagon,Automatic,3gnca53v29s504609,FL,1,122505,Gray,Black,wells fargo dealer services,4325,3400,2015-01-06,16:00:00
+2011,Chevrolet,Impala,LT Fleet,Sedan,Automatic,2g1wg5ek8b1178946,GA,25,103600,Silver,Gray,capital one auto finance,6075,5400,2015-01-06,01:30:00
+2011,Dodge,Avenger,Mainstreet,Sedan,Automatic,1b3bd1fb5bn559305,GA,26,79227,Black,Black,prestige financial services,7775,8400,2015-01-06,01:30:00
+2010,Dodge,Charger,SXT Fleet,Sedan,Automatic,2b3ca3cv6ah298698,GA,46,57854,Blue,Black,young motors llc,10600,12200,2015-01-06,01:30:00
+2004,Ford,Econoline Cargo,E-250,Van,Automatic,1ftne24w04hb30997,MO,3,148561,White,Gray,mike albert fleet solutions,2425,4400,2015-01-06,03:00:00
+2013,Ford,Edge,SEL,SUV,Automatic,2fmdk3j91dba77664,GA,37,19042,Silver,Black,ford motor credit company llc pd,21700,22900,2015-01-06,01:30:00
+2006,Ford,F-350 Super Duty,XL,Crew Cab,Automatic,1ftww33p16ea38819,OH,1,80930,Blue,Gray,gateway one lending & finance,17050,12250,2015-01-06,04:00:00
+2005,Infiniti,G35,Base,Sedan,Automatic,jnkcv51e45m206815,FL,28,238190,Red,Black,autonation nissan brandon,2400,3600,2015-01-06,18:00:00
+2014,Infiniti,Q50,Hybrid Sport,Sedan,Automatic,jn1av7ap1em691522,CA,46,4199,Black,Black,nissan north america inc.,31800,29500,2015-01-06,12:30:00
+2011,Jeep,Grand Cherokee,Laredo,SUV,Automatic,1j4rr4gg7bc737134,MO,41,40957,Silver,Black,american auto sales inc,21200,22800,2015-01-06,03:00:00
+2007,Jeep,Wrangler,X,SUV,Automatic,1j8fa24147l159823,GA,22,82977,Blue,Gray,santander consumer,11900,10600,2015-01-06,01:30:00
+2014,Kia,Optima,LX,Sedan,Automatic,5xxgm4a70eg296696,GA,44,50474,Silver,Gray,triangle rent a car,13800,13500,2015-01-06,01:30:00
+2012,Kia,Sedona,LX,Minivan,Automatic,kndmg4c70c6476098,FL,19,60502,Gray,Gray,dtg operations inc,9650,9600,2015-01-06,01:30:00
+2012,Lexus,IS 250,Base,Sedan,Automatic,jthbf5c28c5168525,FL,37,8488,Black,Gray,lexus financial services,23300,22200,2015-01-06,01:30:00
+2005,Mercedes-Benz,E-Class,E500,Sedan,Automatic,wdbuf70j75a696728,MO,34,116168,Silver,Black,first community credit union,6300,4800,2015-01-06,11:00:00
+2012,Nissan,Altima,2.5 S,Sedan,Automatic,1n4al2ap9cc190358,FL,46,26121,Gray,Black,nissan-infiniti lt,12750,12000,2015-01-06,13:00:00
+2013,Nissan,Altima,2.5,Sedan,Automatic,1n4al3ap0dc110615,CA,44,36218,White,Black,nissan north america inc.,13500,10750,2015-01-06,12:30:00
+2013,Toyota,4Runner,SR5,SUV,Automatic,jtebu5jr3d5132150,FL,38,40291,Black,Black,tdaf remarketing,26900,27000,2015-01-06,01:00:00
+2014,Volkswagen,Jetta,SE PZEV,Sedan,Automatic,3vwd17aj5em366309,GA,44,38497,White,Black,web auto special inc,12550,11900,2015-01-06,09:30:00
+2012,Volvo,S60,T5,Sedan,Automatic,yv1622fs6c2141196,CA,29,48812,Black,Black,ge fleet services for itself/servicer,14450,15250,2015-01-06,04:00:00
+2012,Fiat,500,Lounge,Hatchback,Automatic,3c3cffcr2ct335667,TX,34,65094,Red,Black,d&m leasing,8375,6900,2015-01-07,10:15:00
+2008,Ford,F-350 Super Duty,XLT,Supercab,Automatic,1ftwx31r08ed84915,UT,21,133470,White,Gray,excell auto center,13850,12500,2015-01-07,11:30:00
+2014,Ford,Focus,SE,Hatchback,Automatic,1fadp3k29el302962,TX,42,21734,Black,Black,avis budget group,12550,12100,2015-01-07,09:30:00
+2009,Ford,Focus,S,Sedan,Automatic,1fahp34n09w210376,TX,32,60916,White,Gray,santander consumer,5250,5600,2015-01-07,10:00:00
+2007,Hyundai,Accent,GLS,Sedan,Automatic,kmhcn46c47u152367,WI,19,94886,Blue,—,toyota financial services,3700,1300,2015-01-07,09:00:00
+2011,Nissan,Rogue,SV,SUV,Automatic,jn8as5mv5bw313731,NJ,42,42802,Purple,Gray,nissan-infiniti lt,13400,14100,2015-01-07,09:30:00
+2014,Subaru,XV Crosstrek,Hybrid,SUV,Automatic,jf2gpbcc3eh205138,NJ,48,11413,Green,Black,subaru of america,22300,21800,2015-01-07,09:15:00
+2010,Toyota,Camry,LE,Sedan,Automatic,4t4bf3ek5ar015527,MN,38,63225,Blue,Tan,brooklyn pk automotive inc,9225,10400,2015-01-07,10:30:00
+2014,Audi,A6,2.0T Premium quattro,Sedan,Automatic,wauffafc3en048003,FL,5,6339,Silver,Black,prestige motorcar imports inc,35800,34800,2015-01-08,10:30:00
+2011,Bmw,3 Series,328i,Sedan,Automatic,wbaph7c52be851906,FL,41,21389,Black,Tan,braman motorcars,22100,19000,2015-01-08,01:40:00
+2008,Chevrolet,Silverado 1500,Work Truck,Crew Cab,Automatic,3gcec13j18g238812,CA,32,70279,Gray,Beige,reliance motors llc,16600,18400,2015-01-08,12:00:00
+2013,Chevrolet,Sonic,LT,Hatchback,Automatic,1g1jc6shxd4214874,CA,24,38988,White,Black,avis corporation,9075,7700,2015-01-08,11:30:00
+2014,Chrysler,300,S,Sedan,Automatic,2c3ccabg1eh238872,TX,38,26251,Black,Black,budget of omaha/ars,23000,23600,2015-01-08,10:30:00
+2014,Chrysler,300,S,Sedan,Automatic,2c3ccabg6eh252993,TX,43,25432,Black,Black,budget of omaha/ars,23100,23600,2015-01-08,10:30:00
+2014,Dodge,Avenger,SE,Sedan,Automatic,1c3cdzab2en168890,NE,39,41854,Burgundy,Black,enterprise vehicle exchange/davenport,10600,11100,2015-01-08,10:30:00
+2014,Fiat,500L,Easy,Wagon,Automatic,zfbcfabh7ez027738,GA,1,5172,Silver,Gray,hertz/tra,13000,7900,2015-01-08,12:30:00
+2014,Ford,Escape,Titanium,SUV,Automatic,1fmcu9j92eua15744,PA,43,32414,White,Black,avis budget group,21300,21800,2015-01-08,10:00:00
+2011,Ford,F-250 Super Duty,XLT,Supercab,Automatic,1ft7x2bt2bec10313,GA,39,51646,Blue,Gray,ginn motor co,28000,27800,2015-01-08,10:00:00
+2010,Ford,Focus,SES,Sedan,Automatic,1fahp3gnxaw236614,GA,35,53147,Silver,Black,wells fargo dealer services,7925,9000,2015-01-08,02:00:00
+2008,Gmc,Sierra 1500,SLE1,Crew Cab,Automatic,2gtek133681172500,MI,33,113623,Blue,Black,stratford hyundai,14500,15500,2015-01-08,09:30:00
+2009,Honda,Civic,EX,Coupe,Manual,2hgfg118x9h509619,CA,19,100306,Black,Gray,american auto finance,7650,6300,2015-01-08,12:30:00
+2013,Infiniti,G Coupe,G37x,G Coupe,Automatic,jn1cv6el1dm980148,IL,44,38642,Blue,Black,nissan infiniti lt,23000,23400,2015-01-08,10:00:00
+2009,Infiniti,M35,x,Sedan,Automatic,jnkcy01fx9m850716,NE,2,119226,White,Tan,john markel inc,10550,10600,2015-01-08,11:00:00
+2011,Mazda,Mazda3,s Sport,Hatchback,Automatic,jm1bl1k54b1900816,MI,34,28089,Black,Black,jpmorgan chase bank n.a.,12050,11500,2015-01-08,00:00:00
+2013,Mercedes-Benz,E-Class,E350 Sport,Sedan,Automatic,wddhf5kb6da709700,SC,32,36868,Silver,Black,the hertz corporation,29900,28501,2015-01-08,09:15:00
+2008,Mitsubishi,Eclipse,GT,Hatchback,Manual,4a3ak34t98e034471,CA,34,83955,Green,Black,fiesta ford lincoln mercury,6450,7100,2015-01-08,12:00:00
+2006,Nissan,Titan,LE,King Cab,Automatic,1n6ba06a56n572907,GA,29,100149,Silver,Gray,wells fargo dealer services,7875,7300,2015-01-08,02:00:00
+2013,Scion,FR-S,Base,Coupe,Automatic,jf1znaa1xd2728785,GA,28,15235,Black,Black,world omni financial corporation,18300,17500,2015-01-08,02:00:00
+2012,Acura,TL,Technology Package,Sedan,Automatic,19uua8f50ca014917,PA,38,52880,Black,Black,ahfc/honda lease/trust/hvt  inc. eot acuras,19300,19700,2015-01-09,09:00:00
+2008,Cadillac,Escalade,Base,SUV,Automatic,1gyec63828r118196,FL,41,113959,Black,Black,onemain rem/silva auto sales,17650,18500,2015-01-09,10:15:00
+2009,Honda,Pilot,Touring,SUV,Automatic,5fnyf48939b055939,PA,35,79103,White,Gray,bergen auto enterprises llc,17000,18400,2015-01-09,09:00:00
+2011,Kia,Sorento,Base,SUV,Automatic,5xykt3a16bg070706,FL,37,46739,Silver,Black,bright star credit union,11650,11800,2015-01-09,10:45:00
+2005,Lexus,ES 330,Base,Sedan,Automatic,jthba30g055130776,PA,26,160932,Gold,Beige,pohanka lexus,5425,5400,2015-01-09,09:00:00
+2013,Honda,Fit,Base,Hatchback,Automatic,jhmge8h36dc058792,NC,5,1253,Red,Black,fidelity bank,13750,12900,2015-01-12,09:30:00
+1998,Cadillac,Seville,STS,Sedan,Automatic,1g6ky5496wu924227,CA,39,106613,White,Black,wholesale enterprise inc,950,2300,2015-01-13,12:30:00
+2012,Chevrolet,Camaro,LS,Coupe,Automatic,2g1fa1e3xc9191106,GA,28,59171,Silver,Black,capital one auto finance,13500,13700,2015-01-13,09:30:00
+2014,Chevrolet,Impala Limited,LT Fleet,Sedan,Automatic,2g1wb5e34e1183914,CA,2,11606,Black,Black,enterprise vehicle exchange / tra / rental / tulsa,13450,8900,2015-01-13,13:00:00
+2010,Dodge,Charger,SXT Fleet,Sedan,Automatic,2b3ca3cv6ah237108,MD,27,92370,Black,Black,capital one auto finance,8775,7100,2015-01-13,09:30:00
+2011,Dodge,Charger,Base,Sedan,Automatic,2b3cl3cg8bh556331,TN,28,101217,White,Black,santander consumer,11350,10700,2015-01-13,10:30:00
+2011,Dodge,Nitro,Heat,SUV,Automatic,1d4pt4gk2bw541817,NC,47,50294,Blue,Black,hrft finance inc,13200,13800,2015-01-13,10:00:00
+2013,Ford,Escape,SE,SUV,Automatic,1fmcu9gx4duc84512,OH,43,22571,Black,Gray,ford motor credit company llc,18000,17300,2015-01-13,09:00:00
+2014,Ford,Focus,SE,Hatchback,Automatic,1fadp3k26el283772,IL,48,22789,Gray,Gray,avis budget group,12550,12400,2015-01-13,11:00:00
+2003,Ford,Windstar,SE,Minivan,Automatic,2fmza52463bb29912,OH,19,157287,Blue,Gray,halleen kia,1325,900,2015-01-13,09:30:00
+2000,Honda,Accord,EX V6,Sedan,Automatic,1hgcg165xya004775,TN,2,223297,Gray,Gray,economy honda cars,1125,750,2015-01-13,10:00:00
+2013,Hyundai,Elantra,GLS,Sedan,Automatic,5npdh4ae4dh385633,CA,43,26947,Gray,Gray,kia motors finance,11800,12900,2015-01-13,12:30:00
+2002,Jaguar,S-Type,3,Sedan,Automatic,sajda01n42fm38420,GA,19,157932,Blue,Beige,rick hendrick buick gmc,1775,2200,2015-01-13,13:00:00
+2008,Jeep,Wrangler,Unlimited X,SUV,Manual,1j4ga39188l555100,GA,29,53577,—,Gray,autosouth pre-owned superstore llc,17800,13500,2015-01-13,09:30:00
+2002,Toyota,Camry,SE V6,Sedan,Automatic,4t1bf32k32u002338,TX,26,206335,Beige,Tan,automotive remarketing inc,2400,2300,2015-01-13,10:30:00
+2005,Toyota,Sienna,CE 7-Passenger,Minivan,Automatic,5tdza23c35s326451,MD,19,206361,Gold,Tan,lexus of silver spring,3050,2700,2015-01-13,09:30:00
+2013,Volkswagen,Passat,SE PZEV,Sedan,Automatic,1vwbp7a34dc086212,MD,44,44391,Black,Gray,avis corporation,12700,12700,2015-01-13,09:30:00
+2005,Acura,MDX,Touring,SUV,Automatic,2hnyd18695h505988,CA,27,137203,Gray,Gray,east bay bmw,6800,6850,2015-01-14,04:30:00
+2003,Bmw,3 Series,325i,Sedan,Automatic,wbaet37433nj25506,CA,35,101505,White,Gray,newport coast auto com,4100,5000,2015-01-14,04:30:00
+2008,Buick,Enclave,CXL,SUV,Automatic,5gaer23718j124320,FL,2,117443,Gray,Gray,gateway one lending & finance,10650,8200,2015-01-14,07:15:00
+2007,Cadillac,Escalade ESV,Base,SUV,Automatic,1gyfk66837r259795,TX,39,98052,Black,Beige,gunn chevrolet ltd,18400,16800,2015-01-14,02:00:00
+2011,Chevrolet,Silverado 2500HD,LT,Extended Cab,Automatic,1gc2kxcg9bz379180,UT,29,64862,Silver,Gray,larry h. miller fleet lease,20200,19100,2015-01-14,03:30:00
+2010,Chrysler,Sebring,Limited,Sedan,Automatic,1c3cc5fb3an216461,CA,37,61024,White,Black,wheels exchange llc,7550,8700,2015-01-14,04:30:00
+2003,Chrysler,Sebring,LX,Coupe,Automatic,4c3ag42g33e117003,UT,19,162596,White,Gray,remarketing by ge/america first credit union,800,700,2015-01-14,03:30:00
+2013,Ford,Edge,Limited,SUV,Automatic,2fmdk4kc1dbc22329,CA,22,51952,Gray,Black,the hertz corporation,19450,19000,2015-01-14,04:30:00
+2011,Ford,Mustang,GT,Coupe,Automatic,1zvbp8cfxb5166998,NJ,32,67159,Blue,Gray,ford motor credit company llc,15700,15100,2015-01-14,01:00:00
+2014,Gmc,Savana Cargo,2500,Van,Automatic,1gtw7fca2e1904706,WA,41,6379,White,Beige,u-haul,22700,23500,2015-01-14,05:35:00
+2011,Honda,Civic,LX,Sedan,Automatic,19xfa1f57be035449,MO,42,70560,Brown,Gray,meridian remarketing,9225,9500,2015-01-14,02:30:00
+2006,Honda,Odyssey,Touring,Minivan,Automatic,5fnrl38856b000189,CA,34,87984,Gray,Gray,rally cad chev pont gmc hyundai buick,8725,10000,2015-01-14,04:30:00
+2013,Hyundai,Accent,GLS,Sedan,Automatic,kmhct4ae5du510103,TX,41,38228,Red,Gray,enterprise vehicle exchange/dfw airport,9550,10100,2015-01-14,02:15:00
+2008,Lincoln,MKX,Base,SUV,Automatic,2lmdu88cx8bj08655,NJ,34,142336,Red,Black,lucas chevrolet geo inc,6825,7800,2015-01-14,01:30:00
+2011,Mini,Cooper,Base,Hatchback,Automatic,wmwsu3c55bt251326,TN,5,40203,Off-White,Black,downtown hyundai downtown subaru,10850,10000,2015-01-14,02:30:00
+2013,Nissan,Maxima,3.5 S,Sedan,Automatic,1n4aa5ap3dc805785,CA,36,60791,Gray,Black,the hertz corporation,13250,14000,2015-01-14,04:30:00
+2013,Nissan,Sentra,SV,Sedan,Automatic,3n1ab7ap4dl654577,NJ,38,5431,White,Black,nissan-infiniti lt,12700,11900,2015-01-14,01:30:00
+2006,Nissan,Xterra,X,SUV,Automatic,5n1an08w56c561022,WI,29,161049,Red,Gray,jpmorgan chase bank n.a.,4000,4100,2015-01-14,02:00:00
+2002,Saturn,VUE,Base,SUV,Automatic,5gzcz63b82s831609,MN,34,108161,Orange,Tan,rudy luther toyota,1775,2500,2015-01-14,02:30:00
+2012,Toyota,RAV4,Base,SUV,Automatic,2t3bf4dv2cw197421,NJ,34,33582,Brown,Beige,toyota financial services,15800,15400,2015-01-14,01:30:00
+2010,Volvo,S40,2.4i,Sedan,Automatic,yv1390ms9a2509194,CA,33,88476,Black,Black,high bid trading co inc,8575,8500,2015-01-14,04:15:00
+2013,Audi,S5,Premium Plus quattro,Coupe,Automatic,waucgafr7da001566,CA,46,25024,Black,Black,elad motors,39800,40000,2015-01-15,04:30:00
+2014,Bmw,M6,Base,Convertible,Automatic,wbslz9c50edz78442,CA,48,6881,White,Black,high bid trading co inc,101000,92000,2015-01-15,04:00:00
+2014,Chevrolet,Equinox,LT,SUV,Automatic,2gnflfek8e6275264,IL,49,27513,Blue,Black,ec sales llc,20400,21200,2015-01-15,02:00:00
+2010,Chevrolet,HHR,LS,Wagon,Automatic,3gnbaadb2as508284,OH,28,117290,Black,Black,united auto credit/newport beach,4675,3800,2015-01-15,01:00:00
+2012,Chevrolet,Malibu,LS,Sedan,Automatic,1g1zb5e00cf181408,MI,36,39154,Black,Gray,gm financial leasing,10200,9100,2015-01-15,01:30:00
+2012,Chevrolet,Malibu,LS,Sedan,Automatic,1g1zb5e05cf313188,IN,46,13915,Black,Gray,santander consumer,11750,12300,2015-01-15,02:10:00
+2007,Chevrolet,Silverado 1500,Work Truck,Extended Cab,Automatic,1gcec19c77z538958,FL,21,132210,Blue,Gray,nicholas financial inc/clearwater,8950,9200,2015-01-15,07:01:00
+2013,Chevrolet,Silverado 1500,LT,Extended Cab,Automatic,1gcrkse71dz256507,CA,42,26136,Silver,Black,aaero sweet company,25200,26000,2015-01-15,03:30:00
+2008,Dodge,Charger,Base,Sedan,Automatic,2b3ka43r98h274720,FL,21,116195,Black,—,courtesy kia of brandon,5925,4300,2015-01-15,08:20:00
+2011,Dodge,Durango,Citadel,SUV,Automatic,1d4se5gt4bc725239,FL,4,55057,Gray,Black,gatorland toyota,24200,24600,2015-01-15,01:40:00
+2013,Ford,Fiesta,SE,Sedan,Automatic,3fadp4bj3dm164653,FL,35,28384,Silver,Silver,ford motor credit company llc pd,9675,7200,2015-01-15,01:00:00
+2013,Ford,Fiesta,SE,Hatchback,Automatic,3fadp4ej3dm132135,MI,37,24117,Black,Black,ford motor credit company llc,9825,9100,2015-01-15,01:00:00
+2012,Honda,Accord,SE,Sedan,Automatic,1hgcp2f60ca076057,GA,38,42335,White,Beige,ahfc/honda lease trust/hvt  inc. eot,13100,14200,2015-01-15,02:00:00
+2013,Hyundai,Sonata,GLS,Sedan,Automatic,5npeb4ac8dh740565,FL,38,35155,Red,Beige,avis corporation,12450,12500,2015-01-15,02:30:00
+2013,Infiniti,G Sedan,G37 Journey,G Sedan,Automatic,jn1cv6ap6dm715136,CA,37,23216,White,Black,nissan infiniti lt,22100,22500,2015-01-15,04:30:00
+2012,Mercedes-Benz,E-Class,E350 Luxury,Sedan,Automatic,wddhf5kb1ca608269,CA,35,40317,White,Off-White,mercedes-benz financial services,27300,32000,2015-01-15,04:30:00
+2014,Ram,1500,SLT,Quad Cab,Automatic,1c6rr7gt6es367204,VA,4,15987,Silver,Gray,enterprise vehicle exchange/non program,26700,26400,2015-01-15,00:45:00
+2014,Subaru,Impreza,2.0i Premium PZEV,Sedan,Automatic,jf1gjac60eh020362,CA,42,11970,White,Gray,subaru of america,17300,17100,2015-01-15,05:00:00
+2014,Subaru,Outback,2.5i Limited PZEV,Wagon,Automatic,4s4brblc8e3325724,CA,49,10749,Silver,Black,subaru of america,25800,25600,2015-01-15,05:00:00
+2004,Toyota,Sienna,XLE 7-Passenger,Minivan,Automatic,5tdza22c14s127964,VA,27,143485,Gray,Gray,bavarian auto sales llc,4825,3600,2015-01-15,01:35:00
+2013,Honda,Civic,EX,Sedan,Automatic,2hgfb2f84dh547644,PA,41,21448,Black,Black,ahfc/honda lease trust/hvt  inc.,14350,14500,2015-01-16,01:00:00
+2009,Honda,Fit,Sport,Hatchback,Automatic,jhmge88449s011282,PA,2,110908,Blue,Black,faulkner subaru,6300,5500,2015-01-19,04:00:00
+2014,Jeep,Patriot,Sport,SUV,Automatic,1c4njpbb8ed881265,FL,4,10714,Blue,Black,pv holding inc/gdp,13800,14400,2015-01-19,04:30:00
+2010,Chevrolet,Impala,LT,Sedan,Automatic,2g1wb5ek5a1254460,TX,28,81302,Beige,Beige,regional acceptance corporation / greensboro,6825,7100,2015-01-20,02:30:00
+2013,Chevrolet,Impala,LTZ,Sedan,Automatic,2g1wc5e37d1229103,MD,42,41427,Red,Gray,enterprise veh exchange/rental,12600,12400,2015-01-20,01:30:00
+2011,Chevrolet,Impala,LS Fleet,Sedan,Automatic,2g1wf5ekxb1275343,OH,46,91813,Silver,Black,ge fleet services for itself/servicer,6825,7000,2015-01-20,01:30:00
+2014,Dodge,Avenger,SE,Sedan,Automatic,1c3cdzabxen109019,TX,37,34247,Black,Black,exeter finance corp,11000,10900,2015-01-20,02:30:00
+2009,Ford,Econoline Cargo,E-350 Super Duty,Van,Automatic,1ftss34l29da47528,FL,23,230274,White,Gray,westfall auto sales,6075,6100,2015-01-20,08:00:00
+2012,Ford,Edge,Limited,SUV,Automatic,2fmdk3kc4cba63069,MO,42,34979,White,Gray,ford motor credit company llc,20600,22800,2015-01-20,03:00:00
+2012,Ford,Escape,XLT,SUV,Automatic,1fmcu0d72ckb44548,NC,37,89495,Gray,Gray,wheels exchange llc,8875,9200,2015-01-20,01:15:00
+2014,Ford,Escape,Titanium,SUV,Automatic,1fmcu9j93euc24216,GA,41,34374,Blue,Gray,avis budget group,21600,20200,2015-01-20,01:30:00
+2012,Ford,F-250 Super Duty,XLT,Crew Cab,Automatic,1ft7w2bt7ceb92198,FL,36,100956,Silver,Gray,tdaf remarketing,26000,28600,2015-01-20,01:00:00
+2013,Ford,Flex,SE,Wagon,Automatic,2fmgk5b85dbd20827,NC,29,68883,White,Beige,wheels exchange llc,14550,14000,2015-01-20,01:15:00
+2012,Ford,Fusion,SE,Sedan,Automatic,3fahp0ha6cr161037,MD,25,48454,Red,Gray,ford motor credit company llc pd,10550,9300,2015-01-20,01:30:00
+2010,Gmc,Yukon,Denali,SUV,Automatic,1gkukeef4ar178288,MA,26,220140,Black,Black,imperial ford corporation,18450,13400,2015-01-20,02:00:00
+2004,Honda,Odyssey,EX-L,Minivan,Automatic,5fnrl18914b051599,MD,25,145085,Gray,Gray,autonation buick gmc laurel,2825,2100,2015-01-20,01:30:00
+2012,Infiniti,G Sedan,G37x,G Sedan,Automatic,jn1cv6ar2cm674696,IL,42,18766,Black,Gray,nissan infiniti lt,22100,21800,2015-01-20,02:00:00
+2011,Kia,Sorento,Base,SUV,Manual,5xykt3a17bg010188,NC,42,42007,Black,Gray,lenders assistance corporation,12100,11400,2015-01-20,01:15:00
+2010,Lexus,HS 250h,Base,Sedan,Automatic,jthbb1ba1a2036590,FL,21,32973,Red,Black,lexus financial services,18350,16000,2015-01-20,01:30:00
+2013,Lexus,IS 250,Base,Sedan,Automatic,jthbf5c20d5191573,FL,44,23819,White,Tan,woodall auto wholesale inc,23700,24800,2015-01-20,01:30:00
+2011,Mazda,Mazda6,i Grand Touring,Sedan,Automatic,1yvhz8ch2b5m09447,FL,42,36210,Black,Black,jpmorgan chase bank n.a.,10550,10600,2015-01-20,01:30:00
+2005,Nissan,Frontier,LE,Crew Cab,Automatic,1n6ad07u35c450679,SC,34,129366,Gray,Gray,hendrick toyota scion north charleston,7125,8300,2015-01-20,02:00:00
+2011,Nissan,Maxima,3.5 SV,Sedan,Automatic,1n4aa5ap4bc861599,IL,36,47131,Silver,Black,nissan-infiniti lt,15900,14400,2015-01-20,02:00:00
+2013,Nissan,Maxima,3.5 S,Sedan,Automatic,1n4aa5ap4dc806024,GA,25,58862,Red,Black,the hertz corporation,13950,13500,2015-01-20,01:30:00
+2012,Nissan,Rogue,SV,SUV,Automatic,jn8as5mv5cw704735,IL,48,25615,Gray,Black,nissan-infiniti lt,16550,17800,2015-01-20,02:00:00
+2006,Toyota,Matrix,Base,Wagon,Automatic,2t1kr32ex6c561233,TX,34,117249,White,Gray,kjc auto title loan corp,4425,3000,2015-01-20,02:30:00
+2008,Volvo,XC90,V8,SUV,Automatic,yv4cz852981468324,MD,35,98377,Gray,Gray,autonation chevrolet security blvd,12450,11400,2015-01-20,01:30:00
+2009,Buick,Lucerne,CX,Sedan,Automatic,1g4hp57189u141488,VA,2,96409,Silver,Gray,fiserv/dealer funding llc,6875,5700,2015-01-21,01:30:00
+2006,Chevrolet,Cobalt,LS,Coupe,Automatic,1g1ak15f567649450,AZ,1,120475,Gray,Gray,tio rico te ayuda-anfs inc,2725,600,2015-01-21,03:00:00
+2012,Chevrolet,Cruze,2LT,Sedan,Automatic,1g1pg5sc1c7338509,CA,35,48456,Silver,Black,repo remarketing/visterra credit union,9950,11100,2015-01-21,04:30:00
+2005,Chevrolet,Monte Carlo,SS,Coupe,Automatic,2g1wz121359232884,CA,37,85951,Black,Black,executive enterprises auto wholesale inc,5100,7500,2015-01-21,04:30:00
+2008,Chrysler,300,LX,Sedan,Automatic,2c3ka43r48h176875,IN,21,151016,Black,Gray,blackhawk finance,4575,4200,2015-01-21,05:15:00
+2012,Dodge,Grand Caravan,American Value Package,Minivan,Automatic,2c4rdgbg8cr195063,FL,21,85356,Silver,Gray,northwestern chrys/j/d/ge,8500,8200,2015-01-21,01:00:00
+2012,Fiat,500,Sport,Hatchback,Automatic,3c3cffbr5ct110211,TX,36,18546,Silver,Brown,music city autoplex llc,8800,9000,2015-01-21,02:20:00
+2013,Ford,E-Series Van,E-150,E-Series Van,Automatic,1ftne1ew9dda14195,WA,34,37937,White,Gray,ford motor credit company llc,15900,17000,2015-01-21,04:00:00
+2010,Ford,F-150,XLT,SuperCrew,Automatic,1ftew1c89afa83566,TX,25,80059,Gray,Gray,td auto finance,15850,13500,2015-01-21,02:00:00
+2013,Ford,Fusion,SE,Sedan,Automatic,3fa6p0hr6dr143958,NJ,36,30145,—,Black,wheels exchange llc,14600,12900,2015-01-21,01:30:00
+2014,Ford,Taurus,Limited,Sedan,Automatic,1fahp2f84eg179980,FL,5,17335,—,Black,avis budget group,20700,22700,2015-01-21,02:00:00
+2012,Gmc,Acadia,Denali,SUV,Automatic,1gkkvted5cj204349,NJ,42,36842,Black,Tan,fiserv/usb dealer services northstar exchange,30000,28100,2015-01-21,01:30:00
+2013,Hyundai,Elantra GT,Base,Hatchback,Automatic,kmhd35le4du105616,FL,41,46494,Gray,Black,regional acceptance corporation / greenville,12250,13000,2015-01-21,01:00:00
+2015,Kia,Sorento,LX,SUV,Automatic,5xyktca67fg572254,WI,42,17549,Silver,Gray,kia motors america  inc,20500,20800,2015-01-21,02:00:00
+2011,Lincoln,MKS,Base,Sedan,Automatic,1lnhl9dr9bg600562,TX,32,35386,Blue,Black,ford motor credit company llc,17500,14100,2015-01-21,02:30:00
+2013,Nissan,Armada,SV,SUV,Automatic,5n1aa0nc3dn608233,CA,36,65590,Silver,Black,the hertz corporation,19350,21000,2015-01-21,04:30:00
+2010,Nissan,Cube,1.8 S,Wagon,Automatic,jn8az2kr5at158212,TX,19,69096,Black,Gray,wells fargo dealer services,7375,6100,2015-01-21,02:00:00
+2011,Nissan,Maxima,3.5 SV,Sedan,Automatic,1n4aa5ap0bc866251,WA,33,39304,Blue,Black,nissan-infiniti lt,16450,15200,2015-01-21,06:40:00
+2011,Nissan,Maxima,3.5 SV,Sedan,Automatic,1n4aa5ap9bc848184,TX,36,47378,—,Black,nissan-infiniti lt,15850,15000,2015-01-21,02:30:00
+2015,Subaru,Forester,2.5i Premium PZEV,SUV,Automatic,jf2sjadc9fh437619,WA,46,25061,Green,Gray,dollar rac/seattle,23700,22200,2015-01-21,05:10:00
+2012,Toyota,Camry,SE,Sedan,Automatic,4t1bf1fk6cu181054,MN,46,22749,Black,Black,toyota financial services,15300,16100,2015-01-21,02:30:00
+2010,Toyota,Camry,LE,Sedan,Automatic,4t1bf3ek7au508006,FL,22,82818,White,Tan,bb&t asset disposal,8900,8800,2015-01-21,01:00:00
+2007,Toyota,Camry Solara,SE V6,Convertible,Automatic,4t1fa38p57u129201,FL,21,67953,White,Gray,dick devoe buick cadillac inc,9125,8300,2015-01-21,07:25:00
+2007,Toyota,Corolla,LE,Sedan,Automatic,1nxbr32e67z852392,TX,35,70505,Blue,Beige,wells fargo dealer services,5325,7100,2015-01-21,02:00:00
+2012,Volkswagen,CC,Sport,Sedan,Automatic,wvwmn7anxce547225,TX,36,33756,Black,Gray,music city autoplex llc,13400,15750,2015-01-21,02:20:00
+2012,Bmw,5 Series,528i xDrive,Sedan,Automatic,wbaxh5c50cdw02905,NV,38,30349,Black,—,financial services remarketing (lease),30900,28300,2015-01-22,06:30:00
+2011,Cadillac,CTS Coupe,Performance,CTS Coupe,Automatic,1g6dk1ed1b0132350,CA,43,89816,White,Black,arrowhead auto group inc,16200,18800,2015-01-22,04:00:00
+2005,Chevrolet,Avalanche,1500 LS,Crew Cab,Automatic,3gnek12z65g124673,AZ,32,123545,Brown,Gray,wells fargo dealer services,9125,7900,2015-01-22,03:00:00
+2012,Chevrolet,Camaro,LT,Coupe,Automatic,2g1fb1e35c9128881,FL,43,40656,Black,Black,hyundai of new port richey,16450,17700,2015-01-22,01:45:00
+2014,Dodge,Avenger,SE,Sedan,Automatic,1c3cdzab5en200991,AZ,37,27601,Red,Black,onesource/southwest remarketing,11300,10900,2015-01-22,03:00:00
+2008,Dodge,Charger,Base,Sedan,Automatic,2b3ka43r78h167312,GA,21,128065,Silver,Black,santander consumer,5375,3100,2015-01-22,04:30:00
+2013,Ford,Focus,SE,Sedan,Automatic,1fadp3f26dl233320,MI,42,22680,White,Gray,ford motor credit company llc,11450,10800,2015-01-22,01:00:00
+2012,Honda,Civic,LX,Sedan,Automatic,19xfb2f59ce047591,IL,43,37001,White,Gray,ahfc/honda lease trust/hvt  inc. eot,10950,11500,2015-01-22,02:00:00
+2014,Hyundai,Tucson,Limited,SUV,Automatic,km8ju3agxeu820104,TX,45,13570,Black,Gray,donlen corporation,21100,20600,2015-01-22,03:00:00
+2011,Jaguar,XK,XKR,Coupe,Automatic,sajwa4dc1bmb39959,GA,47,15039,Black,Black,mercedes benz of buckhead,46100,46800,2015-01-22,02:00:00
+2012,Kia,Soul,+,Wagon,Automatic,kndjt2a67c7375485,FL,39,8459,Gray,Black,braman motors,13300,12600,2015-01-22,01:30:00
+1997,Lexus,LX 450,Base,SUV,Automatic,jt6hj88j4v0165852,AZ,19,157248,White,Tan,earnhardt,4225,8100,2015-01-22,03:00:00
+2001,Lincoln,Continental,Base,Sedan,Automatic,1lnhm97vx1y689931,GA,19,128015,Gold,Tan,mercedes benz of south atlanta,1325,1000,2015-01-22,02:00:00
+2014,Lincoln,MKS,Base,Sedan,Automatic,1lnhl9dk9eg605591,TN,47,24284,—,Brown,ford motor credit company,24700,24200,2015-01-22,03:00:00
+2010,Nissan,Altima,3.5 SR,Sedan,Automatic,1n4bl2ap4an462594,OH,23,35896,Blue,Black,lease plan usa,11950,10300,2015-01-22,02:00:00
+2006,Nissan,Maxima,3.5 SE,Sedan,Automatic,1n4ba41e26c811917,CA,19,152123,Gray,Black,coast acceptance corp,3475,2000,2015-01-22,04:00:00
+2012,Toyota,Camry,LE,Sedan,Automatic,4t1bf1fk4cu195342,GA,39,27186,White,Gray,toyota financial services,13550,14400,2015-01-22,02:00:00
+2006,Volkswagen,Golf,GLS,Hatchback,Manual,9bwgl61jx64010803,VA,19,123242,Blue,Gray,rosner motors inc,3075,2300,2015-01-22,01:35:00
+2003,Volkswagen,New Beetle,GL 1.8T,Hatchback,Manual,3vwcd21c33m417939,VA,23,61148,Orange,Black,don beyer volvo winchester,4450,5200,2015-01-22,01:35:00
+2005,Dodge,Ram Pickup 1500,ST,Regular Cab,Automatic,1d7ha16k05j646404,NV,26,129904,Silver,Gray,wells fargo dealer services,3700,2400,2015-01-23,04:00:00
+2003,Hummer,H2,Base,SUV,Automatic,5grgn23u83h115217,PA,42,67395,Gray,Gray,sun motor cars inc,15300,15750,2015-01-23,01:30:00
+2003,Lexus,ES 300,Base,Sedan,Automatic,jthbf30g335037698,FL,2,189864,Silver,Black,enterprise vehicle exchange / rental / tulsa,3675,3050,2015-01-23,01:25:00
+2001,Volvo,S80,T6,Sedan,Automatic,yv1ts90dx11213705,NC,38,177754,Silver,Gray,boykin motors of johnston co inc,850,2700,2015-01-26,01:30:00
+2012,Bmw,5 Series,528i xDrive,Sedan,Automatic,wbaxh5c56cdw09681,OH,41,44156,Black,Black,financial services remarketing (lease),28100,27500,2015-01-27,01:30:00
+2006,Bmw,X3,3.0i,SUV,Automatic,wbxpa934x6wd30187,CA,34,111390,Gray,Black,walters auto sales/service inc,7825,7500,2015-01-27,04:30:00
+2011,Buick,Enclave,CXL1,SUV,Automatic,5gakrbed9bj261017,CA,26,51273,Blue,Gray,fiserv/usb dealer services northstar exchange,19800,19000,2015-01-27,04:30:00
+2013,Chrysler,200,Touring,Sedan,Automatic,1c3ccbbb8dn672268,FL,42,37035,Silver,Tan,enterprise veh exchange/rental,10900,11200,2015-01-27,01:30:00
+2006,Dodge,Ram Pickup 1500,SLT,Quad Cab,Automatic,1d7ha18246s660086,TX,2,198600,Gray,Gray,worldwide investments,3825,1100,2015-01-27,03:00:00
+2009,Ford,Econoline Cargo,E-250,Van,Automatic,1ftns24l79da80161,IL,34,54439,White,Gray,lease plan usa,14100,13200,2015-01-27,02:00:00
+2013,Honda,Odyssey,EX-L,Minivan,Automatic,5fnrl5h63db041797,FL,34,25396,Black,Gray,autonation honda hollywood,25900,24600,2015-01-27,01:15:00
+2013,Hyundai,Sonata Hybrid,Base,Sedan,Automatic,kmhec4a45da075648,CA,3,40795,Silver,Gray,enterprise vehicle exchange / tra / rental / tulsa,13350,12100,2015-01-27,04:00:00
+2007,Kia,Spectra,EX,Sedan,Automatic,knafe122275446340,MD,2,144318,Silver,Gray,jim coleman honda,1750,1800,2015-01-27,01:30:00
+2013,Lexus,RX 350,Base,SUV,Automatic,2t2zk1ba0dc110664,FL,46,19361,Gray,Gray,lexus financial services,32800,36100,2015-01-27,01:30:00
+2012,Lexus,RX 350,Base,SUV,Automatic,jtjbk1ba7c2447039,OH,46,42379,—,Black,lexus financial services,27600,27800,2015-01-27,01:30:00
+2012,Nissan,Altima,2.5 S,Sedan,Automatic,1n4al2apxcc205353,CA,35,64984,Blue,Black,nissan motor acceptance corporation,10150,10750,2015-01-27,04:30:00
+2000,Pontiac,Grand Am,GT,Coupe,Automatic,1g2nw12e3ym718539,GA,19,155248,Red,Gray,rivertown subaru & volvo of columbus,1000,700,2015-01-27,04:30:00
+2011,Toyota,Corolla,LE,Sedan,Automatic,2t1bu4eexbc696786,FL,35,33115,Gray,Gray,world omni financial corporation,10400,10600,2015-01-27,01:30:00
+2002,Toyota,Highlander,Limited,SUV,Automatic,jtegf21a220038585,TN,2,261618,White,Gray,regions automotive group,5900,7500,2015-01-27,02:30:00
+2014,Toyota,Tacoma,V6,Double Cab,Automatic,5tflu4en1ex098354,FL,5,3,White,Gray,toyota motor sales usa inc,29800,24500,2015-01-27,01:30:00
+2004,Bmw,5 Series,525i,Sedan,Automatic,wbana53584b174414,NJ,26,191862,Silver,Black,sharlene realty llc,4025,3400,2015-01-28,02:00:00
+2008,Bmw,5 Series,535xi,Sedan,Automatic,wbanv93538cz68216,NY,27,86312,Gray,Black,par north america,11400,7700,2015-01-28,02:10:00
+2010,Chevrolet,Cobalt,LT,Sedan,Automatic,1g1af5f54a7165604,FL,34,42998,Blue,Black,fidelity bank,6725,6300,2015-01-28,07:10:00
+2007,Chevrolet,Cobalt,LS,Sedan,Automatic,1g1ak55fx77136476,TX,22,132876,Gold,Brown,santander consumer,2425,2500,2015-01-28,02:00:00
+2002,Chevrolet,Impala,Base,Sedan,Automatic,2g1wf55e929323104,IN,2,225592,Green,Gray,select remarketing group llc/loan max title,850,800,2015-01-28,05:15:00
+2013,Chevrolet,Impala,LT Fleet,Sedan,Automatic,2g1wg5e32d1170448,WI,42,74811,Gray,Gray,wheels exchange llc,8575,8900,2015-01-28,02:00:00
+2003,Chevrolet,Malibu,Base,Sedan,Automatic,1g1nd52j33m574420,CA,19,113812,Gold,Tan,aaero sweet company,1375,2200,2015-01-28,03:30:00
+2012,Chevrolet,Silverado 1500,LT,Extended Cab,Automatic,1gcrkse70cz303122,WI,22,32646,Red,Black,msd global corporation,23800,22500,2015-01-28,02:00:00
+2009,Dodge,Charger,SXT,Sedan,Automatic,2b3ka33v59h521191,IN,26,99300,White,Gray,ge fleet services for itself/servicer,8025,6400,2015-01-28,05:25:00
+2008,Ford,Escape,XLT,SUV,Automatic,1fmcu03z38kd14331,MO,44,85010,Blue,Tan,santander consumer,7525,9600,2015-01-28,02:30:00
+2011,Ford,Escape,XLS,SUV,Automatic,1fmcu0c70bka83460,WI,27,42784,—,Beige,ari,10350,10300,2015-01-28,02:00:00
+2013,Ford,Escape,SE,SUV,Automatic,1fmcu9g98dud88521,MO,39,29392,Black,Black,ford-lincoln dealer program,17250,20000,2015-01-28,02:00:00
+2014,Ford,Fusion,SE,Sedan,Automatic,3fa6p0h94er259824,MN,46,14561,Silver,Tan,avis budget group,17950,17000,2015-01-28,02:00:00
+2012,Ford,Fusion,SE,Sedan,Automatic,3fahp0ha7cr322687,VA,29,76411,Silver,Gray,wheels exchange llc,8825,7700,2015-01-28,01:30:00
+2011,Ford,Ranger,XL,Regular Cab,Automatic,1ftkr1ad0bpb01023,LA,39,67284,White,Gray,lease plan usa,9350,9100,2015-01-28,03:00:00
+2007,Hyundai,Elantra,SE,Sedan,Automatic,kmhdu46d07u111220,NJ,25,70548,Gray,Gray,all american ford/subaru,4025,3850,2015-01-28,02:00:00
+2013,Infiniti,G Sedan,G37x,G Sedan,Automatic,jn1cv6ar6dm352435,TN,42,29990,Red,Black,nissan infiniti lt,21700,21600,2015-01-28,02:30:00
+2014,Kia,Cadenza,Premium,Sedan,Automatic,knaln4d77e5140597,TX,44,12503,White,Black,kia motors america  inc,20300,21000,2015-01-28,02:30:00
+2008,Mazda,Mazda5,Touring,Minivan,Automatic,jm1cr293080301729,TX,3,96752,Gray,Black,wells fargo dealer services,4900,5400,2015-01-28,02:00:00
+2013,Mercedes-Benz,C-Class,C300 Sport 4MATIC,Sedan,Automatic,wddgf8abxdr250607,WI,42,25419,Black,Black,mercedes-benz financial services,24500,23750,2015-01-28,02:00:00
+2013,Nissan,Altima,2.5,Sedan,Automatic,1n4al3ap4dc157047,NJ,24,23961,—,Black,nissan-infiniti lt,14100,12200,2015-01-28,02:00:00
+2007,Nissan,Murano,SL,SUV,Automatic,jn8az08w97w618819,MN,37,84614,Blue,Tan,wells fargo dealer services,9225,11000,2015-01-28,02:30:00
+2013,Ram,1500,Tradesman,Crew Cab,Automatic,1c6rr7kt2ds539329,TN,41,19075,White,Gray,wholesale inc # 2,25200,27500,2015-01-28,02:30:00
+2014,Toyota,Camry,SE,Sedan,Automatic,4t1bf1fk1eu432002,MO,44,23697,White,Black,budget rent a car/wichita,16050,16400,2015-01-28,02:30:00
+2012,Toyota,Highlander,Base,SUV,Automatic,5tdbk3eh9cs117418,NJ,39,36413,Gray,Gray,a & n auto sales inc,22800,24400,2015-01-28,01:30:00
+2013,Acura,ILX,Base,Sedan,Automatic,19vde1f32de014062,VA,27,29097,White,Gray,pohanka acura,17150,16800,2015-01-29,01:50:00
+2012,Bmw,3 Series,328i,Convertible,Automatic,wbadw7c59ce729358,CA,42,29659,Black,—,financial services remarketing (lease),27900,27250,2015-01-29,04:30:00
+2011,Bmw,3 Series,328i,Sedan,Automatic,wbaph5c53bf093556,CA,49,15803,White,Gray,financial services remarketing (lease),20900,22500,2015-01-29,04:30:00
+2012,Bmw,X5,xDrive35d,SUV,Automatic,5uxzw0c58c0b88477,GA,48,99865,White,Tan,financial services remarketing (lease),28100,26500,2015-01-29,02:00:00
+2011,Chevrolet,Cruze,LTZ,Sedan,Automatic,1g1ph5s91b7264198,VA,45,26872,White,Gray,blue knob auto sales inc,11600,9300,2015-01-29,01:05:00
+2006,Chevrolet,Malibu,LT,Sedan,Automatic,1g1zt51f76f208566,OH,33,132050,White,Gray,car now acceptance co/columbus,2650,900,2015-01-29,01:00:00
+2014,Chevrolet,Silverado 1500,LT,Crew Cab,Automatic,3gcukrec3eg422477,VA,3,10141,White,Black,enterprise veh exchange/rental,30500,26800,2015-01-29,01:20:00
+2014,Ford,E-Series Van,E-250,E-Series Van,Automatic,1ftns2ewxeda66533,TX,35,14209,—,Green,ars/enterprise,22800,21500,2015-01-29,02:30:00
+2013,Ford,Edge,SEL,SUV,Automatic,2fmdk3jc2dbb17715,CA,19,19785,Silver,Beige,ford motor credit company llc pd,23300,18000,2015-01-29,04:00:00
+2013,Ford,Explorer,XLT,SUV,Automatic,1fm5k8d89dgb40555,AZ,32,54098,Gray,Black,the hertz corporation,23300,22800,2015-01-29,03:30:00
+2014,Ford,Mustang,GT,Coupe,Manual,1zvbp8cf5e5298488,VA,35,1475,Black,Black,suntrust bank public,25700,23500,2015-01-29,01:20:00
+2012,Infiniti,G Sedan,G37 Journey,G Sedan,Automatic,jn1cv6ap3cm621892,CA,44,40477,Gray,Black,nissan infiniti lt,19950,21000,2015-01-29,04:30:00
+2009,Kia,Sportage,LX,SUV,Automatic,kndjf724x97590272,FL,27,146406,Gray,Black,santander consumer,5025,5700,2015-01-29,01:35:00
+2002,Nissan,Altima,2.5 SL,Sedan,Automatic,1n4al11d02c290251,FL,19,150466,White,Beige,courtesy nissan of tampa,2075,1400,2015-01-29,08:20:00
+2011,Nissan,Maxima,3.5 SV,Sedan,Automatic,1n4aa5ap5bc847291,IL,46,22081,White,Black,nissan-infiniti lt,17600,19200,2015-01-29,02:00:00
+2012,Volkswagen,Passat,S PZEV,Sedan,Automatic,1vwap7a36cc019119,CA,25,11999,White,Black,vw credit,11500,13000,2015-01-29,04:30:00
+2013,Chevrolet,Silverado 1500,LT,Extended Cab,Automatic,1gcrkse77dz101640,PA,23,42388,Burgundy,Black,ford-lincoln dealer program,23400,23300,2015-01-30,01:00:00
+2001,Mazda,Tribute,LX-V6,SUV,Automatic,4f2cu09191km67744,GA,28,173963,Black,Gray,five star dodge,1850,1100,2015-01-30,03:00:00
+2007,Chrysler,PT Cruiser,Base,Convertible,Automatic,3c3jy45x87t611163,FL,25,182863,Blue,Gray,ford motor credit company llc,600,1200,2015-02-02,01:30:00
+2014,Dodge,Charger,SE,Sedan,Automatic,2c3cdxbg5eh299884,FL,4,25296,Black,Black,pv holding inc/gdp,15850,17300,2015-02-02,04:30:00
+2014,Dodge,Charger,R/T,Sedan,Automatic,2c3cdxct7eh234840,FL,3,23715,White,Black,gsp transportation inc,22700,21700,2015-02-02,04:30:00
+2002,Bmw,X5,3.0i,SUV,Automatic,5uxfa53522lp48387,TX,2,141153,Green,Gray,westlake financial services,4000,1300,2015-02-03,03:00:00
+2006,Chevrolet,Cobalt,LS,Sedan,Manual,1g1ak58f867658162,OH,37,112252,Blue,Gray,cnac corporate office/columbus,2500,3000,2015-02-03,04:00:00
+2013,Chevrolet,Cruze,LTZ,Sedan,Automatic,1g1pg5sb1d7196459,CA,41,39855,Blue,Black,avis corporation,13050,13100,2015-02-03,04:30:00
+2013,Chrysler,200,Touring,Sedan,Automatic,1c3ccbbb2dn656776,FL,42,58686,White,Black,dtg operations inc,9650,9900,2015-02-03,01:30:00
+2012,Dodge,Grand Caravan,American Value Package,Minivan,Automatic,2c4rdgbg1cr178184,PA,36,68032,Silver,Black,lease plan usa,10300,9400,2015-02-03,01:30:00
+2012,Dodge,Grand Caravan,American Value Package,Minivan,Automatic,2c4rdgbg2cr195012,OH,39,81535,Red,Gray,ge fleet services for itself/servicer,8850,8800,2015-02-03,01:30:00
+2010,Dodge,Grand Caravan,SE,Minivan,Automatic,2d4rn4de8ar467201,MA,33,92469,Gray,Black,ge fleet services for itself/servicer,7425,6300,2015-02-03,01:30:00
+2005,Dodge,Magnum,RT,Wagon,Automatic,2d8gv58235h556858,PA,22,111258,Gray,Gray,bergeys chrysler jeep dodge,5925,3200,2015-02-03,01:30:00
+2006,Ford,Econoline Wagon,E-350 Super Duty XL,Van,Automatic,1fbss31l36ha69826,NC,21,134522,White,Gray,boone trail autohaus,5050,6200,2015-02-03,02:00:00
+2014,Ford,F-150,Lariat,SuperCrew,Automatic,1ftfw1ef6efc74609,GA,45,18461,Black,Black,ars/thrifty car rental/greer,34300,34300,2015-02-03,01:30:00
+2010,Ford,F-150,FX4,SuperCrew,Automatic,1ftfw1ev5afd94483,NC,26,81051,Red,Tan,terry inc,19700,19600,2015-02-03,01:15:00
+2013,Ford,Focus,SE,Sedan,Automatic,1fadp3f27dl232662,OH,5,21587,Silver,Black,ford motor credit company llc,11300,11700,2015-02-03,01:00:00
+2006,Honda,Civic,EX,Coupe,Automatic,2hgfg12866h548248,GA,24,124799,White,Beige,santander consumer,4625,5300,2015-02-03,01:30:00
+2012,Hyundai,Sonata,GLS,Sedan,Automatic,5npeb4ac8ch385945,FL,4,37025,Gray,Gray,hyundai motor finance,11550,11800,2015-02-03,01:30:00
+2012,Kia,Soul,Base,Wagon,Automatic,kndjt2a54c7742043,OH,38,34153,Black,Black,exceptional motorcar llc,9425,9700,2015-02-03,01:30:00
+2013,Lincoln,MKZ,Base,Sedan,Automatic,3ln6l2gk2dr816214,FL,31,34673,Silver,Black,tdaf remarketing,20200,19600,2015-02-03,01:00:00
+2012,Mazda,Mazda3,i Grand Touring,Sedan,Automatic,jm1bl1w7xc1690932,FL,43,14599,Gray,Black,jpmorgan chase bank n.a.,13750,13800,2015-02-03,01:30:00
+2012,Mercedes-Benz,C-Class,C300 Luxury 4MATIC,Sedan,Automatic,wddgf8bb0cr229942,FL,46,38381,Silver,Black,cire leasing,20500,22000,2015-02-03,01:15:00
+2012,Nissan,Altima,2.5 S,Sedan,Automatic,1n4al2ap5cc157051,FL,37,27900,Gray,Black,nissan-infiniti lt,12300,14000,2015-02-03,01:30:00
+2013,Nissan,Altima,2.5,Sedan,Automatic,1n4al3ap9dc175074,FL,44,16719,Gray,Black,nissan-infiniti lt,14450,13600,2015-02-03,01:30:00
+2009,Nissan,Cube,1.8 Base,Wagon,Manual,jn8az28r39t130377,NC,41,84019,White,Black,gm financial,6375,6000,2015-02-03,01:15:00
+2011,Nissan,Rogue,S,SUV,Automatic,jn8as5mv8bw303467,GA,28,47828,Black,Black,nissan-infiniti lt,11750,11200,2015-02-03,01:30:00
+2011,Nissan,Versa,1.6,Sedan,Automatic,3n1cc1ap4bl391216,MA,33,134768,Black,Black,capital one auto finance,3950,3200,2015-02-03,01:30:00
+2012,Toyota,Camry,LE,Sedan,Automatic,4t1bf1fk3cu003067,OH,35,27631,Silver,Gray,toyota financial services,13550,12900,2015-02-03,01:30:00
+2012,Toyota,Corolla,S,Sedan,Automatic,2t1bu4ee8cc759773,OH,49,31313,Silver,Black,toyota financial services,12500,13400,2015-02-03,01:30:00
+2009,Toyota,Matrix,Base,Hatchback,Automatic,2t1ku40e69c190616,FL,33,60140,Gray,Gray,world omni financial corporation,7800,8900,2015-02-03,01:30:00
+2013,Volvo,S60,T5,Sedan,Automatic,yv1612fs7d2172235,FL,35,16972,Gray,Brown,volvo car financial service/world omni,19750,18700,2015-02-03,01:30:00
+2011,Bmw,5 Series,535i,Sedan,Automatic,wbafr7c56bc604540,TX,34,61460,White,Black,tdaf remarketing,23300,25500,2015-02-04,02:15:00
+2013,Bmw,6 Series Gran Coupe,650i,Sedan,Automatic,wba6b2c50dd128418,GA,45,16597,Black,Brown,financial services remarketing (lease),53500,57200,2015-02-04,02:00:00
+2012,Bmw,Z4,sDrive35i,Convertible,Automatic,wbalm7c50ce384402,GA,41,17764,Black,Beige,financial services remarketing (lease),36300,35000,2015-02-04,02:00:00
+2003,Cadillac,DeVille,Base,Sedan,Automatic,1g6kd54y93u143555,NC,35,133155,Silver,Gray,hendrick acura,1600,2400,2015-02-04,06:00:00
+2013,Chevrolet,Captiva Sport,LTZ Fleet,SUV,Automatic,3gnal4ekxds590310,MO,39,38500,Silver,Black,avis corporation,14500,14400,2015-02-04,02:30:00
+2008,Chevrolet,Cobalt,LT,Sedan,Automatic,1g1al58f787319392,FL,19,81934,Silver,Gray,remarketing by ge/flagship credit acceptance,4300,2600,2015-02-04,01:00:00
+2014,Chevrolet,Cruze,2LT,Sedan,Automatic,1g1pe5sb3e7125500,TX,42,36911,Red,—,avis corporation,12950,13500,2015-02-04,02:00:00
+2013,Chevrolet,Cruze,2LT,Sedan,Automatic,1g1pe5sbxd7121653,WI,35,59193,White,Black,the hertz corporation,9950,10200,2015-02-04,02:30:00
+2012,Ford,F-350 Super Duty,Lariat,Crew Cab,Automatic,1ft8w3btxcec42361,CO,41,20361,Gray,Black,jim fuoco motor company,43700,44250,2015-02-04,03:45:00
+2014,Ford,Focus,SE,Sedan,Automatic,1fadp3f23el276191,MO,41,21591,Black,Black,rusty eck ford inc,12400,12500,2015-02-04,02:30:00
+2005,Ford,Freestyle,SEL,Wagon,Automatic,1fmdk02125ga33724,NJ,37,99309,Green,Gray,j & s auto haus,2500,5000,2015-02-04,01:00:00
+2011,Ford,Fusion,SEL,Sedan,Automatic,3fahp0ja6br338243,TX,37,53937,—,Gray,wheels exchange llc,9875,10400,2015-02-04,02:00:00
+2012,Ford,Mustang,V6,Coupe,Automatic,1zvbp8am8c5230975,TX,33,51064,Red,Gray,santander consumer,13550,14900,2015-02-04,02:00:00
+2014,Ford,Taurus,Limited,Sedan,Automatic,1fahp2f80eg176638,NY,37,14664,Off-White,Black,ford motor credit company,21300,19700,2015-02-04,01:20:00
+2013,Infiniti,G Sedan,G37 Journey,G Sedan,Automatic,jn1cv6ap8dm300433,FL,49,22391,—,Beige,nissan infiniti lt,21700,19600,2015-02-04,01:00:00
+2014,Infiniti,Q60 Convertible,Base,Q60 Convertible,Automatic,jn1cv6fexem900086,FL,39,14090,Red,Beige,nissan north america inc.,35700,35400,2015-02-04,01:00:00
+2013,Kia,Forte,EX,Sedan,Automatic,knafu4a27d5715174,TN,19,51665,Red,Gray,avis corporation,9450,8700,2015-02-04,02:30:00
+2012,Kia,Sportage,LX,SUV,Automatic,kndpbca25c7348902,TN,19,63785,Black,Gray,wells fargo dealer services,12500,8800,2015-02-04,02:30:00
+2011,Lexus,RX 350,Base,SUV,Automatic,jtjbk1ba5b2013829,CA,2,47563,Silver,Gray,lexus financial services,25100,22700,2015-02-04,04:30:00
+2012,Nissan,Altima,2.5 S,Sedan,Automatic,1n4al2ap8cc148425,FL,47,13202,White,Beige,nissan-infiniti lt,13200,15800,2015-02-04,01:00:00
+2013,Nissan,Altima,2.5,Sedan,Automatic,1n4al3ap7dc246773,TN,39,23336,—,Black,nissan north america inc.,14050,16600,2015-02-04,02:30:00
+2012,Nissan,Leaf,SV,Hatchback,Automatic,jn1az0cp3ct024723,MO,37,16738,Silver,Gray,nissan-infiniti lt,11800,11400,2015-02-04,02:30:00
+2013,Nissan,Maxima,3.5 SV,Sedan,Automatic,1n4aa5ap2dc814364,CA,35,54121,White,Black,the hertz corporation,14000,13800,2015-02-04,04:30:00
+2001,Porsche,911,Turbo,Coupe,Manual,wp0ab29961s685624,CA,33,68018,Black,Black,trade in solutions,29800,29750,2015-02-04,04:30:00
+2007,Saturn,Aura,XR,Sedan,Automatic,1g8zv57707f198119,CA,37,112569,Silver,Black,lobel financial corp,4375,4400,2015-02-04,04:30:00
+2008,Toyota,Land Cruiser,Base,SUV,Automatic,jtmhy05j284001023,GA,25,110257,Red,Beige,germain toyota of sarasota,29900,29200,2015-02-04,02:00:00
+2012,Toyota,Prius Plug-in,Base,Hatchback,Automatic,jtdkn3dp0c3016558,VA,37,33462,White,Gray,meridian remarketing,16600,15400,2015-02-04,16:00:00
+2009,Toyota,Sienna,LE 7-Passenger,Minivan,Automatic,5tdzk23c79s271859,CA,41,81258,Silver,Gray,aaero sweet company,9150,11800,2015-02-04,04:00:00
+2007,Chevrolet,Impala,LS,Sedan,Automatic,2g1wb58k979405743,GA,37,58915,Gray,Black,automobile acceptance corp,6075,7400,2015-02-05,02:00:00
+2007,Chevrolet,Silverado 1500,Work Truck,Regular Cab,Automatic,1gcec14c17z529602,OH,33,99664,White,Gray,sullivan auto group llc,9100,8000,2015-02-05,02:30:00
+2003,Chrysler,PT Cruiser,Base,Wagon,Automatic,3c4fy48b53t531993,VA,19,103498,Silver,Gray,toyota of stafford,1300,1500,2015-02-05,01:35:00
+2008,Ford,Escape,XLT,SUV,Automatic,1fmcu03z78ke74227,VA,42,122001,Gray,Gray,r k chevrolet inc,5575,5300,2015-02-05,01:35:00
+2011,Ford,F-150,XL,SuperCrew,Automatic,1ftfw1ef9bkd37883,TX,28,162157,White,Gray,ge fleet services for itself/servicer,11300,9500,2015-02-05,03:00:00
+2004,Ford,F-150,XL,Regular Cab,Automatic,1ftrf12w44nb35262,IL,19,141575,White,Gray,wells fargo financial acceptance,3175,2700,2015-02-05,02:00:00
+2011,Ford,F-250 Super Duty,XL,Supercab,Automatic,1ft7x2a65bea47328,TX,3,132061,White,Gray,donlen corporation,7750,7800,2015-02-05,03:00:00
+2011,Ford,Flex,Titanium,Wagon,Automatic,2fmhk6dt2bbd11057,CA,38,86004,White,Black,ford motor credit company llc,16600,19000,2015-02-05,04:00:00
+2005,Ford,Focus,ZX4 ST,Sedan,Manual,1fahp38zx5w138917,VA,19,82688,Silver,Black,brown's leesburg hyundai,2675,2900,2015-02-05,01:05:00
+2009,Honda,Odyssey,LX,Minivan,Automatic,5fnrl38229b026863,CA,31,59857,Gray,Gray,a & a auto sales,8500,12000,2015-02-05,04:00:00
+2011,Hyundai,Elantra,GLS,Sedan,Automatic,5npdh4ae8bh038013,CA,28,66381,White,Beige,wells fargo dealer services,8300,8600,2015-02-05,04:00:00
+2008,Hyundai,Elantra,GLS,Sedan,Automatic,kmhdu46d18u421829,FL,28,86194,Red,Beige,grow financial fcu,5050,6200,2015-02-05,01:35:00
+2011,Infiniti,G Sedan,G25x,G Sedan,Automatic,jn1dv6ar1bm654197,IL,39,21410,Blue,Blue,nissan infiniti lt,17650,17200,2015-02-05,02:00:00
+2012,Jeep,Grand Cherokee,Overland,SUV,Automatic,1c4rjfcg2cc249029,MI,5,62262,Black,Tan,kevins marysville auto sales inc,29800,26500,2015-02-05,01:30:00
+2012,Jeep,Patriot,Latitude,SUV,Automatic,1c4njpfb4cd605284,FL,34,30637,Orange,Black,chrysler capital,12450,12500,2015-02-05,01:35:00
+2008,Lexus,GX 470,Base,SUV,Automatic,jtjbt20x580171246,GA,35,78962,Silver,Gray,wells fargo dealer services,20200,20500,2015-02-05,02:00:00
+2012,Lincoln,MKZ,Base,Sedan,Automatic,3lnhl2gcxcr809656,IL,26,25389,White,Beige,ford motor credit company llc,16150,14700,2015-02-05,02:00:00
+2011,Nissan,Sentra,2.0 SR,Sedan,Automatic,3n1ab6ap3bl628768,GA,39,54021,White,Gray,car solutions,8575,9100,2015-02-05,02:00:00
+2011,Toyota,Camry,LE,Sedan,Automatic,4t4bf3ek1br211417,GA,36,26833,Silver,Gray,world omni financial corporation,12050,12500,2015-02-05,02:00:00
+2008,Dodge,Charger,Base,Sedan,Automatic,2b3ka43h48h298639,NV,43,67345,White,Black,millennium cars,6325,10000,2015-02-06,04:00:00
+2013,Ford,Escape,SE,SUV,Automatic,1fmcu0g99dua80401,FL,34,70135,Turquoise,Gray,ge fleet services for itself/servicer,12900,12000,2015-02-06,01:50:00
+2012,Honda,Odyssey,EX-L,Minivan,Automatic,5fnrl5h67cb029196,PA,46,41760,Gray,Gray,adcock brothers inc,21700,23400,2015-02-06,01:00:00
+2012,Honda,Odyssey,Touring,Minivan,Automatic,5fnrl5h95cb015386,PA,4,46469,Gray,Gray,adcock brothers inc,25100,24800,2015-02-06,01:00:00
+2006,Infiniti,QX56,Base,SUV,Automatic,5n3aa08c36n806218,PA,28,89242,Silver,Black,melvin g rhoades auto sales llc,12550,14800,2015-02-06,01:15:00
+2012,Mazda,Mazda3,i Touring,Sedan,Automatic,jm1bl1vg8c1507917,PA,42,25802,Gray,Black,jpmorgan chase bank n.a.,11700,12000,2015-02-06,01:00:00
+2013,Mercedes-Benz,GLK-Class,GLK350 4MATIC,SUV,Automatic,wdcgg8jb3dg127230,NV,35,48734,Gray,Black,the hertz corporation,25300,25250,2015-02-06,04:00:00
+2007,Volkswagen,Passat,Base,Sedan,Automatic,wvwjk73c67p070567,FL,21,99992,White,Black,east coast financial,4750,3300,2015-02-06,01:45:00
+2014,Chevrolet,Impala Limited,LS Fleet,Sedan,Automatic,2g1wa5e3xe1171592,FL,4,17670,White,Black,gm remarketing,12450,13100,2015-02-09,05:00:00
+2014,Chevrolet,Impala Limited,LT Fleet,Sedan,Automatic,2g1wb5e35e1149500,FL,4,17127,White,Beige,gm remarketing,13450,13800,2015-02-09,05:00:00
+2006,Ford,Freestar,SE,Minivan,Automatic,2fmza51646ba47023,MO,17,110550,Gray,Gray,dt inventory,2125,1250,2015-02-09,03:00:00
+2007,Honda,Accord,EX-L,Sedan,Automatic,1hgcm56887a014634,NC,25,121750,Gray,Gray,fleet lease remarketing,7100,7800,2015-02-09,01:30:00
+2006,Nissan,Altima,2.5 S,Sedan,Automatic,1n4al11d66c205337,NC,3,152258,Silver,Black,credit acceptance corp/vrs/southfield,3250,2800,2015-02-09,01:30:00
+2012,Bmw,1 Series,128i,Convertible,Manual,wbaun1c55cvh78088,FL,44,13242,Black,Black,financial services remarketing (lease),25000,23200,2015-02-10,04:15:00
+2008,Bmw,3 Series,335i,Sedan,Automatic,wbavb77568nh79364,FL,42,95415,Black,Black,napleton's clermont chrysler jeep dodge,10150,10600,2015-02-10,01:00:00
+2008,Chevrolet,Silverado 1500,Work Truck,Extended Cab,Automatic,1gcec19038z315405,GA,39,128014,Burgundy,Black,edward colosimo auto sales,10750,12000,2015-02-10,01:30:00
+2014,Chevrolet,Silverado 1500,LT,Crew Cab,Automatic,3gcpcrec2eg473298,FL,43,11990,Silver,Black,enterprise veh exchange/rental,26600,26800,2015-02-10,01:30:00
+2006,Chevrolet,TrailBlazer,LT,SUV,Automatic,1gndt13s262147632,TN,39,103723,Gray,Black,dt credit corporation,5975,6300,2015-02-10,02:30:00
+2014,Chrysler,Town and Country,Touring,Minivan,Automatic,2c4rc1bg2er363847,CA,3,19282,—,Black,enterprise holdings/gdp,19400,19600,2015-02-10,04:30:00
+2008,Ford,Edge,SEL,SUV,Automatic,2fmdk38c08bb01573,MD,26,106096,Black,Black,remarketing by ge/flagship credit acceptance,8625,6200,2015-02-10,01:30:00
+2013,Ford,Explorer,Base,SUV,Automatic,1fm5k7b97dgc15646,IL,43,25031,White,Tan,lease plan usa,21200,19000,2015-02-10,02:00:00
+2008,Ford,F-150,XL,SuperCrew,Automatic,1ftrw12w58fa75878,MD,36,52014,White,Gray,ge fleet services for itself/servicer,10900,12300,2015-02-10,01:30:00
+2013,Ford,Focus,SE,Hatchback,Automatic,1fadp3k28dl272951,OR,43,37736,Red,Black,avis corporation,11300,11500,2015-02-10,04:00:00
+2006,Ford,Focus,ZX5 SE,Hatchback,Automatic,1fafp37n96w217647,MD,32,67934,Burgundy,Gray,ford motor credit company llc pd,5050,4300,2015-02-10,01:30:00
+2008,Ford,Focus,SES,Sedan,Automatic,1fahp35n88w130952,GA,28,124190,Silver,—,professional financial services/buford,4050,3000,2015-02-10,05:00:00
+2013,Ford,Taurus,SE,Sedan,Automatic,1fahp2d84dg157916,FL,46,87450,White,Beige,ge fleet services for itself/servicer,11300,12300,2015-02-10,03:05:00
+2008,Honda,Ridgeline,RTX,Crew Cab,Automatic,2hjyk16398h533309,MA,21,142544,Silver,Gray,boch new to you superstore,8700,6500,2015-02-10,02:00:00
+2013,Hyundai,Sonata,GLS,Sedan,Automatic,5npeb4ac9dh762719,FL,27,35868,Blue,Gray,florida auto financial group,12450,11100,2015-02-10,01:30:00
+2012,Hyundai,Sonata,SE,Sedan,Automatic,5npec4ac7ch374870,GA,34,62332,Black,Black,kern automotive group inc,11700,11900,2015-02-10,01:30:00
+2007,Hyundai,Tucson,SE,SUV,Automatic,km8jn12d77u634190,FL,21,105316,White,Gray,jpmorgan chase bank n.a.,4375,4300,2015-02-10,01:30:00
+2005,Jeep,Grand Cherokee,Laredo,SUV,Automatic,1j4gr48k15c564130,OH,2,103954,Blue,Gray,credit acceptance corp/vrs/southfield,5875,4800,2015-02-10,04:00:00
+2011,Jeep,Grand Cherokee,Laredo,SUV,Automatic,1j4rr4gg5bc537420,OH,36,79897,Red,Black,jr's auto city inc,17650,17700,2015-02-10,01:30:00
+2012,Kia,Sedona,LX,Minivan,Automatic,kndmg4c77c6479550,CA,34,73343,Silver,Gray,dtg operations inc,9525,9801,2015-02-10,04:30:00
+2000,Lincoln,LS,V8,Sedan,Automatic,1lnhm87a7yy781922,GA,29,76533,Beige,Tan,ari,2125,3550,2015-02-10,05:00:00
+2012,Mazda,Mazda5,Grand Touring,Minivan,Automatic,jm1cw2dlxc0141481,MO,49,25619,Gray,Black,gentry motor co inc,14300,15600,2015-02-10,03:00:00
+2007,Mercedes-Benz,S-Class,S550,Sedan,Automatic,wddng71x57a117122,GA,46,79589,Black,Beige,crown direct llc,20300,22200,2015-02-10,01:30:00
+2013,Nissan,Altima,2.5,Sedan,Automatic,1n4al3ap4dn512772,GA,45,54985,Silver,Gray,dollar thrifty automotive group,12100,12300,2015-02-10,01:30:00
+2008,Pontiac,Solstice,GXP,Convertible,Manual,1g2mg35x58y103596,CA,25,105379,Orange,Black,remarketing by ge/xpress rent a car,6025,5000,2015-02-10,04:00:00
+2013,Bmw,3 Series,328i xDrive,Sedan,Automatic,wba3b5c55df590661,CO,37,33465,Red,Black,avis corporation,25200,24400,2015-02-11,03:45:00
+2008,Cadillac,CTS,Base,Sedan,Automatic,1g6dj577280179137,TX,35,87009,Black,Beige,td auto finance,10250,11600,2015-02-11,02:15:00
+2013,Chevrolet,Camaro,LS,Coupe,Manual,2g1fe1e34d9235932,FL,43,19523,White,Black,capital one auto finance,15900,17000,2015-02-11,01:10:00
+2014,Chevrolet,Cruze,2LT,Sedan,Automatic,1g1pe5sb5e7123716,TX,39,38820,Black,Black,avis corporation,12850,13200,2015-02-11,02:00:00
+2011,Chevrolet,Equinox,LT1,SUV,Automatic,2cnflde53b6253428,MO,28,110213,White,Black,regional acceptance corporation / winterville,8700,9600,2015-02-11,02:30:00
+2014,Chevrolet,Express,LS 3500,Van,Automatic,1gazg1fg1e1183836,NJ,41,14330,White,Gray,enterprise veh exchange/rental,24500,23600,2015-02-11,01:30:00
+2012,Chevrolet,Malibu,LT,Sedan,Automatic,1g1zc5e05cf392388,LA,35,62888,Silver,Black,the hertz corporation,9475,9900,2015-02-11,03:00:00
+2005,Chevrolet,TrailBlazer EXT,LS,SUV,Automatic,1gnes16s656115504,TX,45,83582,Silver,Gray,mike motors,4375,6200,2015-02-11,02:00:00
+2012,Dodge,Grand Caravan,American Value Package,Minivan,Automatic,2c4rdgbg5cr165373,NY,44,59020,Silver,Black,santander consumer,10000,10600,2015-02-11,01:45:00
+2013,Dodge,Grand Caravan,SXT,Minivan,Automatic,2c4rdgcg7dr573891,WI,36,87881,Black,Black,wheels exchange llc,10300,11500,2015-02-11,02:00:00
+2013,Ford,Edge,Limited,SUV,Automatic,2fmdk4kc0dbc27103,MN,32,42006,—,Beige,avis corporation,22100,22800,2015-02-11,02:30:00
+2013,Ford,Escape,S,SUV,Automatic,1fmcu0f71dub71338,MN,43,80249,Black,Black,fleet depot,11000,11400,2015-02-11,02:30:00
+2012,Ford,Escape,Limited,SUV,Automatic,1fmcu9eg1ckb86745,TN,39,51462,—,Black,ford motor credit company llc,16650,16900,2015-02-11,02:00:00
+2011,Ford,Fusion,SEL,Sedan,Automatic,3fahp0ja7br123552,CA,31,111082,Silver,Gray,wheels exchange llc,7100,7400,2015-02-11,04:30:00
+2011,Honda,Accord,LX,Sedan,Automatic,1hgcp2f37ba153544,TX,29,33209,Gray,Beige,santander consumer,11150,10300,2015-02-11,02:00:00
+2013,Hyundai,Elantra,GLS,Sedan,Automatic,kmhdh4ae0du580047,MN,35,27777,Black,Gray,hyundai motor finance,11750,11400,2015-02-11,02:30:00
+2012,Hyundai,Elantra,GLS,Sedan,Automatic,kmhdh4ae1cu334395,MN,4,58756,Black,Gray,hyundai motor finance,9400,10000,2015-02-11,02:30:00
+2012,Hyundai,Sonata,GLS,Sedan,Automatic,5npeb4ac9ch488503,MN,29,30388,Black,Gray,hyundai motor finance,11900,11000,2015-02-11,02:30:00
+2014,Jeep,Patriot,Latitude,SUV,Automatic,1c4njrfb8ed778336,MN,4,22345,White,Black,hertz corporation/gdp,16950,16400,2015-02-11,05:00:00
+2015,Kia,Sorento,LX,SUV,Automatic,5xykt3a65fg560412,TX,42,21242,White,Black,enterprise vehicle exchange/dfw airport,18950,18800,2015-02-11,02:15:00
+2005,Kia,Sorento,LX,SUV,Automatic,kndjc733755411173,AZ,19,81611,Blue,Gray,credit acceptance corp/vrs/southfield,4000,5500,2015-02-11,03:15:00
+2013,Lexus,RX 350,Base,SUV,Automatic,2t2bk1ba1dc181356,WI,19,24599,Silver,Gray,lexus financial services,33600,30700,2015-02-11,02:00:00
+2013,Mercedes-Benz,C-Class,C250 Sport,Sedan,Automatic,wddgf4hb8dr295804,TX,42,42651,Gray,Black,music city autoplex llc,20700,22000,2015-02-11,02:20:00
+2013,Mercedes-Benz,C-Class,C300 Sport 4MATIC,Sedan,Automatic,wddgf8ab8dg042172,WI,36,16264,—,Black,mercedes-benz financial services,25800,26000,2015-02-11,02:00:00
+2013,Mercedes-Benz,GL-Class,GL550 4MATIC,SUV,Automatic,4jgdf7de2da182889,WI,37,56831,White,Tan,selig leasing co inc,53100,50000,2015-02-11,02:00:00
+2013,Nissan,Pathfinder,SV,SUV,Automatic,5n1ar2mm3dc666451,NE,2,43016,White,Black,hertz damaged liquidation,19850,10300,2015-02-11,02:00:00
+2013,Nissan,Sentra,SV,Sedan,Automatic,3n1ab7ap5dl796999,TN,45,22116,—,Black,nissan motor acceptance corporation,12050,12000,2015-02-11,02:30:00
+2013,Toyota,Corolla,S,Sedan,Automatic,2t1bu4ee0dc998039,WA,42,36075,Silver,Black,dollar rac/seattle,13100,14300,2015-02-11,05:15:00
+2012,Volkswagen,Jetta,Base,Sedan,Automatic,3vw2k7ajxcm363553,CA,35,42712,White,Black,california rent-a-car & leasing,8650,10700,2015-02-11,04:30:00
+2006,Acura,MDX,Base,SUV,Automatic,2hnyd18296h540576,VA,29,110902,White,Beige,pohanka acura,7925,7900,2015-02-12,01:50:00
+2013,Acura,MDX,Technology Package,SUV,Automatic,2hnyd2h34dh506816,CA,43,25397,Black,Gray,american road leasing inc,33200,34750,2015-02-12,04:30:00
+2012,Bmw,3 Series,328i,Sedan,Automatic,wba3c1c5xcf430151,CA,42,35154,Gray,Brown,financial services remarketing (lease),26200,26750,2015-02-12,04:30:00
+2013,Chevrolet,Malibu,LS,Sedan,Automatic,1g11b5sa9df164313,MI,43,40232,Blue,Gray,gm financial leasing,11700,11300,2015-02-12,01:30:00
+2004,Chevrolet,Tahoe,LS,SUV,Automatic,1gnec13z74j118504,FL,34,142932,Gray,Gray,priscilla & kids wholesalers inc,6225,7300,2015-02-12,03:30:00
+2015,Chrysler,200,S,Sedan,Automatic,1c3cccdg9fn586226,IL,4,9030,Blue,Black,chrysler group llc,20700,21250,2015-02-12,03:00:00
+2012,Chrysler,300,Limited,Sedan,Automatic,2c3ccacg3ch114355,GA,33,48229,Gray,Black,sossa pre owned,16650,16800,2015-02-12,02:00:00
+2008,Chrysler,PT Cruiser,Touring,Wagon,Automatic,3a8fy58b98t214854,CA,19,88643,Blue,Gray,santander consumer,3575,3200,2015-02-12,04:00:00
+2007,Chrysler,Pacifica,Touring,Wagon,Automatic,2a8gm68x07r142218,MI,29,129944,Blue,Gray,first investors financial services,3525,3700,2015-02-12,01:30:00
+2004,Dodge,Durango,Limited,SUV,Automatic,1d8hb58n54f139233,OH,21,108957,Burgundy,Gray,dt credit corporation,4550,3700,2015-02-12,01:00:00
+2012,Dodge,Grand Caravan,American Value Package,Minivan,Automatic,2c4rdgbg3cr195116,MN,29,83581,Red,Black,ge fleet services for itself/servicer,8875,9600,2015-02-12,02:45:00
+2010,Dodge,Ram Pickup 1500,Laramie,Quad Cab,Automatic,1d7rv1gt3as163249,MN,2,143185,White,Black,enterprise fleet management exchange  inc.,14200,10300,2015-02-12,02:45:00
+2008,Ford,Escape,XLT,SUV,Automatic,1fmcu03z38ka33369,MI,35,129339,Gray,Tan,ocean honda,5300,4900,2015-02-12,01:30:00
+1999,Ford,Expedition,XLT,SUV,Automatic,1fmpu18l3xla66294,OH,1,186674,Red,Gray,dt inventory,1100,600,2015-02-12,01:00:00
+2010,Ford,F-150,XLT,Supercab,Automatic,1ftex1c83afb50773,MI,33,50838,Red,Gray,larry hudson chevrolet buick gmc inc,15650,14500,2015-02-12,01:30:00
+2009,Ford,F-150,XLT,Supercab,Automatic,1ftrx14899fa29922,MI,21,101828,White,Tan,automobiles paille inc,13650,11300,2015-02-12,01:30:00
+2011,Ford,F-250 Super Duty,Lariat,Crew Cab,Automatic,1ft7w2btxbeb04078,TX,34,93570,—,Black,ford motor credit company llc,32500,28000,2015-02-12,02:30:00
+2012,Honda,Accord,SE,Sedan,Automatic,1hgcp2f63ca047460,CA,36,32928,Silver,Black,ahfc/honda lease trust/hvt  inc. eot,13150,14900,2015-02-12,04:00:00
+2013,Honda,Accord,EX-L V-6,Sedan,Automatic,1hgcr3f84da011277,GA,28,28917,Blue,Gray,ahfc/honda lease trust/hvt  inc.,19250,19400,2015-02-12,02:00:00
+2002,Honda,Civic,LX,Sedan,Automatic,2hges16562h512046,FL,19,69834,Burgundy,Beige,credit acceptance corp/vrs/southfield,3425,2700,2015-02-12,09:00:00
+2014,Mercedes-Benz,C-Class,C250 Sport,Sedan,Automatic,wddgf4hb6ea937629,TX,43,12623,Black,Gray,mercedes-benz financial services,25500,25750,2015-02-12,03:00:00
+2014,Mercedes-Benz,S-Class,S550,Sedan,Automatic,wddug8cb8ea039953,CA,5,344,Black,Black,mercedes-benz finc services premier program,81000,109000,2015-02-12,04:30:00
+2009,Mitsubishi,Lancer,ES,Sedan,Automatic,ja3au26u39u006684,FL,3,119208,Red,Black,liquidation llc,4025,4000,2015-02-12,07:00:00
+2005,Nissan,Titan,SE,Crew Cab,Automatic,1n6aa07a15n508002,AZ,19,83041,Gold,Gray,remarketing by ge/manheim phoenix,9550,9600,2015-02-12,03:00:00
+2013,Porsche,Boxster,S,Convertible,Manual,wp0cb2a84ds132440,CA,49,6257,Red,Black,eurocar,56300,56500,2015-02-12,04:00:00
+2011,Toyota,Tacoma,Base,Regular Cab,Manual,5tfnx4cn5bx003938,GA,25,60998,Gray,Gray,world omni financial corporation,11650,8900,2015-02-12,02:00:00
+2011,Toyota,Tundra,Tundra FFV,Crewmax Cab,Automatic,5tfdw5f15bx193723,TX,23,71781,Black,—,capital one auto finance,25700,23250,2015-02-12,04:00:00
+2013,Volkswagen,Jetta,SE PZEV,Sedan,Automatic,3vwdp7aj2dm418685,GA,36,51609,Black,Black,avis corporation,9850,9500,2015-02-12,02:00:00
+2014,Chrysler,Town and Country,Touring,Minivan,Automatic,2c4rc1bg3er214931,TX,44,37898,White,—,avis corporation,17500,18300,2015-02-13,02:30:00
+2013,Chrysler,Town and Country,Touring,Minivan,Automatic,2c4rc1bg5dr629831,FL,37,65343,Black,Black,the hertz corporation,13700,13500,2015-02-13,03:20:00
+2012,Fiat,500,Sport,Hatchback,Manual,3c3cffbr3ct348025,NV,42,16708,Red,Black,prestige chrysler jeep dodge,9425,10000,2015-02-13,03:45:00
+2005,Gmc,Yukon,Fleet,SUV,Automatic,1gkek13t95j124768,PA,28,102959,—,Beige,r hollenshead auto sales inc,9550,8200,2015-02-13,01:00:00
+2012,Jeep,Liberty,Sport,SUV,Automatic,1c4pjmakxcw107738,PA,32,32394,Gray,Gray,hann financial services,15350,14400,2015-02-13,01:00:00
+2007,Nissan,Sentra,2,Sedan,Automatic,3n1ab61e57l603182,FL,19,130677,Red,Gray,lease & rental management,3500,3600,2015-02-13,02:30:00
+2004,Nissan,Xterra,XE,SUV,Automatic,5n1ed28t74c662193,NV,25,113345,Black,Gray,courtesy mitsubishi mazda kia,3725,4700,2015-02-13,03:45:00
+2002,Volkswagen,New Beetle,GLS 1.8T,Hatchback,Automatic,3vwcd21c02m431232,FL,34,80460,Orange,Black,tmt auto wholesale inc,3000,4000,2015-02-13,01:30:00
+2011,Buick,Enclave,CXL1,SUV,Automatic,5gakrbed7bj305452,NC,35,29430,Beige,Beige,fiserv/usb dealer services northstar exchange,22400,20600,2015-02-17,01:15:00
+2013,Chevrolet,Equinox,LT,SUV,Automatic,2gnaldek5d6305026,NC,27,39004,Silver,Black,lease plan usa,16450,15300,2015-02-17,01:15:00
+2007,Chevrolet,Impala,LS,Sedan,Automatic,2g1wb58k079372812,TX,43,94255,Red,Gray,dt credit corporation,5150,6200,2015-02-17,03:00:00
+2015,Chevrolet,Tahoe,LT,SUV,Automatic,1gnscbkc6fr156252,FL,4,17325,White,Black,enterprise veh exchange/rental,42000,42200,2015-02-17,01:30:00
+2005,Ford,Explorer,XLT,SUV,Automatic,1fmzu73e95uc01113,OH,25,128518,Gray,Beige,credit acceptance corp/vrs/southfield,2525,2000,2015-02-17,04:00:00
+2013,Ford,F-150,FX4,SuperCrew,Automatic,1ftfw1ef9dkd64939,MO,45,13314,Black,Black,ford motor credit company llc,35700,33500,2015-02-17,03:00:00
+2011,Ford,F-150,SVT Raptor,SuperCrew,Automatic,1ftfw1r64bfc78647,OH,38,29578,Blue,Black,u s auto importing & sales,40500,39500,2015-02-17,01:30:00
+2014,Ford,F-150,XL,Regular Cab,Automatic,1ftnf1cf9ekd21024,MO,36,11629,Blue,Gray,u-haul technical center,18100,17600,2015-02-17,03:00:00
+2006,Ford,F-150,XL,Supercab,Automatic,1ftrx14w26nb57595,NC,26,172858,Red,Gray,ari,1925,2200,2015-02-17,00:30:00
+2006,Ford,Five Hundred,Limited,Sedan,Automatic,1fahp25186g158068,GA,28,123470,Burgundy,Beige,capital one auto finance,4025,4000,2015-02-17,01:30:00
+2001,Ford,Mustang,Base,Coupe,Manual,1fafp40431f103756,GA,19,227653,Black,Gray,frantz auto brokers llc,925,1100,2015-02-17,05:10:00
+2005,Ford,Ranger,FX4 Level II,Supercab,Automatic,1ftzr45e25pa08348,MA,25,105985,Black,Black,imperial chrysler dodge jeep corp,8150,6150,2015-02-17,02:00:00
+2007,Honda,Odyssey,EX,Minivan,Automatic,5fnrl38477b116167,CA,36,82051,Blue,Gray,tycon enterprises,8025,11500,2015-02-17,04:30:00
+2011,Hyundai,Elantra,GLS,Sedan,Automatic,5npdh4ae3bh023029,TX,31,95296,Beige,Tan,fiserv/crescent bank & trust,6550,7800,2015-02-17,02:30:00
+2012,Infiniti,G Sedan,G37 Journey,G Sedan,Automatic,jn1cv6ap3cm626106,CA,39,65762,Black,Black,nissan infiniti lt,16500,18500,2015-02-17,04:30:00
+2014,Jeep,Grand Cherokee,Laredo,SUV,Automatic,1c4rjfag7ec146047,NC,41,30295,White,Tan,wheels exchange llc,24500,25300,2015-02-17,01:15:00
+2015,Kia,Sorento,LX,SUV,Automatic,5xyktca67fg585487,OH,5,9237,Gray,Black,kia motors america  inc,21000,21100,2015-02-17,01:30:00
+2014,Kia,Soul,+,Wagon,Automatic,kndjp3a56e7726293,CA,49,9425,Green,Black,kia motors america  inc,14300,15500,2015-02-17,04:30:00
+2011,Mazda,Mazda3,s Sport,Sedan,Automatic,jm1bl1u50b1470960,FL,36,33123,Gray,Black,jpmorgan chase bank n.a.,10650,10200,2015-02-17,01:30:00
+2005,Mitsubishi,Galant,SE,Sedan,Automatic,4a3ab36f15e071159,TX,33,179950,Silver,Black,dt credit corporation,975,2900,2015-02-17,03:00:00
+2014,Mitsubishi,Outlander Sport,ES,SUV,Automatic,4a4ap3au5ee019049,TX,39,21813,Black,Black,fiserv/regions bank,13600,13700,2015-02-17,02:30:00
+2012,Nissan,Altima,2.5 S,Sedan,Automatic,1n4al2apxcc133473,FL,19,36246,White,Black,nissan-infiniti lt,11900,12200,2015-02-17,01:30:00
+2013,Nissan,Rogue,S,SUV,Automatic,jn8as5mt1dw504841,GA,49,13233,Gray,Gray,contemporary auto sales,15550,16000,2015-02-17,01:30:00
+2007,Saturn,Aura,XR,Sedan,Automatic,1g8zv577x7f202497,IL,26,85250,Silver,Black,santander consumer,4975,4600,2015-02-17,02:00:00
+2006,Suzuki,Grand Vitara,Base,SUV,Automatic,js3td941564103510,FL,26,192797,Burgundy,Black,westfall auto sales,3100,3000,2015-02-17,08:00:00
+2014,Toyota,Camry,SE,Sedan,Automatic,4t1bf1fk6eu414157,FL,44,12551,Silver,Black,toyota motor sales usa inc/program,16750,16600,2015-02-17,01:30:00
+2009,Toyota,Sienna,LE 7-Passenger,Minivan,Automatic,5tdzk23c99s279722,GA,19,177509,White,Gray,santander consumer,6275,7500,2015-02-17,01:30:00
+2006,Volkswagen,New Beetle,2.5,Convertible,Automatic,3vwrf31y36m333517,IL,19,100012,White,—,santander consumer,3725,3400,2015-02-17,02:00:00
+2013,Volvo,S60,T5,Sedan,Automatic,yv1612fs8d2178660,FL,35,18445,Black,Beige,volvo car financial service/world omni,18300,18000,2015-02-17,01:30:00
+2013,Chevrolet,Captiva Sport,LT Fleet,SUV,Automatic,3gnal3ekxds612879,CA,38,61702,Silver,Black,the hertz corporation,12150,12300,2015-02-18,04:40:00
+2012,Chevrolet,Equinox,LT,SUV,Automatic,2gnfleek3c6399871,TN,49,74804,Silver,Gray,hutch chevrolet buick gmc inc,13500,14000,2015-02-18,02:30:00
+2007,Chevrolet,Suburban,1500 LS,SUV,Automatic,3gnfk16367g266471,CO,43,105003,Gray,Gray,federal asset remarketing services,13750,14400,2015-02-18,04:00:00
+2009,Chevrolet,Tahoe,LTZ,SUV,Automatic,1gnfc33009r101084,PA,37,81164,Black,Gray,bobby rahal volvo jaguar land rover,21100,21100,2015-02-18,01:00:00
+2013,Dodge,Dart,SE,Sedan,Automatic,1c3cdfaa3dd226094,PA,43,35313,Black,Black,exceptional motorcars ltd,9050,9800,2015-02-18,01:00:00
+2012,Ford,E-Series Van,E-150,E-Series Van,Automatic,1ftne1ew5cda70150,WI,38,63999,White,Gray,union leasing exchange llc,15100,15100,2015-02-18,02:00:00
+2004,Ford,Explorer Sport Trac,Adrenalin,Crew Cab,Automatic,1fmzu77k64uc21284,FL,19,111540,Beige,Tan,chrysler capital,7300,4200,2015-02-18,01:05:00
+2012,Gmc,Sierra 1500,SLE,Crew Cab,Automatic,3gtp1ve02cg105320,FL,31,36574,White,Black,remarketing by ge/fc leasing,24300,24600,2015-02-18,01:00:00
+2007,Honda,CR-V,EX-L,SUV,Automatic,jhlre48747c071148,VA,28,118879,Silver,Gray,city national bank,9550,8000,2015-02-18,01:30:00
+2011,Honda,Pilot,EX-L,SUV,Automatic,5fnyf4h53bb033037,WI,23,101747,Black,Gray,napletons river oaks honda,15400,14900,2015-02-18,02:00:00
+2013,Hyundai,Sonata,GLS,Sedan,Automatic,5npeb4ac9dh671630,CO,41,53537,Burgundy,Tan,avis corporation,11500,11500,2015-02-18,03:45:00
+2014,Kia,Forte,LX,Sedan,Automatic,knafx4a65e5094979,MO,37,36719,White,Black,avis corporation,11300,11000,2015-02-18,03:15:00
+2014,Kia,Optima,LX,Sedan,Automatic,5xxgm4a71eg349597,WI,44,11894,Burgundy,Beige,kia motors america  inc,15700,14700,2015-02-18,02:00:00
+2006,Lexus,IS 350,Base,Sedan,Automatic,jthbe262x62002462,PA,14,132220,Gray,Gray,td auto finance,9450,6000,2015-02-18,01:30:00
+2012,Nissan,Altima,2.5 S,Sedan,Automatic,1n4al2ap6cn524981,WA,23,67193,Black,Black,nissan motor acceptance corporation,9975,10000,2015-02-18,05:15:00
+2012,Nissan,Altima,2.5 S,Coupe,Automatic,1n4al2ep7cc171270,MO,24,16953,Gray,Black,nissan-infiniti lt,14750,11000,2015-02-18,02:30:00
+2002,Nissan,Maxima,SE,Sedan,Automatic,jn1da31d42t202569,CA,25,125264,Gray,Silver,lease remarketing services inc,2400,3100,2015-02-18,04:30:00
+2012,Chevrolet,Avalanche,LT,Crew Cab,Automatic,3gnmcfe09cg212133,FL,37,30957,Silver,Black,sullivan cadillac,27500,28500,2015-02-19,02:15:00
+2014,Chevrolet,Cruze,2LT,Sedan,Automatic,1g1pe5sb3e7119082,CA,27,36024,Red,Beige,avis corporation,12850,12500,2015-02-19,03:30:00
+2006,Chevrolet,Malibu,LT,Sedan,Automatic,1g1zt51856f124814,CA,26,102716,Blue,Black,hertz remarketing,3975,3600,2015-02-19,12:00:00
+2013,Chevrolet,Silverado 1500,LT,Crew Cab,Automatic,3gcpkse7xdg198999,MI,5,26255,White,Black,kevins marysville auto sales inc,28100,27600,2015-02-19,01:30:00
+2014,Chrysler,Town and Country,Touring,Minivan,Automatic,2c4rc1bg2er437963,PA,4,9885,Black,Black,enterprise holdings/gdp,20400,20800,2015-02-19,01:30:00
+2014,Chrysler,Town and Country,Touring,Minivan,Automatic,2c4rc1bg3er400162,PA,4,28720,Blue,Black,u save car & truck renta,18550,18400,2015-02-19,01:30:00
+2014,Ford,Edge,SEL,SUV,Automatic,2fmdk4jc9eba78998,TN,49,8944,—,Gray,avis budget group,23600,23900,2015-02-19,03:00:00
+2008,Ford,Escape,Limited,SUV,Automatic,1fmcu94148kc83071,AZ,27,85999,Black,Black,earnhardt,9375,10000,2015-02-19,03:00:00
+2011,Ford,F-150,FX4,SuperCrew,Automatic,1ftfw1ef3bfc35956,MI,47,60020,Black,Black,automobiles paille inc,24800,24700,2015-02-19,01:30:00
+2014,Ford,Mustang,V6,Coupe,Automatic,1zvbp8am7e5229612,AZ,42,30894,Blue,Black,avis corporation,18550,18300,2015-02-19,03:30:00
+2011,Gmc,Sierra 1500,SLE,Extended Cab,Automatic,1gtr2ve30bz119327,MN,26,115113,White,Black,select lane,15550,14600,2015-02-19,02:30:00
+2012,Honda,Accord,EX V-6,Sedan,Automatic,1hgcp3f76ca005511,IL,28,32679,White,Tan,ahfc/honda lease trust/hvt  inc. eot,14450,14000,2015-02-19,02:00:00
+2012,Infiniti,G Sedan,G25x,G Sedan,Automatic,jn1dv6ar2cm730673,IL,39,29321,Black,Black,nissan infiniti lt,17900,17800,2015-02-19,02:00:00
+2014,Lincoln,MKZ,Base,Sedan,Automatic,3ln6l2gk0er825947,TN,46,33707,Silver,Black,avis budget group,22200,22600,2015-02-19,03:00:00
+2014,Mazda,Mazda5,Sport,Minivan,Automatic,jm1cw2bl1e0168011,MI,44,15594,White,Tan,mazda motors of america inc.,14150,15100,2015-02-19,01:30:00
+2006,Mazda,Mazda6,s,Sedan,Automatic,1yvhp80dx65m67738,CA,28,137979,Gray,Gray,gosch ford,2925,3300,2015-02-19,04:00:00
+2001,Nissan,Xterra,XE,SUV,Manual,5n1ed28y21c508918,VA,34,215311,Silver,Gray,onemain remarketing services,1275,1000,2015-02-19,01:20:00
+2014,Bmw,4 Series,428i xDrive SULEV,Coupe,Automatic,wba3n9c57ek244733,NV,37,20397,Gray,Black,sixt rent a car,34000,35500,2015-02-20,04:00:00
+2015,Chevrolet,Tahoe,LTZ,SUV,Automatic,1gnskckc4fr125848,PA,41,15088,—,Black,r hollenshead auto sales inc,52200,51750,2015-02-20,09:00:00
+2009,Ford,Mustang,GT Premium,Coupe,Automatic,1zvht82h895129127,PA,34,81832,White,Black,eastern auto trading inc,10800,11300,2015-02-20,01:15:00
+2011,Honda,Pilot,EX-L,SUV,Automatic,5fnyf4h55bb072924,PA,42,74275,Black,Gray,west street motors llc,18250,18900,2015-02-20,09:00:00
+2013,Hyundai,Elantra,GLS,Sedan,Automatic,kmhdh4ae6du759127,PA,43,6170,Red,Beige,hyundai motor finance,13050,13400,2015-02-20,09:00:00
+2013,Toyota,RAV4,LE,SUV,Automatic,2t3bfrev3dw025377,FL,4,59795,Red,—,the hertz corporation,16800,16800,2015-02-20,01:50:00
+2007,Isuzu,i-Series,i-290 LS,Extended Cab,Automatic,1ggcs199878703189,NC,19,98179,Black,Gray,fred anderson toyota/scion,5050,4900,2015-02-23,01:00:00
+2002,Jeep,Liberty,Limited,SUV,Automatic,1j4gl58k42w259870,NC,35,155663,Silver,Gray,credit acceptance corp/vrs/southfield,2825,2500,2015-02-23,01:30:00
+2011,Bmw,3 Series,328i,Sedan,Automatic,wbaph7g50bnm58870,FL,27,56752,White,Beige,fiserv/global lending services,16400,16200,2015-02-24,01:30:00
+2002,Buick,Century,Custom,Sedan,Automatic,2g4ws52j321255008,CA,29,89317,Gold,Beige,tdaf remarketing,2650,3600,2015-02-24,04:30:00
+2005,Chrysler,Crossfire,Limited,Convertible,Automatic,1c3an65l35x058733,FL,23,36290,Black,Gray,napleton's clermont chrysler jeep dodge,8400,7600,2015-02-24,01:00:00
+2014,Ford,Edge,Sport,SUV,Automatic,2fmdk3ak6eba62873,GA,5,23061,Black,Black,budget rac of atlanta,29600,28500,2015-02-24,01:30:00
+2013,Ford,Edge,SEL,SUV,Automatic,2fmdk3jc1dbc33696,IL,49,20539,Brown,Black,ford motor credit company llc,23000,22400,2015-02-24,03:00:00
+2013,Ford,F-150,XLT,Supercab,Automatic,1ftfx1ef5dfa36813,IL,49,8437,Gray,Gray,ford motor credit company llc,26400,26800,2015-02-24,03:00:00
+2012,Honda,Accord,EX-L,Coupe,Automatic,1hgcs1b87ca006278,CA,25,31534,Black,Black,remarketing by ge/larry h miller-fleet lease,14600,13750,2015-02-24,04:00:00
+1997,Honda,CR-V,Base,SUV,Automatic,jhlrd185xvc042587,MA,25,174606,Green,Gray,hertz remarketing,1500,1400,2015-02-24,01:30:00
+2013,Honda,Fit,Base,Hatchback,Automatic,jhmge8h36dc013352,NC,44,37317,Silver,Gray,university ford inc,11600,12500,2015-02-24,01:30:00
+2011,Hyundai,Accent,GLS,Sedan,Automatic,kmhcn4acxbu605178,MD,4,50478,Silver,Gray,all car leasing inc,6425,6900,2015-02-24,01:30:00
+2002,Hyundai,Elantra,GLS,Sedan,Automatic,kmhdn45dx2u455533,MA,19,175271,Red,Tan,prestige auto mart inc,950,650,2015-02-24,02:00:00
+2012,Jeep,Grand Cherokee,Laredo,SUV,Automatic,1c4rjfag9cc105125,OH,43,34476,Black,Black,fiserv/usb dealer services northstar exchange,23100,25300,2015-02-24,01:30:00
+2012,Lincoln,MKX,Base,SUV,Automatic,2lmdj6jk7cbl03670,OH,46,39401,White,Beige,ford motor credit company llc,23000,21500,2015-02-24,01:00:00
+2005,Mazda,Mazda3,SP23 Special Edition,Sedan,Automatic,jm1bk323151295817,TN,21,110029,Gray,Black,dt inventory,3425,3900,2015-02-24,02:30:00
+2001,Mercedes-Benz,E-Class,E320 4MATIC,Sedan,Automatic,wdbjf82j21x044970,MD,41,115213,—,Black,carbiz,3125,2500,2015-02-24,01:30:00
+2012,Nissan,Altima,2.5 S,Sedan,Automatic,1n4al2ap7cc138663,FL,32,37095,Black,Black,nissan-infiniti lt,12050,11800,2015-02-24,01:30:00
+2015,Nissan,Altima,2.5 S,Sedan,Automatic,1n4al3ap8fn311380,TN,2,22837,—,Black,enterprise vehicle exchange/franklin,16250,14100,2015-02-24,02:00:00
+2005,Toyota,Camry,LE,Sedan,Automatic,4t1be30k05u561386,GA,19,195990,Gray,Gray,capital one auto finance,3175,2600,2015-02-24,01:30:00
+2009,Toyota,Corolla,S,Sedan,Automatic,1nxbu40e89z130657,MA,26,94052,Silver,Black,elmwood chrysler dodge jeep ram,7600,7400,2015-02-24,02:00:00
+2012,Volkswagen,Passat,S PZEV,Sedan,Automatic,1vwap7a33cc106671,CA,3,61657,Gray,Black,hertz damaged liquidation,8900,6000,2015-02-24,05:00:00
+2012,Acura,TL,Advance Package,Sedan,Automatic,19uua8f76ca004829,TX,45,75317,Black,Black,hopper motorplex inc,19950,20000,2015-02-25,02:15:00
+2005,Chevrolet,Cobalt,LT,Sedan,Automatic,1g1az54f157562048,TN,19,188992,Black,Tan,hertz remarketing,625,1400,2015-02-25,02:30:00
+2014,Chevrolet,Impala Limited,LTZ Fleet,Sedan,Automatic,2g1wc5e3xe1104999,CO,48,33448,White,Black,enterprise veh exchange/rental,14200,14000,2015-02-25,03:15:00
+2012,Chevrolet,Malibu,LS Fleet,Sedan,Automatic,1g1za5eu8cf155550,FL,43,84588,White,Black,westfall auto sales,8625,9400,2015-02-25,01:30:00
+2009,Chevrolet,Malibu,LT1,Sedan,Automatic,1g1zh57b394203743,NC,34,107250,Gray,Gray,bryan honda,6450,6400,2015-02-25,02:00:00
+2012,Fiat,500,Sport,Hatchback,Automatic,3c3cffbr1ct358116,WA,37,35019,Blue,Black,dollar rac/seattle,8525,9400,2015-02-25,04:55:00
+2014,Ford,E-Series Van,E-150,E-Series Van,Automatic,1ftne1ew4edb03593,NJ,45,12202,White,Gray,ars/enterprise,20200,21800,2015-02-25,01:00:00
+2014,Ford,E-Series Van,E-250,E-Series Van,Automatic,1ftne2ew4eda13804,NJ,35,11756,White,Gray,u-haul,21600,22400,2015-02-25,01:30:00
+2005,Ford,Five Hundred,SEL,Sedan,Automatic,1fahp24155g187091,CA,28,111256,Gray,Gray,west coast acceptance,3050,2700,2015-02-25,04:30:00
+2011,Ford,Focus,SES,Sedan,Automatic,1fahp3gn0bw108240,MN,2,113664,Black,Black,capital one auto finance,5100,6000,2015-02-25,02:30:00
+2014,Ford,Fusion,SE,Sedan,Automatic,3fa6p0hd3er208786,MO,42,37152,Black,Tan,ars/avis budget group,15150,15600,2015-02-25,02:00:00
+2011,Gmc,Sierra 2500HD,SLE,Crew Cab,Automatic,1gt120c83bf124702,UT,35,116600,Red,Black,excell auto center,25200,25200,2015-02-25,03:30:00
+2012,Honda,Civic,EX,Sedan,Automatic,2hgfb2f82ch326333,NJ,26,33079,Black,Gray,ahfc/honda lease trust/hvt  inc. eot,12100,10900,2015-02-25,01:30:00
+2012,Jeep,Wrangler,Rubicon,SUV,Manual,1c4bjwcg1cl118062,MO,49,27034,Red,Black,ford-lincoln dealer program,25900,26000,2015-02-25,02:00:00
+2014,Kia,Rio,LX,Sedan,Manual,knadm4a34e6364235,CA,41,35273,Red,Beige,santander consumer,10250,11000,2015-02-25,16:00:00
+2009,Kia,Sportage,LX,SUV,Manual,kndjf724097659423,NY,19,84230,Gray,Black,par north america,6225,4400,2015-02-25,02:00:00
+2004,Mercedes-Benz,C-Class,C230,Hatchback,Automatic,wdbrn40j54a590896,CA,29,71514,Silver,Gray,skyhigh remarketing inc,4575,5750,2015-02-25,04:00:00
+2001,Mercedes-Benz,S-Class,S430,Sedan,Automatic,wdbng70j11a136781,NJ,37,77641,Silver,Gray,autolenders liquidation center,4750,5000,2015-02-25,01:30:00
+2008,Nissan,Rogue,SL,SUV,Automatic,jn8as58tx8w023793,CA,24,52892,White,Gray,hoehn motors inc,10200,10500,2015-02-25,04:30:00
+2013,Nissan,Sentra,SV,Sedan,Automatic,3n1ab7ap3dl786407,MO,44,13092,Black,Black,nissan motor acceptance corporation,12550,12800,2015-02-25,02:30:00
+2012,Ram,1500,ST,Quad Cab,Automatic,1c6rd6ft3cs242295,TN,37,35916,Gray,—,remarketing by ge/flagship credit acceptance,18850,19700,2015-02-25,02:30:00
+2012,Toyota,Corolla,LE,Sedan,Automatic,2t1bu4eexcc805006,NJ,35,46231,Black,Gray,toyota financial services,10150,9900,2015-02-25,01:30:00
+2007,Bmw,3 Series,328i,Sedan,Automatic,wbava37567nl17300,FL,2,86388,Black,Tan,miscellaneous marshalling-manheim lakeland,9000,7500,2015-02-26,07:30:00
+2012,Bmw,5 Series,528i,Sedan,Automatic,wbaxg5c5xcdw66405,CA,46,43558,Gray,Black,financial services remarketing (lease),26700,26000,2015-02-26,04:30:00
+2006,Bmw,7 Series,750Li,Sedan,Automatic,wbahn83586dt63140,CA,21,123711,White,Black,wells fargo dealer services,7550,5900,2015-02-26,04:00:00
+2007,Chevrolet,Equinox,LS,SUV,Automatic,2cndl13f576101885,FL,19,100944,Black,Tan,courtesy toyota of brandon,5350,4400,2015-02-26,08:20:00
+2012,Chevrolet,Malibu,LT,Sedan,Automatic,1g1zc5e04cf271755,MI,48,50053,Red,Black,gm financial,10350,11500,2015-02-26,01:30:00
+2009,Chevrolet,Silverado 1500,Work Truck,Extended Cab,Automatic,1gcek19039z258823,TX,32,106283,White,Gray,donlen corporation,11650,11000,2015-02-26,03:00:00
+2011,Dodge,Avenger,Express,Sedan,Automatic,1b3bd4fb3bn545307,IN,24,121642,Black,Black,santander consumer,5425,4800,2015-02-26,02:10:00
+2007,Dodge,Caliber,SXT,Wagon,Automatic,1b3hb48b57d540538,NV,38,89428,Silver,Gray,centennial hyundai,4100,4600,2015-02-26,03:45:00
+2007,Dodge,Dakota,ST,Quad Cab,Automatic,1d7he28kx7s208526,GA,31,93925,Red,Gray,cameron motor sports,5600,7900,2015-02-26,02:00:00
+2011,Ford,F-150,XL,SuperCrew,Automatic,1ftfw1ef2bkd71051,TX,39,108016,White,Gray,donlen corporation,15650,15100,2015-02-26,03:00:00
+2008,Ford,F-150,XLT,SuperCrew,Automatic,1ftpw14v18fb87217,MI,38,47938,Black,Gray,runde chevrolet inc,18050,17600,2015-02-26,01:30:00
+2013,Ford,Fiesta,SE,Sedan,Automatic,3fadp4bj0dm159281,CA,2,22267,Silver,Black,ford motor credit company llc pd,9825,8300,2015-02-26,04:30:00
+2012,Ford,Focus,SE,Sedan,Automatic,1fahp3f23cl434916,TX,32,36902,—,Black,ford motor credit company llc,9675,10900,2015-02-26,02:30:00
+2014,Ford,Fusion,SE,Sedan,Automatic,3fa6p0h72er278712,AZ,39,31387,Red,Black,avis corporation,14600,15000,2015-02-26,03:30:00
+2001,Ford,Taurus,LX,Sedan,Automatic,1fafp52u61a151963,CA,26,166132,Gold,Beige,hertz remarketing,775,700,2015-02-26,04:00:00
+2004,Gmc,Envoy,SLT,SUV,Automatic,1gkds13s242238039,SC,35,108938,Silver,Tan,primeritus remarketing/davis wholesale outlet,3900,5900,2015-02-26,01:30:00
+2014,Gmc,Terrain,SLE-1,SUV,Automatic,2gkflvek0e6345525,MI,5,16430,Gray,Black,stratford hyundai,21900,21400,2015-02-26,01:30:00
+2009,Honda,Fit,Sport,Hatchback,Automatic,jhmge88439c002518,FL,24,67112,White,Black,first investors servicing corp,8400,7900,2015-02-26,01:35:00
+2013,Hyundai,Elantra,GLS,Sedan,Automatic,5npdh4ae7dh265275,FL,43,37111,Silver,Gray,the hertz corporation,11350,11500,2015-02-26,01:15:00
+2011,Hyundai,Elantra,GLS,Sedan,Automatic,kmhdh4ae5bu095058,FL,41,28232,Gray,Gray,florida credit union,9675,10200,2015-02-26,05:25:00
+2011,Infiniti,FX,FX35,SUV,Automatic,jn8as1mu4bm710844,CA,5,4982,Blue,Black,nissan infiniti lt,31600,32750,2015-02-26,04:30:00
+2013,Infiniti,G Sedan,G37 Journey,G Sedan,Automatic,jn1cv6ap2dm712752,CA,38,17717,Black,Black,nissan infiniti lt,21800,21750,2015-02-26,04:30:00
+2013,Mazda,Mazda3,i Sport,Sedan,Automatic,jm1bl1u74d1760610,IL,25,55922,Gray,Black,the hertz corporation,9900,10000,2015-02-26,02:30:00
+2013,Mercedes-Benz,C-Class,C250 Sport,Sedan,Automatic,wddgf4hbxdr266384,CA,35,22661,White,Beige,mercedes-benz financial services,22500,22250,2015-02-26,04:30:00
+2012,Mercedes-Benz,E-Class,E350,Coupe,Automatic,wddkj5kb9cf141268,CA,36,43074,Black,Gray,mercedes-benz financial services,27200,27000,2015-02-26,04:30:00
+2004,Mercury,Mountaineer,Luxury,SUV,Automatic,4m2zu86k84uj17756,FL,27,149119,Silver,Beige,nicholas financial inc/clearwater,2200,2000,2015-02-26,07:00:00
+2011,Nissan,Maxima,3.5 SV,Sedan,Automatic,1n4aa5ap3bc862632,IN,48,45799,White,Tan,santander consumer,15500,15400,2015-02-26,02:10:00
+2002,Pontiac,Grand Prix,GT,Sedan,Automatic,1g2wp52k52f267530,NY,23,117533,Blue,Gray,credit acceptance corp/vrs/southfield,1675,1500,2015-02-26,01:15:00
+2006,Toyota,Sienna,LE 8-Passenger,Minivan,Automatic,5tdza23c36s415177,FL,22,125602,Gold,Gray,santander consumer,5250,4100,2015-02-26,01:35:00
+2008,Volkswagen,New Beetle,S,Hatchback,Automatic,3vwrw31c48m500474,VA,37,72686,Red,Beige,brown's volkswagen suzuki,5650,7500,2015-02-26,01:05:00
+2014,Volkswagen,Passat,Wolfsburg Edition PZEV,Sedan,Automatic,1vwat7a32ec030293,GA,27,39092,Silver,Black,avis corporation,13900,13700,2015-02-26,01:30:00
+2009,Chrysler,Sebring,Touring,Sedan,Automatic,1c3lc56b29n568751,PA,36,35112,White,Beige,wayne auto sales inc,7775,8300,2015-02-27,01:30:00
+2012,Ford,Escape,XLT,SUV,Automatic,1fmcu9dg5cka11187,PA,47,85219,White,Black,usautoland inc,11950,10300,2015-02-27,01:00:00
+2008,Ford,Explorer,XLT,SUV,Automatic,1fmeu73e68ua40593,PA,19,96973,Silver,Beige,remarketing by ge/manheim pennsylvania,7825,7800,2015-02-27,01:00:00
+2014,Ford,Mustang,V6,Coupe,Automatic,1zvbp8am9e5304634,FL,44,18761,Silver,Beige,enterprise vehicle exchange/ars/coconut creek,17900,19200,2015-02-27,01:00:00
+2006,Hummer,H3,Base,SUV,Automatic,5gtdn136068128234,PA,43,62892,Beige,Tan,eastern auto trading inc,12500,10500,2015-02-27,01:00:00
+2014,Dodge,Journey,SXT,SUV,Automatic,3c4pdcbb5et180668,FL,4,21061,Charcoal,Black,hertz corporation/gdp,16400,16700,2015-03-02,04:30:00
+1999,Honda,Accord,LX,Sedan,Automatic,1hgcg5640xa092684,FL,19,154929,Silver,Beige,autonation acura sanford,1675,1200,2015-03-02,16:00:00
+2006,Bmw,5 Series,525i,Sedan,Automatic,wbane53546ck78643,FL,2,106209,Black,Beige,lexus of tampa bay,7525,6100,2015-03-03,01:15:00
+2002,Chevrolet,Avalanche,1500,Crew Cab,Automatic,3gnek13t22g120478,OH,34,119362,White,Green,byers imports llc,6125,5900,2015-03-03,01:30:00
+2014,Chevrolet,Cruze,2LT,Sedan,Automatic,1g1pe5sb4e7121259,GA,43,39865,White,Black,avis corporation,12750,12300,2015-03-03,01:30:00
+2013,Chevrolet,Malibu,LS Fleet,Sedan,Automatic,1g11a5sa0df240875,NC,43,91960,Black,Gray,ge fleet services for itself/servicer,9700,10400,2015-03-03,01:15:00
+2012,Chevrolet,Traverse,LT,SUV,Automatic,1gnkrged6cj343047,FL,31,56876,White,Black,fox rent a car,16600,17000,2015-03-03,01:30:00
+2013,Chrysler,Town and Country,Touring,Minivan,Automatic,2c4rc1bg7dr630172,CA,43,73136,Gray,Black,the hertz corporation,13300,13300,2015-03-03,04:30:00
+2014,Ford,Explorer,Limited,SUV,Automatic,1fm5k8f82egb11946,MD,38,53061,Gray,Beige,avis corporation,25100,24500,2015-03-03,01:30:00
+2012,Ford,Fiesta,SE,Hatchback,Manual,3fadp4ej5cm187393,MO,48,11956,Green,Black,ford motor credit company llc,10000,10000,2015-03-03,03:00:00
+2014,Ford,Focus,SE,Sedan,Automatic,1fadp3f21el119615,OH,44,34599,Silver,Gray,avis corporation,11700,11500,2015-03-03,02:30:00
+2013,Ford,Fusion,Titanium,Sedan,Automatic,3fa6p0k92dr281683,MO,41,42641,Black,Black,ford-lincoln dealer program,17000,16500,2015-03-03,03:00:00
+2010,Ford,Ranger,SPORT,Supercab,Manual,1ftlr4fe0apa28564,OH,43,76329,Red,Gray,stratton auto sales inc,12500,12750,2015-03-03,01:30:00
+2012,Honda,Accord,LX-S,Coupe,Automatic,1hgcs1b30ca015067,NC,49,27849,Red,Beige,suntrust bank,12700,14000,2015-03-03,01:15:00
+2013,Honda,Odyssey,EX-L,Minivan,Automatic,5fnrl5h69db003605,FL,43,21124,White,Beige,summer enterprises of miami inc,27300,27200,2015-03-03,01:30:00
+2013,Hyundai,Elantra,GLS,Sedan,Automatic,kmhdh4ae3du814228,GA,25,43608,Silver,Gray,hyundai of gadsden,11050,11200,2015-03-03,01:30:00
+2007,Jeep,Wrangler,Unlimited Sahara,SUV,Manual,1j4ga59137l203004,MD,36,87017,Black,Gray,annapolis subaru inc,16350,14700,2015-03-03,01:30:00
+2006,Kia,Sorento,LX,SUV,Automatic,kndjd733165595234,GA,29,98082,Black,Tan,nationwide financial inc,4150,5400,2015-03-03,05:10:00
+2011,Nissan,Maxima,3.5 SV,Sedan,Automatic,1n4aa5ap3bc864025,GA,42,49484,Black,Black,nissan-infiniti lt,15900,16000,2015-03-03,01:30:00
+2012,Toyota,Camry,SE,Sedan,Automatic,4t1bf1fk2cu134359,OH,41,29308,Gray,Black,toyota financial services,15000,14700,2015-03-03,01:30:00
+2011,Toyota,Sienna,XLE 8-Passenger,Minivan,Automatic,5tdyk3dc1bs103740,MO,43,73354,Gold,Tan,green toyota,19350,20500,2015-03-03,03:00:00
+2012,Toyota,Tundra,Tundra FFV,Double Cab,Automatic,5tfuw5f19cx243668,OH,18,46652,Gray,Black,toyota financial services,24100,21400,2015-03-03,01:30:00
+2014,Bmw,X1,xDrive28i,SUV,Automatic,wbavl1c50evy20872,CO,48,7385,Blue,Beige,the auto connection,28300,29000,2015-03-04,03:45:00
+1999,Buick,Regal,LS,Sedan,Automatic,2g4wb52k3x1578409,IN,2,1,Burgundy,Beige,dealer consignor,2400,700,2015-03-04,05:00:00
+2012,Chevrolet,Cruze,Eco,Sedan,Automatic,1g1pj5sc9c7151794,WI,28,56400,Red,Gray,gm financial leasing,9850,10600,2015-03-04,02:00:00
+2014,Chevrolet,Express,LS 3500,Van,Automatic,1gazg1fg0e1183116,PA,38,11322,White,Gray,brian s richmond enterprise inc,25600,25300,2015-03-04,01:00:00
+2005,Dodge,Dakota,SLT,Quad Cab,Automatic,1d7he48k85s160596,NJ,26,134005,Blue,Gray,lester glenn buick,4675,4000,2015-03-04,01:30:00
+2014,Ford,E-Series Wagon,E-350 Super Duty XLT,Van,Automatic,1fbne3bl3eda47852,TX,27,21542,White,Gray,avis budget group,19650,19300,2015-03-04,02:30:00
+2014,Ford,Expedition,EL King Ranch,SUV,Automatic,1fmjk1j57eef15291,TN,36,33339,White,Tan,avis budget group,32100,20100,2015-03-04,02:30:00
+2011,Ford,Explorer,XLT,SUV,Automatic,1fmhk7d82bga79795,TX,35,53406,White,Gray,ford motor credit company llc,19450,20100,2015-03-04,02:30:00
+2012,Ford,F-150,Platinum,SuperCrew,Automatic,1ftfw1efxcfc46597,NY,39,24844,White,Brown,ford motor credit company llc,34300,34000,2015-03-04,01:20:00
+2012,Ford,F-150,XLT,Supercab,Automatic,1ftfx1cf1cfa21498,TX,36,49857,White,Gray,santander consumer,18350,18900,2015-03-04,02:00:00
+2014,Ford,F-250 Super Duty,Lariat,Crew Cab,Automatic,1ft7w2bt4eea01968,TN,35,29785,—,Brown,ford-lincoln dealer program,46200,47400,2015-03-04,02:30:00
+2007,Honda,Civic,LX,Sedan,Automatic,2hgfa16557h502428,NJ,27,85891,Blue,Gray,holman ford lincoln turnersville,5925,5900,2015-03-04,01:30:00
+2013,Infiniti,G Sedan,G37 Journey,G Sedan,Automatic,jn1cv6ap4dm716835,FL,43,24189,Black,Black,nissan infiniti lt,21100,20200,2015-03-04,01:00:00
+2006,Kia,Sedona,LX,Minivan,Automatic,kndmb233x66036989,TX,22,117161,Blue,Gray,wells fargo dealer services,2925,1900,2015-03-04,02:00:00
+2012,Mercedes-Benz,E-Class,E350 Luxury,Sedan,Automatic,wddhf5kb3ca610475,CA,43,27041,White,Off-White,mercedes-benz financial services,29700,29750,2015-03-04,04:30:00
+2011,Nissan,Altima,2.5 S,Sedan,Automatic,1n4al2ap2bn498720,TX,1,44585,Gray,Black,security service fcu (sscu),10550,3600,2015-03-04,04:30:00
+2012,Nissan,Altima,2.5 S,Sedan,Automatic,1n4al2ap6cc171296,FL,39,38306,Black,Black,nissan-infiniti lt,12150,12000,2015-03-04,01:00:00
+2014,Scion,tC,Base,Hatchback,Manual,jtkjf5c77e3068688,TX,37,13479,Black,Black,tdaf remarketing,16650,15300,2015-03-04,02:15:00
+2000,Bmw,3 Series,328i,Sedan,Automatic,wbaam5344yfr16870,FL,28,170728,White,Black,westlake financial services,1975,2200,2015-03-05,07:00:00
+2013,Chevrolet,Camaro,SS,Convertible,Automatic,2g1fk3dj8d9227594,AZ,29,43898,Black,Black,the hertz corporation,23400,23200,2015-03-05,03:00:00
+2013,Chevrolet,Camaro,SS,Convertible,Automatic,2g1fk3dj9d9192399,CA,34,48618,Silver,Black,the hertz corporation,23200,22800,2015-03-05,04:00:00
+2014,Chevrolet,Impala Limited,LTZ Fleet,Sedan,Automatic,2g1wc5e37e1182074,IL,4,16206,Gray,Gray,gm remarketing,15200,14600,2015-03-05,03:00:00
+2005,Chevrolet,TrailBlazer EXT,LS,SUV,Automatic,1gnet16s856110656,GA,25,178610,Blue,Gray,roswell auto brokers inc,2375,2500,2015-03-05,02:00:00
+2007,Ford,Edge,SEL Plus,SUV,Automatic,2fmdk49c47ba93027,IL,27,104120,Gray,Black,mccarthy ford inc,8950,9400,2015-03-05,02:00:00
+2005,Ford,Expedition,XLT,SUV,Automatic,1fmpu16545lb06786,NE,35,125569,White,Tan,anderson ford lincoln,4525,6000,2015-03-05,03:00:00
+2014,Ford,Explorer,XLT,SUV,Automatic,1fm5k8d87ega92409,MN,41,35798,—,Gray,wheels ltd,28500,26400,2015-03-05,02:45:00
+2008,Honda,Accord,LX-P,Sedan,Automatic,1hgcp26498a139145,FL,21,103050,Silver,Gray,santander consumer,8300,7000,2015-03-05,01:35:00
+2011,Honda,CR-V,LX,SUV,Automatic,jhlre4h33bc016924,NY,26,186148,Black,Gray,mike albert leasing  inc,9900,9100,2015-03-05,01:15:00
+2008,Jeep,Compass,Sport,SUV,Automatic,1j8ff47w98d613256,GA,27,99857,Red,Beige,wells fargo dealer services,5900,5100,2015-03-05,02:00:00
+2007,Kia,Sportage,LX,SUV,Automatic,kndjf724877432722,TX,37,64855,Gray,Gray,rii,5050,5700,2015-03-05,03:00:00
+2004,Lexus,ES 330,Base,Sedan,Automatic,jthba30g040011590,CA,2,128074,Silver,Beige,santander consumer,5250,3700,2015-03-05,04:00:00
+2015,Lincoln,MKC,Base,SUV,Automatic,5lmcj1a90fuj00879,TN,5,7598,Gray,Black,ford motor credit company,33400,34200,2015-03-05,03:00:00
+2014,Mazda,Mazda6,i Grand Touring,Sedan,Automatic,jm1gj1w57e1102546,FL,49,2369,White,Black,courtesy chrysler jeep dodge,24000,23800,2015-03-05,01:50:00
+2007,Mitsubishi,Galant,ES,Sedan,Automatic,4a3ab36f27e085137,NY,21,151109,White,Gray,mangino value center inc,2800,1850,2015-03-05,01:45:00
+2007,Nissan,Maxima,3.5 SL,Sedan,Automatic,1n4ba41e97c846259,GA,21,247170,Red,Black,tdaf remarketing,2100,2200,2015-03-05,02:00:00
+2007,Pontiac,G6,Base,Sedan,Automatic,1g2zg57n274189694,MN,2,92907,Blue,Black,onemain rem/vossen motors,4725,6500,2015-03-05,02:45:00
+2012,Toyota,Yaris,LE,Hatchback,Automatic,jtdjtud30cd506481,OH,42,57882,Red,Gray,dt credit corporation,8025,8200,2015-03-05,01:00:00
+2010,Ford,F-350 Super Duty,XL,Crew Cab,Automatic,1ftww3br8aea04789,NV,37,55086,Red,Brown,viva auto sales llc,27800,32250,2015-03-06,04:00:00
+2012,Honda,Civic,LX,Coupe,Automatic,2hgfg3b54ch562341,PA,45,19085,Gray,Gray,manchester motors,12950,11600,2015-03-06,01:00:00
+2010,Chrysler,Town and Country,Touring Plus,Minivan,Automatic,2a4rr8dx9ar334158,NC,36,57415,Black,Gray,primeritus remarketing/piedmont aviation,12400,12200,2015-03-09,02:30:00
+2003,Gmc,Yukon,Denali,SUV,Automatic,1gkek63u83j213783,NC,23,192569,Black,Gray,credit acceptance corp/vrs/southfield,3900,3700,2015-03-09,02:30:00
+2009,Bmw,X5,xDrive35d,SUV,Automatic,5uxff03549lj97992,FL,32,36721,Black,Brown,tdaf remarketing,20800,24400,2015-03-10,02:00:00
+2008,Chevrolet,Silverado 1500,Work Truck,Extended Cab,Automatic,2gcec19jx81257780,OH,45,93422,Gray,Gray,pauley motor car co preowned vehicles llc,13000,13000,2015-03-10,02:30:00
+2005,Chrysler,Town and Country,Limited,Minivan,Automatic,2c8gp64l35r189689,TN,26,128276,Red,Tan,essen motor company inc,3675,4500,2015-03-10,03:30:00
+2013,Ford,F-150,XLT,SuperCrew,Automatic,1ftfw1ef6dfc06972,FL,41,21877,Blue,Gray,tdaf remarketing,26100,27800,2015-03-10,02:00:00
+2012,Ford,F-250 Super Duty,Lariat,Crew Cab,Automatic,1ft7w2btxceb33565,FL,42,41670,Black,Tan,murray ford mercury inc,40600,42600,2015-03-10,02:30:00
+2013,Ford,Focus,SE,Hatchback,Automatic,1fadp3k25dl152606,MA,37,53336,Gray,Gray,the hertz corporation,9975,10400,2015-03-10,02:30:00
+2012,Ford,Fusion,SEL,Sedan,Automatic,3fahp0ja5cr434060,MO,34,13234,—,Black,ford motor credit company llc pd,15100,11700,2015-03-10,03:30:00
+2006,Honda,Civic,LX,Coupe,Automatic,2hgfg12676h565512,MA,22,133130,White,Tan,clay nissan,4600,3800,2015-03-10,03:00:00
+2010,Hyundai,Elantra,GLS,Sedan,Automatic,kmhdu4ad0au167933,MD,19,99343,Black,Beige,jpmorgan chase bank n.a.,5300,4100,2015-03-10,02:30:00
+2012,Hyundai,Sonata,Limited,Sedan,Automatic,5npec4ab2ch397030,OH,39,43529,Silver,Black,wholesale inc # 2,15600,16100,2015-03-10,02:30:00
+2010,Mazda,Mazda3,i SV,Sedan,Automatic,jm1bl1sf3a1216329,FL,2,31540,White,Black,d&a fine cars,8025,7400,2015-03-10,02:20:00
+1999,Mercedes-Benz,S-Class,S320 LWB,Sedan,Automatic,wdbga33g2xa425633,TN,33,196427,White,Tan,essen motor company inc,625,1400,2015-03-10,03:30:00
+2008,Toyota,Camry Hybrid,Base,Sedan,Automatic,4t1bb46k08u032353,MA,28,68615,Gray,Tan,boch new to you superstore,8675,9000,2015-03-10,03:00:00
+2011,Toyota,Corolla,LE,Sedan,Automatic,2t1bu4ee0bc752735,FL,39,38457,White,Tan,world omni financial corporation,10550,11300,2015-03-10,02:30:00
+2012,Toyota,Corolla,S,Sedan,Automatic,5yfbu4ee2cp054841,TX,46,38578,Gray,Black,bank of america,12200,12800,2015-03-10,03:30:00
+2012,Toyota,Corolla,LE,Sedan,Automatic,5yfbu4ee3cp039393,FL,45,19782,Silver,Gray,world omni financial corporation,12050,12000,2015-03-10,02:30:00
+2013,Toyota,Highlander,Limited,SUV,Automatic,5tddk3eh8ds202065,OH,46,36848,White,Gray,pauley motor car co preowned vehicles llc,30400,31000,2015-03-10,02:30:00
+2002,Volkswagen,Golf,GLS,Hatchback,Manual,9bwgk61j924074585,MD,32,168228,Silver,Gray,darcars of fairfax,1450,2100,2015-03-10,02:30:00
+2014,Nissan,Murano,SL,SUV,Automatic,jn8az1mw1ew513555,TN,3,22050,—,Tan,nissan north america inc.,26000,23200,2015-03-26,03:00:00
+2004,Subaru,Baja,Turbo,Crew Cab,Manual,4s4bt63c846102203,NY,32,154304,Off-White,Black,cellexpress inc,4200,3800,2015-04-08,02:50:00
+2012,Ford,Escape,XLT,SUV,Automatic,1fmcu0d73ckc47560,PA,19,131961,Red,Beige,lease plan usa,9550,6300,2015-04-21,02:30:00
+2012,Chevrolet,Traverse,LT,SUV,Automatic,1gnkvjed8cj144946,NJ,27,49777,Silver,Black,the hertz corporation,21100,16800,2015-04-29,02:30:00
+2012,Honda,Accord,SE,Sedan,Automatic,1hgcp2f63ca148174,PA,35,29818,Gray,Black,ahfc/honda lease trust/hvt  inc. eot,13550,12000,2015-05-08,02:00:00
+2013,Nissan,Altima,2.5,Sedan,Automatic,1n4al3ap3dc247693,TX,38,57148,Silver,Black,dtg operations inc,11300,11250,2015-05-13,03:00:00
+2008,Chrysler,PT Cruiser,Base,Convertible,Automatic,3c3hy55x48t137234,CA,29,112158,White,Beige,top auto,3100,3400,2015-05-19,05:30:00
+2006,Dodge,Charger,SE,Sedan,Automatic,2b3la43r46h292186,FL,19,107180,Gray,Black,autonation chevrolet west colonial,5450,4700,2015-05-19,09:00:00
+2013,Hyundai,Elantra,GLS,Sedan,Automatic,5npdh4aexdh307230,CA,37,19682,Silver,Gray,hyundai motor finance,11650,11100,2015-05-19,05:30:00
+2012,Nissan,Altima,2.5,Sedan,Automatic,1n4al2apxcn524370,CA,29,46447,Gray,Gray,nissan motor acceptance corporation,10700,10500,2015-05-19,05:30:00
+2006,Bmw,X5,4.4i,SUV,Automatic,5uxfb53576lv23918,AZ,28,59033,Black,Black,larry h miller toyota peoria,10400,10200,2015-05-21,05:30:00
+2013,Chevrolet,Equinox,LTZ,SUV,Automatic,2gnflgek4d6264234,TX,43,49586,Silver,Black,the hertz corporation,17200,17000,2015-05-21,04:00:00
+2013,Dodge,Journey,SXT,SUV,Automatic,3c4pdcbg7dt619265,MS,39,64630,Black,Black,fiserv/global lending services,12450,12600,2015-05-21,03:30:00
+2006,Ford,Freestar,SE,Minivan,Automatic,2fmda51636ba29347,FL,19,115561,White,Gray,independent credit inc,2425,2100,2015-05-21,05:30:00
+2009,Gmc,Sierra 1500,Work Truck,Extended Cab,Automatic,1gtek19059z167309,MI,49,35102,Blue,Black,automobiles paille inc,14100,17500,2015-05-21,02:30:00
+2007,Honda,Accord,EX-L V-6,Sedan,Automatic,1hgcm66567a043870,NE,19,97839,Gray,Tan,wells fargo dealer services,7600,7100,2015-05-21,03:30:00
+2013,Hyundai,Elantra,Limited,Sedan,Automatic,5npdh4ae5dh266036,GA,36,30707,Gray,Black,hyundai motor finance,13550,12400,2015-05-21,03:00:00
+2013,Infiniti,G Sedan,G37 Journey,G Sedan,Automatic,jn1cv6ap4dm715653,CA,43,29698,Gray,Black,nissan infiniti lt,20200,20000,2015-05-21,05:30:00
+2014,Kia,Rio,LX,Sedan,Automatic,knadm4a39e6329545,PR,2,1,Red,Black,puerto rican cars inc,11800,2100,2015-05-21,04:00:00
+2014,Mazda,Mazda5,Sport,Minivan,Automatic,jm1cw2bl4e0168021,AZ,42,39618,Black,Black,avis corporation,12400,12000,2015-05-21,05:30:00
+2009,Mercury,Milan,Base,Sedan,Automatic,3mehm07z99r600507,NY,19,109202,Silver,Black,adk auto brokers inc,3725,3900,2015-05-21,02:45:00
+2012,Nissan,Altima,2.5 S,Sedan,Automatic,1n4al2ap6cn488046,IL,41,53060,Black,Black,nissan-infiniti lt,10750,10900,2015-05-21,03:00:00
+2011,Nissan,Rogue,S,SUV,Automatic,jn8as5mt9bw164836,IL,35,61107,Black,Black,ford-lincoln dealer program,10400,11500,2015-05-21,03:00:00
+2013,Ram,1500,Tradesman,Crew Cab,Automatic,1c6rr7kt0ds722986,MI,5,10925,Red,Gray,kevins marysville auto sales inc,28200,27900,2015-05-21,02:30:00
+2013,Toyota,Sienna,Limited 7-Passenger,Minivan,Automatic,5tdyk3dc0ds321624,MN,5,27630,Red,Gray,select lane,25000,26750,2015-05-21,03:30:00
+2013,Chevrolet,Impala,LT Fleet,Sedan,Automatic,2g1wg5e36d1235754,PA,39,56860,Black,Black,dtg operations inc,9100,8800,2015-05-22,02:00:00
+2012,Ford,Fusion,SEL,Sedan,Automatic,3fahp0ja4cr299072,FL,41,31914,Red,Beige,ford motor credit company llc,12950,12700,2015-05-22,02:00:00
+2012,Honda,Accord,SE,Sedan,Automatic,1hgcp2f69ca118287,PA,39,28722,Black,Black,ahfc/honda lease trust/hvt  inc. eot,13250,13800,2015-05-22,02:00:00
+2011,Dodge,Durango,Crew,SUV,Automatic,1d4rd4gg0bc729576,NC,33,114623,White,Black,regional acceptance corporation / greenville,12800,13700,2015-05-25,02:30:00
+2012,Dodge,Grand Caravan,SXT,Minivan,Automatic,2c4rdgcg7cr318110,NC,19,85768,Gray,Black,hendrick fiat of fayetteville,9300,8000,2015-05-25,02:00:00
+2012,Volkswagen,Jetta,SE,Sedan,Automatic,3vwdx7ajxcm331826,NC,23,82955,Blue,Gray,chrysler capital,7550,7700,2015-05-25,02:30:00
+2001,Bmw,X5,3.0i,SUV,Automatic,wbafa53561lm81042,MO,28,114431,White,Beige,ed napleton honda,3675,4100,2015-05-26,04:00:00
+2014,Chevrolet,Express,LS 3500,Van,Automatic,1gazgyfg5e1101213,FL,29,39022,White,Gray,magna auto rentals inc,21100,19800,2015-05-26,02:30:00
+2014,Chrysler,200,Touring,Sedan,Automatic,1c3ccbbb6en176919,OH,42,11436,Blue,Tan,chrysler capital,12600,12300,2015-05-26,02:30:00
+2013,Chrysler,200,Touring,Sedan,Automatic,1c3ccbbb9dn721624,IL,43,52369,White,Black,dtg operations inc,9775,9900,2015-05-26,03:00:00
+2010,Chrysler,Sebring,Limited,Sedan,Automatic,1c3cc5fdxan192502,TX,44,99073,Silver,Black,dt credit corporation,6200,8100,2015-05-26,03:05:00
+2012,Ford,Escape,XLT,SUV,Automatic,1fmcu0dg4ckb51162,MO,43,20766,—,Tan,ford motor credit company llc pd,16050,15900,2015-05-26,03:30:00
+2010,Ford,Escape,XLT,SUV,Automatic,1fmcu9dg6akb00344,TX,43,120343,—,Black,lease plan usa,7750,7200,2015-05-26,03:30:00
+2013,Ford,Fiesta,SE,Sedan,Automatic,3fadp4bj5dm199548,IL,44,8267,Blue,Black,tdaf remarketing,10200,9700,2015-05-26,04:00:00
+2015,Ford,Fusion,S,Sedan,Automatic,1fa6p0g77f5114815,MD,19,1408,Black,Gray,ars/acme auto leasing,16100,3400,2015-05-26,06:00:00
+2014,Ford,Fusion,SE,Sedan,Automatic,3fa6p0h77er222023,MO,37,36056,Burgundy,Beige,ars/avis budget group,13050,12300,2015-05-26,03:30:00
+1998,Honda,Accord,LX,Sedan,Automatic,1hgcg5641wa129949,FL,19,133592,Black,Gray,dt inventory,1375,500,2015-05-26,02:15:00
+2012,Infiniti,QX,QX56,SUV,Automatic,jn8az2nf7c9517254,TX,42,48280,White,Black,nissan infiniti lt,40400,41200,2015-05-26,03:30:00
+2014,Kia,Rio,LX,Sedan,Automatic,knadm4a31e6324257,FL,43,20827,Red,Tan,datura auto sales and rentals,10650,11000,2015-05-26,02:30:00
+2007,Nissan,Quest,3.5 S,Minivan,Automatic,5n1bv28u87n105049,FL,19,78421,White,Beige,autonation ford miami,5100,1500,2015-05-26,10:30:00
+2013,Volkswagen,Tiguan,S 4Motion,SUV,Automatic,wvgbv3ax8dw572553,CA,41,56979,Gray,Black,the hertz corporation,12450,12900,2015-05-26,05:30:00
+2012,Bmw,3 Series,328i,Sedan,Automatic,wba3a5c57cf256178,GA,45,40519,Black,Beige,financial services remarketing (lease),22800,22600,2015-05-27,03:00:00
+2012,Bmw,6 Series,650i xDrive,Convertible,Automatic,wbalz5c56cdw99748,GA,42,21610,Brown,Brown,financial services remarketing (lease),50700,47200,2015-05-27,03:00:00
+2012,Bmw,7 Series,740Li,Sedan,Automatic,wbakb4c56cc576662,CA,44,22030,Gray,Gray,financial services remarketing (lease),36300,37000,2015-05-27,05:30:00
+2009,Bmw,7 Series,750Li,Sedan,Automatic,wbakb83529cy61410,CA,33,95660,—,Brown,bmw north america/lemon law buy backs,23100,23500,2015-05-27,05:30:00
+2011,Cadillac,SRX,Luxury,SUV,Automatic,3gyfnaey6bs617618,HI,4,25095,Silver,Black,ally,22900,21000,2015-05-27,08:35:00
+2013,Chevrolet,Malibu,LS Fleet,Sedan,Automatic,1g11a5sa5df335173,CA,41,74541,Silver,Gray,wheels exchange llc,9850,10900,2015-05-27,05:30:00
+2012,Ford,Escape,XLS,SUV,Automatic,1fmcu0c7xckc73428,NJ,25,24530,White,Gray,ford motor credit company llc,12600,10000,2015-05-27,02:00:00
+2010,Ford,F-150,XLT,Supercab,Automatic,1ftfx1ev0afc73017,WA,44,69410,Red,Brown,xcar inc,17450,18400,2015-05-27,05:30:00
+2014,Ford,Taurus,SEL,Sedan,Automatic,1fahp2e86eg115246,WA,44,11929,Blue,Black,ford motor credit company llc,19600,16900,2015-05-27,05:40:00
+2014,Gmc,Sierra 1500,SLE,Crew Cab,Automatic,3gtu2uec8eg179543,CO,48,15492,Brown,Black,direct financial solutions inc,32500,29300,2015-05-27,04:45:00
+2003,Honda,Accord,EX V-6,Sedan,Automatic,1hgcm66513a066452,NJ,14,101382,Gray,Black,auto liquidations inc,3900,3100,2015-05-27,02:30:00
+2013,Infiniti,G Sedan,G37x,G Sedan,Automatic,jn1cv6ar0dm352396,TX,47,19961,Red,Black,nissan infiniti lt,21700,21600,2015-05-27,03:30:00
+2012,Infiniti,G Sedan,G25x,G Sedan,Automatic,jn1dv6ar1cm861402,NJ,39,32408,Black,Gray,nissan infiniti lt,17350,17000,2015-05-27,02:30:00
+2010,Infiniti,M35,Base,Sedan,Automatic,jn1cy0ap5am912153,TX,43,91410,Silver,Black,tdaf remarketing,13550,13000,2015-05-27,03:00:00
+2014,Jeep,Compass,Sport,SUV,Automatic,1c4njdbb9ed569664,WA,33,29893,Black,Gray,avis corporation,15800,15800,2015-05-27,06:00:00
+2013,Kia,Optima,LX,Sedan,Automatic,5xxgm4a74dg207761,CA,31,52281,Gray,Beige,the hertz corporation,11150,11000,2015-05-27,05:30:00
+2007,Lexus,ES 350,Base,Sedan,Automatic,jthbj46g872033990,FL,42,89077,Red,Beige,lexus of pembroke pines,10850,11800,2015-05-27,02:35:00
+2013,Mercedes-Benz,GL-Class,GL450 4MATIC,SUV,Automatic,4jgdf7ce3da224875,UT,41,41650,White,Black,the hertz corporation,40500,40750,2015-05-27,04:30:00
+2012,Mini,Cooper,S,Hatchback,Automatic,wmwsv3c57cty28565,GA,48,16621,Red,Black,bmw mini financial services,16050,16600,2015-05-27,03:00:00
+2013,Ram,1500,Tradesman,Crew Cab,Automatic,1c6rr6kt2ds562913,TX,3,34145,Orange,Gray,chrysler capital,22500,21800,2015-05-27,03:30:00
+2005,Saturn,VUE,Base,SUV,Automatic,5gzcz634x5s817538,CO,23,178885,Blue,Gray,wells fargo dealer services,1700,1400,2015-05-27,04:45:00
+2007,Toyota,Avalon,XL,Sedan,Automatic,4t1bk36b07u214529,TX,38,120846,Burgundy,Tan,dt credit corporation,7050,7000,2015-05-27,03:00:00
+2013,Toyota,Camry,LE,Sedan,Automatic,4t1bf1fkxdu234226,FL,26,55982,Silver,—,the hertz corporation,11700,11100,2015-05-27,02:30:00
+2008,Toyota,Tundra,SR5,Double Cab,Automatic,5tfru54158x016676,TX,19,86434,White,Gray,cm investments,14250,13000,2015-05-27,03:00:00
+2010,Volvo,XC60,T6 R-Design,SUV,Automatic,yv4992dz2a2084584,NJ,47,87369,Black,Tan,joshua motor car co inc,15400,16000,2015-05-27,02:30:00
+2000,Acura,RL,3.5,Sedan,Automatic,jh4ka9653yc000466,FL,19,136758,White,Tan,coggin honda of orlando,1525,1700,2015-05-28,09:20:00
+2011,Bmw,X6,xDrive35i,SUV,Automatic,5uxfg2c54blx06459,CA,37,41245,White,Brown,800 loan mart,35600,33800,2015-05-28,05:00:00
+2007,Cadillac,DTS,Base,Sedan,Automatic,1g6kd57y27u184286,VA,27,97761,Beige,Beige,shirlie slack mitsubishi,6375,7300,2015-05-28,02:35:00
+2008,Chevrolet,Avalanche,LT,Crew Cab,Automatic,3gnec12038g180573,CA,38,88582,Black,Black,reliance motors llc,14550,16750,2015-05-28,05:00:00
+2008,Ford,F-150,XLT,SuperCrew,Automatic,1ftpw02528kc33920,CA,36,188228,White,Gray,ge fleet services for itself/servicer,5825,7600,2015-05-28,05:00:00
+2014,Ford,Fusion,SE,Sedan,Automatic,3fa6p0h72er130141,CA,37,26779,Gray,Black,donlen corporation,13600,12000,2015-05-28,05:00:00
+2013,Infiniti,G Sedan,G37 Journey,G Sedan,Automatic,jn1cv6ap1dm713813,FL,41,24091,Gray,Black,nissan infiniti lt,20700,20000,2015-05-28,02:15:00
+2014,Jeep,Cherokee,Limited,SUV,Automatic,1c4pjmdb0ew190398,PA,5,11938,White,Black,fca us llc,25500,22800,2015-05-28,02:30:00
+2014,Nissan,Armada,SV,SUV,Automatic,5n1aa0nc9en605242,IL,29,20450,Black,Beige,nissan north america inc.,29300,28000,2015-05-28,03:00:00
+2013,Nissan,Maxima,3.5 SV,Sedan,Automatic,1n4aa5apxdc800132,AZ,21,52929,Silver,Black,the hertz corporation,13900,13300,2015-05-28,05:00:00
+2012,Volkswagen,Jetta,TDI,Sedan,Automatic,3vwll7aj7cm368713,GA,43,20805,Silver,Black,onesource/savannah toyota scion,15100,15900,2015-05-28,03:00:00
+2012,Bmw,3 Series,328i,Coupe,Automatic,wbake3c55ce769908,FL,37,40269,White,Red,lauderdale imports ltd bmw pembrok pines,19800,21400,2015-05-29,02:35:00
+2012,Bmw,5 Series,535i,Sedan,Automatic,wbafr7c55cc809378,NV,47,48504,Black,Black,unique autos,27800,32000,2015-05-29,04:55:00
+2012,Bmw,5 Series,535i,Sedan,Automatic,wbafr7c59cc810436,FL,41,29652,Gray,Gray,prestige audi,30300,29200,2015-05-29,02:35:00
+2013,Jeep,Wrangler,Unlimited Sport,SUV,Manual,1c4bjwdg0dl593248,PA,49,17629,Gray,Black,stoney ledge auto sales llc,26700,32750,2015-05-29,02:00:00
+2012,Kia,Sportage,EX,SUV,Automatic,kndpc3a27c7292930,NC,39,75000,Silver,Beige,hendrick toyota scion wilmington,13550,14000,2015-05-29,02:30:00
+2013,Lexus,GS 350,Base,Sedan,Automatic,jthbe1blxd5025180,FL,49,26739,Gray,Black,jm lexus,31300,33000,2015-05-29,02:30:00
+2010,Toyota,Corolla,S,Sedan,Automatic,2t1bu4ee2ac325104,PA,39,47088,Black,Black,melvin g rhoades auto sales llc,8925,11500,2015-05-29,02:15:00
+2007,Buick,Lucerne,CXS,Sedan,Automatic,1g4he57y17u206116,NC,19,97742,Black,Gray,remarketing by ge/manheim north carolina,5500,6500,2015-06-01,02:00:00
+2014,Cadillac,XTS,Luxury,Sedan,Automatic,2g61m5s35e9170755,FL,3,24906,Black,Black,gm remarketing,31000,31400,2015-06-01,06:00:00
+2012,Toyota,Corolla,LE,Sedan,Automatic,2t1bu4ee2cc840994,OH,37,38761,White,Gray,toyota financial services,10200,9900,2015-06-01,09:00:00
+2003,Bmw,3 Series,330xi,Sedan,Automatic,wbaew53463pn30157,MA,22,140755,White,Gray,boch honda west,3650,4700,2015-06-02,02:30:00
+2006,Bmw,3 Series,325i,Sedan,Automatic,wbavb175x6nk38678,CA,28,90996,Silver,Black,bmw of riverside,7425,9100,2015-06-02,05:30:00
+2012,Chevrolet,Express Cargo,1500,Van,Automatic,1gcsgafx6c1149154,CA,26,98572,White,Gray,danna investments llc,11100,11700,2015-06-02,05:30:00
+2011,Chevrolet,Impala,LT Fleet,Sedan,Automatic,2g1wg5ek0b1286347,CO,27,67132,Gray,Gray,wheels exchange llc,8350,8200,2015-06-02,05:00:00
+2012,Chevrolet,Volt,Base,Hatchback,Automatic,1g1rh6e43cu124123,CA,42,37226,White,Black,fiserv/usb dealer services northstar exchange,13900,17000,2015-06-02,05:30:00
+2010,Chrysler,Sebring,Touring,Sedan,Automatic,1c3cc4fb6an232583,MD,22,102363,White,Black,darcars chrysler jeep,4950,4100,2015-06-02,02:30:00
+2012,Dodge,Challenger,SRT8 392,Coupe,Automatic,2c3cdycj3ch146840,CA,4,41039,Red,Black,fiserv/usb dealer services northstar exchange,31300,32000,2015-06-02,05:30:00
+2010,Ford,F-150,FX2,SuperCrew,Automatic,1ftew1c87ake26690,GA,4,79793,Gray,Black,centerpoint auto exchange llc,18500,21300,2015-06-02,02:30:00
+2006,Ford,Five Hundred,SEL,Sedan,Automatic,1fafp24176g155218,NC,22,119928,Beige,Tan,dt credit corporation,2500,2200,2015-06-02,02:30:00
+2013,Honda,Accord,EX-L,Sedan,Automatic,1hgcr2f84da123863,OH,42,79670,Gold,Tan,pauley motor car co preowned vehicles llc,17700,15300,2015-06-02,02:30:00
+2005,Jeep,Grand Cherokee,Laredo,SUV,Automatic,1j4gs48k55c580142,FL,19,127826,Gold,Beige,autonation toyota winter park,4550,4000,2015-06-02,10:30:00
+2002,Kia,Rio,Base,Sedan,Automatic,knadc123426164922,FL,2,99419,Blue,Beige,autonation chevrolet west colonial,825,700,2015-06-02,10:30:00
+2014,Kia,Sorento,LX,SUV,Automatic,5xykt3a60eg512136,FL,43,27419,Gray,Black,enterprise veh exchange/rental,16600,16800,2015-06-02,02:15:00
+2012,Lexus,RX 350,Base,SUV,Automatic,2t2bk1ba7cc153950,FL,23,41550,Black,Black,lexus financial services,26700,23400,2015-06-02,02:30:00
+2010,Mazda,CX-9,Touring,SUV,Automatic,jm3tb3mv6a0218466,FL,29,152242,Red,Gray,westfall auto sales,8975,10400,2015-06-02,09:00:00
+2013,Nissan,Altima,2.5,Sedan,Automatic,1n4al3ap2dc242663,CO,32,60499,Gray,Beige,public service credit union,10550,10600,2015-06-02,05:00:00
+2005,Nissan,Maxima,3.5 SL,Sedan,Automatic,1n4ba41e65c863730,NC,25,107108,Silver,Black,manheim statesville,4025,4100,2015-06-02,02:15:00
+2012,Nissan,Rogue,SV,SUV,Automatic,jn8as5mv1cw709950,GA,46,33178,Black,Black,nissan marshlling,14500,14900,2015-06-02,02:30:00
+2013,Nissan,Rogue,S,SUV,Automatic,jn8as5mv4dw638714,GA,36,30651,Gray,Black,nissan marshlling,13900,13400,2015-06-02,02:30:00
+2013,Nissan,Rogue,S,SUV,Automatic,jn8as5mv8dw640840,FL,39,57873,Red,Black,the hertz corporation,12150,13200,2015-06-02,02:15:00
+2009,Saturn,Aura,XE,Sedan,Automatic,1g8zs57b59f181221,FL,29,61172,Beige,Beige,autonation toyota scion weston,6300,5500,2015-06-02,10:30:00
+2015,Toyota,Corolla,LE,Sedan,Automatic,5yfburhe9fp246223,FL,34,1645,Silver,Gray,world omni financial corporation,14850,13800,2015-06-02,02:30:00
+2013,Audi,A4,2.0T Premium quattro,Sedan,Automatic,waubfafl9dn005928,NJ,19,68753,Black,Black,vw credit  inc,19750,17400,2015-06-03,02:30:00
+2011,Bmw,3 Series,328i,Sedan,Automatic,wbaph7g56bnn02760,WI,4,57959,White,Tan,auto haus on velp inc,15550,16200,2015-06-03,03:00:00
+2006,Buick,LaCrosse,CXL,Sedan,Automatic,2g4wd582761311399,MO,37,86264,White,Tan,hendrick toyota merriam,5900,6600,2015-06-03,03:30:00
+2013,Chevrolet,Equinox,LTZ,SUV,Automatic,2gnflgekxd6403900,FL,38,58464,Gray,Black,the hertz corporation,15550,15900,2015-06-03,02:40:00
+2011,Chrysler,200,Touring,Convertible,Automatic,1c3bc2eb6bn542946,WA,36,69065,Black,Black,puyallup nissan,6400,8000,2015-06-03,05:30:00
+2012,Chrysler,300,Base,Sedan,Automatic,2c3ccaag7ch104513,TX,31,50944,White,Tan,tdaf remarketing,14800,14800,2015-06-03,03:15:00
+2013,Dodge,Avenger,SXT,Sedan,Automatic,1c3cdzcb9dn625187,CA,26,36876,Black,Black,the hertz corporation,10700,10500,2015-06-03,05:30:00
+2012,Ford,Edge,SE,SUV,Automatic,2fmdk3gcxcba60105,MN,28,44631,Silver,Beige,ford motor credit company llc,14800,13600,2015-06-03,03:00:00
+2012,Ford,Escape,XLT,SUV,Automatic,1fmcu0d75ckc28489,WA,41,26828,Black,Black,xcar inc,15000,15300,2015-06-03,05:30:00
+2014,Ford,Expedition,XLT,SUV,Automatic,1fmju1h59eef15115,TN,48,34418,—,Tan,ars/avis budget group,29400,30400,2015-06-03,03:00:00
+2013,Ford,F-150,XLT,SuperCrew,Automatic,1ftfw1ct8dfd08444,TN,41,19488,—,Gray,tdaf remarketing,26400,26600,2015-06-03,03:30:00
+2013,Ford,F-150,Lariat,SuperCrew,Automatic,1ftfw1ef8dkd65273,MN,38,24346,Black,Black,ford-lincoln dealer program,34200,33100,2015-06-03,03:00:00
+2013,Ford,F-150,FX4,SuperCrew,Automatic,1ftfw1et4dfa48475,TN,49,21587,White,Black,midtown motors,35500,33500,2015-06-03,03:30:00
+2014,Ford,Fusion,SE,Sedan,Automatic,3fa6p0h95er345224,MI,44,36777,Red,Beige,avis budget group,14100,14500,2015-06-03,03:00:00
+1996,Ford,Taurus,GL,Sedan,Automatic,1falp52u6tg188630,UT,3,79685,White,Gray,hertz remarketing,450,200,2015-06-03,04:30:00
+2013,Gmc,Yukon,Denali,SUV,Automatic,1gks1eef0dr329724,LA,47,19626,Black,Black,american auto brokers inc,41200,40750,2015-06-03,03:30:00
+2006,Hummer,H2 SUT,Base,Crew Cab,Automatic,5grgn22ux6h101048,WI,44,86519,Gray,Black,cat wholesale llc,24000,24750,2015-06-03,03:00:00
+2005,Jeep,Grand Cherokee,Limited,SUV,Automatic,1j8hr58225c697486,CA,24,153862,Black,Gray,california auto exchange,3825,4700,2015-06-03,05:30:00
+2014,Kia,Soul,+,Wagon,Automatic,kndjp3a52e7015416,WI,43,29185,Gray,Black,avis corporation,12900,12700,2015-06-03,03:00:00
+2013,Nissan,Altima,2.5,Sedan,Automatic,1n4al3ap0dc248414,FL,43,20267,Brown,Beige,nissan-infiniti lt,14500,14800,2015-06-03,02:00:00
+2014,Nissan,Maxima,3.5 S,Sedan,Automatic,1n4aa5ap1ec466736,TN,41,36849,Black,Black,enterprise veh exchange/rental,15650,16400,2015-06-03,03:30:00
+2013,Toyota,Corolla,LE,Sedan,Automatic,2t1bu4ee6dc929680,FL,23,21073,Gray,Gray,world omni financial corporation,11850,10800,2015-06-03,02:50:00
+2014,Toyota,Corolla,LE,Sedan,Automatic,2t1burhe1ec087115,TX,37,33680,Red,Gray,avis corporation,12500,12800,2015-06-03,03:15:00
+2012,Bmw,3 Series,335i,Coupe,Automatic,wbakg7c56ce802514,CA,5,21826,Blue,Beige,bmw north scottsdale,28300,27000,2015-06-04,05:30:00
+2013,Chevrolet,Cruze,1LT,Sedan,Automatic,1g1pc5sb2d7172800,IN,43,31090,Brown,Black,gm financial,10800,11600,2015-06-04,03:10:00
+2003,Chevrolet,Silverado 1500,SS,Extended Cab,Automatic,2gcek19n131400940,NY,25,93174,Black,Gray,adk auto brokers inc,12300,6700,2015-06-04,02:45:00
+2013,Chevrolet,Sonic,LT,Hatchback,Automatic,1g1jc6sh0d4205147,FL,41,43187,White,Gray,the hertz corporation,8300,8500,2015-06-04,02:15:00
+2010,Ford,Escape,Limited,SUV,Automatic,1fmcu9e75akc26855,MI,38,77540,White,Black,multi auto trading inc,11450,11800,2015-06-04,02:30:00
+2013,Ford,F-150,FX4,SuperCrew,Automatic,1ftfw1et7dkf24290,MS,4,16245,—,Black,ford motor credit company llc,36000,37400,2015-06-04,03:00:00
+2011,Hyundai,Sonata,GLS,Sedan,Automatic,5npeb4ac9bh295332,MI,35,82853,Silver,Gray,santander consumer,8450,7000,2015-06-04,02:30:00
+2013,Infiniti,G Sedan,G37 Journey,G Sedan,Automatic,jn1cv6ap1dm720552,CA,45,15033,Gray,Black,nissan infiniti lt,21800,22500,2015-06-04,05:30:00
+2012,Jaguar,XF,Base,Sedan,Automatic,sajwa0fb2cls48321,CA,29,31653,Blue,Beige,jpmorgan chase bank n.a.,27600,23500,2015-06-04,05:30:00
+2014,Kia,Optima,EX,Sedan,Automatic,5xxgn4a77eg267287,FL,48,10435,Gray,Beige,braman kia,18050,17000,2015-06-04,02:40:00
+2013,Lincoln,Navigator,Base,SUV,Automatic,5lmjj2j55del06281,FL,29,25814,—,Black,ford-lincoln dealer program,35200,33000,2015-06-04,02:00:00
+2013,Nissan,Leaf,SV,Hatchback,Automatic,1n4az0cp5dc405610,PA,47,14180,Black,Black,nissan-infiniti lt,9800,10100,2015-06-04,02:00:00
+2008,Scion,tC,Base,Hatchback,Manual,jtkde167280244508,FL,19,63633,Burgundy,Black,regional acceptance corporation / greenville,7400,5900,2015-06-04,02:35:00
+2011,Ford,Flex,SEL,Wagon,Automatic,2fmhk6ct7bbd11962,NV,37,71567,Silver,Black,kapitolia auto llc,17000,17300,2015-06-05,05:00:00
+2014,Honda,Accord,LX,Sedan,Automatic,1hgcr2f3xea013065,PA,28,40284,Silver,Gray,ahfc/honda lease trust/hvt  inc.,15500,14400,2015-06-05,02:00:00
+2006,Lincoln,Navigator,Luxury,SUV,Automatic,5lmfu27556lj20856,FL,2,65384,Black,—,d&a fine cars,10150,9700,2015-06-05,02:25:00
+2008,Mitsubishi,Lancer Evolution,GSR,Sedan,Manual,ja3aw86v28u048865,FL,3,69590,Brown,Black,arg inc,19350,17800,2015-06-05,02:30:00
+2013,Toyota,Corolla,LE,Sedan,Automatic,5yfbu4ee8dp151253,PA,4,37456,Blue,Beige,tdaf remarketing,10800,12200,2015-06-05,02:00:00
+2008,Pontiac,G6,Value Leader,Sedan,Automatic,1g2zf57b384264347,OH,43,86815,Burgundy,Gray,remarketing by ge/flagship credit acceptance,5175,6300,2015-06-08,17:00:00
+2008,Toyota,Highlander,Sport,SUV,Automatic,jtees43a982005091,NC,22,99123,Gray,Gray,fleet lease remarketing,14600,13300,2015-06-08,02:30:00
+2014,Chevrolet,Malibu,LT,Sedan,Automatic,1g11e5sl0ef113518,TN,42,51708,—,Black,santander consumer,12950,13200,2015-06-09,03:30:00
+2013,Ford,E-Series Van,E-250,E-Series Van,Automatic,1ftne2ew7dda95641,GA,27,15062,White,Gray,u-haul,18450,17600,2015-06-09,02:30:00
+2012,Hyundai,Genesis Coupe,3.8 R-Spec,Genesis Coupe,Automatic,kmhhu6kh7cu078491,FL,36,51027,Black,Brown,hyundai motor finance,14450,15400,2015-06-09,02:30:00
+2013,Hyundai,Sonata,SE,Sedan,Automatic,5npec4ac4dh602020,FL,21,47992,Gray,Gray,hyundai motor finance,12400,11500,2015-06-09,02:30:00
+2012,Infiniti,M,M37x,Sedan,Automatic,jn1by1ar5cm393076,IL,43,38009,Gray,Black,nissan infiniti lt,24300,24000,2015-06-09,03:00:00
+2012,Kia,Sorento,Base,SUV,Automatic,5xykt3a17cg292267,FL,25,17030,Gray,Gray,kia motors finance,15650,13200,2015-06-09,02:30:00
+2012,Toyota,Camry,LE,Sedan,Automatic,4t1bf1fk7cu031924,OH,21,45693,Silver,Gray,toyota financial services,11900,10800,2015-06-09,02:30:00
+2012,Toyota,Camry,LE,Sedan,Automatic,4t1bf1fk8cu121681,FL,41,42184,Gray,Beige,world omni financial corporation,12050,12300,2015-06-09,02:30:00
+2012,Toyota,RAV4,Base,SUV,Automatic,2t3bf4dv7cw212320,OH,37,37816,Blue,Gray,toyota financial services,14450,15200,2015-06-09,02:30:00
+2012,Audi,A6,3.0T Premium quattro,Sedan,Automatic,waubgafc4cn007484,WA,32,56692,Black,Black,vw credit  inc/pilot,24200,24750,2015-06-10,05:30:00
+2014,Chevrolet,Camaro,SS,Coupe,Automatic,2g1fk1ej1e9125803,TX,29,25834,Red,Gray,avis corporation,27800,27000,2015-06-10,03:00:00
+2014,Chevrolet,Tahoe,LTZ,SUV,Automatic,1gnscce06er108028,TX,44,37718,Burgundy,Black,avis corporation,39500,39200,2015-06-10,03:00:00
+2012,Ford,F-150,XLT,Supercab,Automatic,1ftfx1ef5cfa18911,NY,44,21713,Blue,Gray,ford motor credit company llc,25800,25500,2015-06-10,02:20:00
+2014,Ford,Fusion,SE,Sedan,Automatic,3fa6p0h7xer277842,MO,35,32688,Red,Beige,lease plan usa,13100,13000,2015-06-10,03:30:00
+2009,Honda,Accord,EX-L V-6,Sedan,Automatic,5kbcp36859b001149,NC,19,128359,Silver,Black,hendrick honda,8550,10500,2015-06-10,07:00:00
+2015,Volkswagen,Golf GTI,Autobahn,Hatchback,Automatic,3vw4t7au7fm039500,NJ,28,14760,Red,Black,enterprise veh exchange/rental,23000,17250,2015-06-10,02:30:00
+2012,Volkswagen,Passat,SE,Sedan,Automatic,1vwbh7a3xcc096254,FL,43,20474,White,Tan,vw credit,12600,15200,2015-06-10,02:40:00
+2009,Audi,A4,2.0T Premium,Sedan,Automatic,waucf78k49n067417,FL,46,65469,Gray,Beige,reeves import motorcars inc,13300,15200,2015-06-11,02:45:00
+2012,Bmw,X5,xDrive35d,SUV,Automatic,5uxzw0c51cl664063,FL,39,48569,White,Gray,coggin bmw treasure coast,30500,30600,2015-06-11,02:45:00
+2005,Chevrolet,Impala,LS,Sedan,Automatic,2g1wh52k359342725,VA,28,128750,Gray,Gray,superior wholesalers inc,2400,3600,2015-06-11,02:35:00
+2014,Chevrolet,Malibu,LS,Sedan,Automatic,1g11b5sl7ef277129,GA,45,9740,Beige,Beige,bmw alphera/alphera financial services,14200,14200,2015-06-11,03:00:00
+2010,Chrysler,Town and Country,Touring,Minivan,Automatic,2a4rr5d14ar206758,GA,2,74045,Blue,Gray,innovative auto llc,8400,8500,2015-06-11,03:00:00
+2014,Dodge,Grand Caravan,SXT,Minivan,Automatic,2c4rdgcg6er477882,PA,4,15750,Black,Black,enterprise holdings/gdp,17000,17300,2015-06-11,02:30:00
+2012,Honda,Odyssey,LX,Minivan,Automatic,5fnrl5h21cb098771,IL,25,37693,Gray,Gray,ahfc/honda lease trust/hvt  inc.,14950,16100,2015-06-11,03:00:00
+2014,Jeep,Cherokee,Limited,SUV,Automatic,1c4pjmdb1ew237633,PA,5,9734,Red,Gray,fca us llc,23200,20800,2015-06-11,02:30:00
+2014,Jeep,Compass,Sport,SUV,Automatic,1c4njdbb9ed865316,PA,5,20982,Black,Black,hertz corporation/gdp,16200,17000,2015-06-11,02:30:00
+2014,Kia,Rio,LX,Sedan,Automatic,knadm4a3xe6352252,MI,37,40978,Black,Gray,avis corporation,9400,9800,2015-06-11,04:00:00
+2011,Mercedes-Benz,C-Class,C300 Luxury 4MATIC,Sedan,Automatic,wddgf8bb4br140406,FL,37,59585,—,Black,mercedes-benz finc wholesale advantage,16250,16200,2015-06-11,02:30:00
+2012,Mercedes-Benz,CLS-Class,CLS550 4MATIC,Sedan,Automatic,wddlj9bb5ca043198,PA,39,54539,White,Tan,terryville chevrolet llc,37200,36800,2015-06-11,02:30:00
+2012,Toyota,Prius,Three,Hatchback,Automatic,jtdkn3duxc1566920,GA,47,26246,Blue,Gray,world omni financial corporation,13300,13700,2015-06-11,03:00:00
+2008,Toyota,RAV4,Limited,SUV,Automatic,jtmbd31v785208948,VA,27,138652,Silver,Gray,carex inc,8000,8500,2015-06-11,02:35:00
+2009,Volvo,S80,3.2,Sedan,Automatic,yv1as982591102856,FL,45,40269,White,Tan,andrew thomas motorcars,12550,13300,2015-06-11,02:35:00
+2014,Ford,F-150,XLT,SuperCrew,Automatic,1ftfw1ef8eke02257,PA,25,24477,Orange,Gray,j mark martin auto sales llc,28400,34500,2015-06-12,02:30:00
+2012,Honda,Accord,SE,Sedan,Automatic,1hgcp2f62ca122164,PA,33,25951,Black,Black,ahfc/honda lease trust/hvt  inc. eot,12950,11500,2015-06-12,02:00:00
+2008,Infiniti,G37,Sport,Coupe,Manual,jnkcv64e48m125772,PA,35,74545,Black,Black,r hollenshead auto sales inc,14800,16000,2015-06-12,02:00:00
+2014,Nissan,Maxima,3.5 S,Sedan,Automatic,1n4aa5ap2ec444762,NV,36,34019,White,Black,enterprise veh exchange/rental,16000,16000,2015-06-12,05:00:00
+2012,Nissan,Rogue,SV,SUV,Automatic,jn8as5mv2cw415652,PA,46,36953,Off-White,Gray,nissan-infiniti lt,14200,16300,2015-06-12,02:00:00
+2012,Lexus,IS 250,Base,Sedan,Automatic,jthcf5c25c5055278,FL,37,27620,Black,Black,lexus financial services,21700,21000,2015-06-15,11:00:00
+2011,Chevrolet,Cruze,1LT,Sedan,Automatic,1g1pf5s99b7228846,OR,39,88639,Silver,Black,gm financial,7325,8800,2015-06-16,05:00:00
+2012,Chevrolet,Malibu,LS Fleet,Sedan,Automatic,1g1za5eu8cf304913,CA,36,42608,—,Gray,lease plan usa,10350,10900,2015-06-16,05:00:00
+2014,Chevrolet,Sonic,LT,Sedan,Automatic,1g1jc5sh9e4200458,FL,3,29439,Gray,Black,gm remarketing,9825,9200,2015-06-16,02:15:00
+2007,Dodge,Charger,SRT-8,Sedan,Automatic,2b3ka73w57h652201,CA,35,109612,Silver,Gray,unique automotive ltd,14950,15000,2015-06-16,05:30:00
+2007,Dodge,Dakota,ST,Club Cab,Automatic,1d7he22k97s209708,GA,33,71645,White,Gray,santander consumer,6575,7500,2015-06-16,02:30:00
+2012,Ford,Escape,XLT,SUV,Automatic,1fmcu9dg8ckb77185,OH,48,18678,Gray,Black,ford motor credit company llc,17600,19000,2015-06-16,02:00:00
+2005,Ford,Five Hundred,SEL,Sedan,Automatic,1fafp24135g146207,TN,28,124169,Gold,Tan,dt credit corporation,2675,3900,2015-06-16,03:30:00
+2013,Hyundai,Elantra,GLS,Sedan,Automatic,5npdh4ae2dh316939,MO,43,25791,Brown,Beige,gmt auto sales inc,11100,11400,2015-06-16,04:00:00
+2013,Hyundai,Sonata,GLS,Sedan,Automatic,5npeb4ac3dh528625,CA,35,35951,White,—,hyundai motor finance,11700,12000,2015-06-16,05:30:00
+2012,Infiniti,G Sedan,G25x,G Sedan,Automatic,jn1dv6ar3cm730729,OH,4,46218,White,Gray,infiniti financial services,16200,17200,2015-06-16,02:30:00
+2001,Isuzu,Trooper,Limited,SUV,Automatic,jacds58x217j03972,GA,29,201245,Red,—,autonation volkswagen mall of georgia,325,1250,2015-06-16,05:50:00
+2012,Kia,Forte,EX,Sedan,Automatic,knafu4a28c5606821,OH,35,25228,Silver,Black,hyundai motor finance,9800,9600,2015-06-16,02:30:00
+2013,Kia,Forte,Koup EX,Koup,Automatic,knafu6a24d5743137,MD,28,58496,Silver,Black,exeter finance corp,9950,7000,2015-06-16,02:30:00
+2013,Nissan,Altima,2.5,Sedan,Automatic,1n4al3ap9dn556962,FL,38,56358,Silver,Black,dtg operations inc,10800,11300,2015-06-16,02:15:00
+2009,Toyota,Prius,Touring,Hatchback,Automatic,jtdkb20u693470949,MA,27,125931,Gray,Gray,boch toyota/scion south,6425,5800,2015-06-16,02:30:00
+2004,Toyota,Sienna,XLE 7-Passenger,Minivan,Automatic,5tdza22c64s177341,GA,22,280059,Burgundy,Gray,riverside toyota scion,3675,4100,2015-06-16,05:30:00
+2011,Bmw,3 Series,328i,Sedan,Automatic,wbaph5g5xbnm81383,CA,4,33847,Blue,Black,mercedes benz of temecula,17350,16000,2015-06-17,05:15:00
+2013,Chevrolet,Cruze,1LT,Sedan,Automatic,1g1pc5sb5d7230849,MO,35,69045,Gray,Black,sutton ford/ge,8650,9000,2015-06-17,03:30:00
+2013,Chevrolet,Equinox,LT,SUV,Automatic,2gnaldek4d6363970,MN,43,24972,Black,Black,lease plan usa,17200,17700,2015-06-17,03:30:00
+2011,Chevrolet,HHR,LT,Wagon,Automatic,3gnbabfw5bs501336,CA,23,51930,Blue,Black,meridian remarketing,7750,6900,2015-06-17,05:30:00
+2013,Chevrolet,Impala,LS Fleet,Sedan,Automatic,2g1wf5e30d1226616,CA,35,59288,Gray,Black,the hertz corporation,8875,8900,2015-06-17,05:30:00
+2002,Chevrolet,Suburban,1500 LS,SUV,Automatic,1gnfk16zx2j100157,NM,28,136263,Silver,Beige,credit acceptance corp/vrs/southfield,3100,4000,2015-06-17,04:30:00
+2012,Chrysler,300,S V6,Sedan,Automatic,2c3ccabg5ch140523,WI,42,21389,Black,Black,new look enterprises inc,20300,19100,2015-06-17,03:00:00
+2006,Chrysler,300,Base,Sedan,Automatic,2c3la43r96h493956,PA,22,49767,Silver,Gray,ron lewis chrysler dodge jeep ram,6475,5100,2015-06-17,05:00:00
+2012,Ford,Edge,SEL,SUV,Automatic,2fmdk3j9xcba29319,TN,42,21641,Red,Tan,wholesale inc # 2,19950,18500,2015-06-17,03:30:00
+2014,Ford,F-150,SVT Raptor,SuperCrew,Automatic,1ftfw1r64efc42784,MN,5,1940,Black,Black,hebert auto,57600,55750,2015-06-17,03:30:00
+2013,Ford,Fusion,SE,Sedan,Automatic,3fa6p0h74dr221670,FL,25,72503,Gray,Black,dtg operations inc,10500,9700,2015-06-17,02:10:00
+2012,Ford,Fusion,SEL,Sedan,Automatic,3fahp0jg6cr352424,MO,46,29736,Red,Beige,ford motor credit company llc,13300,13700,2015-06-17,03:00:00
+2014,Ford,Fusion Energi,SE Luxury,Sedan,Automatic,3fa6p0pu9er146442,TN,47,10018,—,Black,woody anderson ford,22800,22500,2015-06-17,03:30:00
+2014,Gmc,Terrain,SLT-2,SUV,Automatic,2gkflye36e6211211,WI,44,38863,Silver,Black,remarketing by ge/bwas,24200,23600,2015-06-17,03:00:00
+2007,Gmc,Yukon,Denali,SUV,Automatic,1gkfk63887j236994,CA,4,106760,Black,Black,california auto wholesale,16350,20000,2015-06-17,05:30:00
+2013,Infiniti,G Sedan,G37 Journey,G Sedan,Automatic,jn1cv6ap6dm717825,FL,39,22664,Black,Black,nissan infiniti lt,20800,21000,2015-06-17,02:40:00
+2014,Kia,Optima,LX,Sedan,Automatic,5xxgm4a78eg344266,WI,48,11467,White,Beige,kia motors america  inc,14900,14400,2015-06-17,03:30:00
+2007,Lexus,IS 250,Base,Sedan,Automatic,jthbk262672052690,CA,38,147968,White,Black,onemain rem/delta dealer,8200,9100,2015-06-17,05:30:00
+2011,Mini,Cooper,S,Hatchback,Automatic,wmwsv3c56bty11478,FL,41,42354,Gray,Black,braman motorcars,12200,11700,2015-06-17,17:00:00
+2013,Mini,Cooper Countryman,Base,Wagon,Automatic,wmwzb3c54dwm09998,FL,47,29877,Blue,Black,braman motors,17200,17400,2015-06-17,02:40:00
+2013,Nissan,Altima,2.5,Sedan,Automatic,1n4al3ap5dc169885,NJ,29,25642,Black,Black,nissan-infiniti lt,12850,12600,2015-06-17,02:30:00
+2013,Nissan,Leaf,SV,Hatchback,Automatic,1n4az0cpxdc403691,CA,28,30000,Black,Black,nissan-infiniti lt,8150,7700,2015-06-17,05:30:00
+2013,Ram,1500,Tradesman,Crew Cab,Automatic,1c6rr6kt0ds707706,TX,43,30175,Gray,Gray,hacienda ford,22100,23500,2015-06-17,03:20:00
+2007,Toyota,Camry,LE,Sedan,Automatic,4t1be46k37u165615,VA,24,106157,Gray,Gray,wells fargo dealer services,6350,5400,2015-06-17,02:30:00
+2014,Toyota,Camry,SE,Sedan,Automatic,4t1bf1fk6eu406043,CA,39,21893,White,Black,toyota motor sales usa inc/program,15650,15700,2015-06-17,05:30:00
+2011,Toyota,Camry,LE,Sedan,Automatic,4t1bf3ek9bu128392,TX,29,100945,Gold,Tan,chrysler capital,8225,8500,2015-06-17,03:30:00
+2012,Toyota,Corolla,LE,Sedan,Automatic,2t1bu4ee8cc881145,NJ,28,35148,Gold,Beige,toyota financial services,10050,9200,2015-06-17,02:30:00
+2004,Toyota,Prius,Base,Hatchback,Automatic,jtdkb20u640100403,PA,27,162286,Blue,Beige,harrison auto sales,3000,2700,2015-06-17,05:00:00
+2012,Toyota,Tacoma,Base,Regular Cab,Manual,5tfpx4en4cx011410,NJ,46,32234,White,Gray,mercedes benz and porsche of atlantic city,16950,18000,2015-06-17,02:30:00
+2013,Audi,S5,Premium Plus quattro,Convertible,Automatic,waucgafhxdn007751,CA,49,20338,White,Black,vw credit prequalified,44600,43500,2015-06-18,05:30:00
+2012,Bmw,X3,xDrive28i,SUV,Automatic,5uxwx5c56cl725467,FL,27,18869,Blue,Beige,financial services remarketing (lease),27100,24800,2015-06-18,04:45:00
+2009,Chevrolet,Cobalt,LT,Sedan,Automatic,1g1at58h397108743,GA,15,114298,Gray,Gray,automobile acceptance corp,3625,2800,2015-06-18,03:00:00
+2013,Chevrolet,Tahoe,LTZ,SUV,Automatic,1gnskce01dr300085,AZ,34,52272,White,Black,the hertz corporation,32200,31600,2015-06-18,05:30:00
+2002,Chevrolet,TrailBlazer,LS,SUV,Automatic,1gnds13s722199058,FL,22,195818,White,Gray,asanka cars.com inc,1750,1200,2015-06-18,04:30:00
+2015,Chrysler,200,Limited,Sedan,Automatic,1c3cccab0fn570389,GA,2,17131,White,Black,enterprise vehicle exchange / tra / rental / tulsa,15150,11900,2015-06-18,05:30:00
+2010,Dodge,Journey,SE,SUV,Automatic,3d4pg4fb8at158474,FL,19,122842,Silver,Black,santander consumer,4975,4100,2015-06-18,02:35:00
+2014,Ford,E-Series Van,E-250,E-Series Van,Automatic,1ftne2ewxeda63560,MI,38,12064,White,Gray,u-haul,19450,19500,2015-06-18,02:30:00
+2012,Ford,Edge,SE Fleet,SUV,Automatic,2fmdk4gcxcba93966,IL,34,61342,Black,Black,advantage chevrolet/ge,14750,14000,2015-06-18,03:00:00
+2013,Ford,Escape,Titanium,SUV,Automatic,1fmcu9j95duc94105,AZ,42,27725,Black,Black,earnhardt,21700,22200,2015-06-18,05:00:00
+2010,Honda,Pilot,EX-L,SUV,Automatic,5fnyf3h52ab014259,GA,28,175335,Silver,Black,nalley ford sandy springs,9925,10500,2015-06-18,03:00:00
+2015,Kia,Sorento,LX,SUV,Automatic,5xyktda70fg648072,FL,49,11476,Black,Black,kia motors america  inc,20900,20500,2015-06-18,02:35:00
+2012,Lexus,IS 250,Base,Sedan,Automatic,jthbf5c25c5177540,AZ,25,31865,Black,Black,lexus financial services,20700,18500,2015-06-18,05:00:00
+2007,Lexus,IS 250,Base,Sedan,Automatic,jthbk262775026386,TX,34,150230,Black,Black,texas direct auto,8300,6700,2015-06-18,03:30:00
+2012,Mini,Cooper,Base,Hatchback,Automatic,wmwsu3c5xct262601,CA,38,30917,Blue,—,bmw mini financial services,11350,11000,2015-06-18,05:30:00
+2012,Nissan,Rogue,SV,SUV,Automatic,jn8as5mv1cw714033,IL,39,41471,Black,Black,nissan-infiniti lt,13800,15600,2015-06-18,03:00:00
+2010,Ford,F-150,XLT,SuperCrew,Automatic,1ftew1c85afc91041,NV,38,68586,Black,Beige,las vegas motorcars llc,17450,16750,2015-06-19,05:00:00
+2014,Ford,Fusion,SE,Sedan,Automatic,3fa6p0h74er320541,NV,37,28263,Silver,Black,malco enterprise of nevada/dba budget,13450,13000,2015-06-19,05:00:00
+2006,Porsche,Cayenne,Base,SUV,Automatic,wp1aa29p16la25637,NV,36,55396,Burgundy,Beige,bul connections llc,12250,14300,2015-06-19,04:45:00
+2014,Lexus,LS 460,Base,Sedan,Automatic,jthbl5ef1e5127715,FL,44,26427,Black,Beige,enterprise fleet management exchange,56400,55500,2015-07-07,06:30:00
