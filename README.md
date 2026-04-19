@@ -1,7 +1,7 @@
 # Used Car Auction Sales Dashboard
 
 ## Overview
-This project analyzes real-world used car auction sales data using MySQL and Power BI. The goal was to clean and transform raw transaction data, calculate business-facing sales metrics, and build an interactive dashboard for trend analysis, regional comparisons, seller performance, and pricing behavior.
+This project analyzes real-world used car auction sales data using MySQL and Power BI. The goal was to clean and transform raw transaction data, calculate business-facing sales metrics, and build an interactive dashboard for trend analysis, regional comparisons, seller performance, and pricing behavior. I used the https://www.kaggle.com/datasets/tunguz/used-car-auction-prices dataset, public domain.
 
 ## Problem Statement
 The raw dataset was not immediately suitable for reporting. It contained inconsistent text values, mixed date formats, and fields that required validation and standardization before meaningful analysis could be performed. The project objective was to create an analysis-ready dataset in SQL and then build a Power BI dashboard that clearly presents sales performance and product trends.
