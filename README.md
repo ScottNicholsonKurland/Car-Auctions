@@ -1,114 +1,127 @@
 # Used Car Auction Sales Dashboard
 
-## Overview
-This project analyzes real-world used car auction sales data using MySQL and Power BI. The goal was to clean and transform raw transaction data, calculate business-facing sales metrics, and build an interactive dashboard for trend analysis, regional comparisons, seller performance, and pricing behavior. I used the https://www.kaggle.com/datasets/tunguz/used-car-auction-prices dataset, public domain.
+## Executive Summary
 
-## Problem Statement
-The raw dataset was not immediately suitable for reporting. It contained inconsistent text values, mixed date formats, and fields that required validation and standardization before meaningful analysis could be performed. The project objective was to create an analysis-ready dataset in SQL and then build a Power BI dashboard that clearly presents sales performance and product trends.
+This project uses MySQL and Power BI to clean, model, and visualize used-car auction transaction data.
+
+The project demonstrates an analyst workflow from messy raw transaction data to a reporting-ready dataset and interactive dashboard. The emphasis is on SQL cleaning, validation, metric design, and business-facing dashboard structure.
+
+## Business Question
+
+How can used-car auction data be cleaned and transformed into a dashboard that helps compare sales performance by time period, vehicle type, state, make/model, seller, mileage, and pricing against MMR?
 
 ## Tools Used
-- MySQL
+
+- MySQL 8.0+
 - Power BI
+- Excel / CSV
 - GitHub
-- Microsoft Word
 
 ## Dataset
-The dataset contains vehicle auction transaction records with fields such as:
-- sale date
-- make
-- model
-- trim
-- body type
+
+The project uses the public Kaggle used-car auction prices dataset.
+
+Important fields include:
+
+- sale date and sale time
+- make, model, trim, and body type
+- transmission
+- VIN
 - state
-- seller
+- vehicle condition
 - odometer
-- condition
+- seller
 - MMR
 - selling price
 
-## Methodology
+## SQL Cleaning Pipeline
 
-### 1. Data Cleaning and Transformation
-The raw CSV was imported into MySQL and cleaned through a structured SQL pipeline. The cleaning process included:
+The SQL workflow in `CarAuctions.sql` creates:
+
+- raw import table
+- profiling checks
+- cleaned analytical table
+- deduplicated table
+- indexes
+- reporting views
+- validation checks
+
+The cleaning process includes:
+
 - trimming and standardizing text fields
 - normalizing transmission values
-- standardizing state values
+- standardizing state abbreviations
 - parsing mixed-format sale dates
-- removing invalid or incomplete records
-- creating derived analytical columns such as vehicle age, price vs MMR, odometer band, condition band, and price band
+- removing invalid or incomplete rows
+- validating VIN length
+- bounding year, odometer, condition, selling price, and MMR values
+- creating derived analytical columns
 
-### 2. Calculations and Aggregations
-SQL was used to calculate the main reporting metrics, including:
-- total sales
-- vehicles sold
-- average selling price
-- average MMR
-- average price vs MMR
+## Derived Columns
 
-Aggregations were created across:
-- time
-- make
-- model
-- body type
-- state
-- seller
+The cleaned table creates business-facing fields including:
 
-### 3. Dashboard Development
-Power BI was used to create a two-page dashboard:
-- **Page 1:** Executive Overview
-- **Page 2:** Seller and Vehicle Analysis
+- `vehicle_age`
+- `price_vs_mmr`
+- `price_ratio_to_mmr`
+- `odometer_band`
+- `condition_band`
+- `price_band`
+- `sale_year_month`
 
-Interactive slicers and drill-down features were added to improve usability.
+## Reporting Views
 
-## Dashboard Features
+The SQL script builds reporting views for:
 
-### Executive Overview
-- Total Sales
-- Vehicles Sold
-- Average Selling Price
-- Average Price vs MMR
-- Distinct Sellers
-- Monthly Sales Trend
-- Top Makes by Total Sales
-- Sales by State
-- Vehicles Sold by Body Type
+- monthly sales
+- sales by make
+- sales by state
+- seller performance
 
-### Seller and Vehicle Analysis
-- Seller Performance table
-- Vehicle Mix Drilldown
-- Odometer vs Selling Price scatter plot
-- Transaction Detail table
+## Dashboard Pages
 
-## Key Insights
-- The dashboard reveals how total vehicle sales change over time.
-- It identifies which makes generate the highest total sales.
-- It shows which body types account for the most units sold.
-- It highlights which states contribute the strongest sales performance.
-- It shows seller-level differences in sales volume and pricing outcomes.
-- It demonstrates the relationship between odometer readings and selling price.
-- It compares actual selling prices against MMR benchmarks.
+The Power BI dashboard contains two main pages:
 
-## Challenges and Solutions
-One major challenge was cleaning mixed-format raw data. This was addressed using a SQL cleaning pipeline that standardized fields, parsed dates, removed invalid rows, and created derived columns for analysis.
+1. **Executive Overview**
+   - total sales
+   - vehicles sold
+   - average selling price
+   - average price vs MMR
+   - monthly sales trend
+   - top makes
+   - sales by state
+   - vehicles sold by body type
 
-Another challenge was adapting the assignment requirements to the structure of the dataset. Because the dataset was transaction-based rather than customer-based, the customer acquisition rate was not an appropriate metric. Seller performance and transaction volume were used instead as valid substitutes.
+2. **Seller and Vehicle Analysis**
+   - seller performance
+   - vehicle mix drilldown
+   - odometer vs selling price
+   - transaction detail table
 
-A final challenge was improving dashboard readability. Early layouts were too dense, so chart selection, spacing, titles, and KPI formatting were refined to make the final dashboard more professional and easier to interpret.
+## Files in This Repository
 
-## Optional Extension
-A light trend forecasting component was explored using Power BI’s built-in forecasting on the monthly sales trend. Because the dataset covers a limited time horizon, the forecast is treated as directional rather than a long-range predictive model.
+- `CarAuctions.sql` — MySQL cleaning, validation, deduplication, indexing, and reporting-view script
+- `Project2_PowerBI_Dashboard.pbix` — Power BI dashboard file
+- `car_prices_cleaned_1000_rows.csv` — cleaned sample data
+- `car_prices_cleaned_1000_rows.xlsx` — Excel version of cleaned sample data
+- `README.md` — project documentation
 
 ## How to Reproduce
-1. Import the CSV into MySQL.
-2. Run the SQL script to create the cleaned and reporting-ready tables/views.
-3. Open the Power BI file.
-4. Refresh the Power BI data connection.
-5. Review the dashboard pages and filters.
+
+1. Import the auction CSV into MySQL as `car_sales_raw`.
+2. Run `CarAuctions.sql`.
+3. Confirm validation checks return plausible row counts, dates, prices, odometer values, and state counts.
+4. Open `Project2_PowerBI_Dashboard.pbix`.
+5. Refresh the Power BI data connection.
+6. Review the dashboard pages and slicers.
 
 ## Portfolio Value
+
 This project demonstrates:
-- SQL data cleaning and transformation
-- aggregation and metric design
-- dashboard development in Power BI
-- business-oriented analysis
-- project documentation and presentation
+
+- SQL data cleaning
+- data validation
+- derived business metrics
+- SQL views for reporting
+- dashboard design in Power BI
+- communication of business insights from transactional data
