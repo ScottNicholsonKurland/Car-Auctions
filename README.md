@@ -98,12 +98,6 @@ A final challenge was improving dashboard readability. Early layouts were too de
 ## Optional Extension
 A light trend forecasting component was explored using Power BI’s built-in forecasting on the monthly sales trend. Because the dataset covers a limited time horizon, the forecast is treated as directional rather than a long-range predictive model.
 
-## Files in This Repository
-- `sql/Project2_SQL_Code.sql` — full SQL workflow
-- `powerbi/Project2_PowerBI_Dashboard.pbix` — Power BI dashboard
-- `screenshots/` — dashboard images
-- `docs/` — supporting Word documents
-
 ## How to Reproduce
 1. Import the CSV into MySQL.
 2. Run the SQL script to create the cleaned and reporting-ready tables/views.
